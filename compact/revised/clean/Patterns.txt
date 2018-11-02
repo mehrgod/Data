@@ -1,0 +1,90 @@
+x -1 s -1 #SUP: 2249
+x -1 s -1 x -1 #SUP: 1636
+x -1 s -1 p -1 #SUP: 541
+x -1 s -1 p -1 x -1 #SUP: 514
+x -1 b -1 #SUP: 3044
+x -1 b -1 x -1 #SUP: 2132
+x -1 b -1 s -1 #SUP: 655
+x -1 b -1 s -1 x -1 #SUP: 314
+x -1 b -1 s -1 p -1 #SUP: 279
+x -1 b -1 s -1 p -1 x -1 #SUP: 250
+x -1 b -1 p -1 #SUP: 166
+x -1 b -1 p -1 x -1 #SUP: 106
+x -1 f -1 #SUP: 1263
+x -1 f -1 x -1 #SUP: 178
+x -1 f -1 s -1 #SUP: 621
+x -1 f -1 s -1 x -1 #SUP: 389
+x -1 f -1 s -1 p -1 #SUP: 198
+x -1 f -1 s -1 p -1 x -1 #SUP: 181
+x -1 f -1 p -1 #SUP: 367
+x -1 f -1 p -1 s -1 #SUP: 271
+x -1 f -1 p -1 s -1 x -1 #SUP: 148
+x -1 f -1 p -1 s -1 p -1 #SUP: 104
+x -1 e -1 #SUP: 2109
+x -1 e -1 x -1 #SUP: 292
+x -1 e -1 s -1 #SUP: 571
+x -1 e -1 s -1 x -1 #SUP: 342
+x -1 e -1 s -1 p -1 #SUP: 176
+x -1 e -1 s -1 p -1 x -1 #SUP: 158
+x -1 e -1 b -1 #SUP: 508
+x -1 e -1 b -1 x -1 #SUP: 283
+x -1 e -1 b -1 s -1 #SUP: 120
+x -1 e -1 f -1 #SUP: 384
+x -1 e -1 f -1 s -1 #SUP: 154
+x -1 e -1 f -1 s -1 x -1 #SUP: 90
+x -1 e -1 f -1 p -1 #SUP: 96
+x -1 e -1 p -1 #SUP: 354
+x -1 e -1 p -1 b -1 #SUP: 133
+s -1 x -1 #SUP: 3350
+s -1 b -1 #SUP: 144
+s -1 f -1 #SUP: 209
+s -1 f -1 s -1 #SUP: 104
+s -1 p -1 #SUP: 1672
+s -1 p -1 x -1 #SUP: 1577
+s -1 p -1 f -1 #SUP: 121
+b -1 x -1 #SUP: 2691
+b -1 s -1 #SUP: 931
+b -1 s -1 x -1 #SUP: 472
+b -1 s -1 p -1 #SUP: 393
+b -1 s -1 p -1 x -1 #SUP: 346
+b -1 f -1 #SUP: 103
+b -1 p -1 #SUP: 315
+b -1 p -1 x -1 #SUP: 222
+f -1 x -1 #SUP: 301
+f -1 s -1 #SUP: 986
+f -1 s -1 x -1 #SUP: 558
+f -1 s -1 p -1 #SUP: 390
+f -1 s -1 p -1 x -1 #SUP: 367
+f -1 b -1 #SUP: 161
+f -1 p -1 #SUP: 589
+f -1 p -1 x -1 #SUP: 114
+f -1 p -1 s -1 #SUP: 411
+f -1 p -1 s -1 x -1 #SUP: 216
+f -1 p -1 s -1 p -1 #SUP: 169
+f -1 p -1 s -1 p -1 x -1 #SUP: 135
+f -1 e -1 #SUP: 134
+p -1 x -1 #SUP: 1987
+p -1 s -1 #SUP: 587
+p -1 s -1 x -1 #SUP: 309
+p -1 s -1 p -1 #SUP: 224
+p -1 s -1 p -1 x -1 #SUP: 173
+p -1 b -1 #SUP: 238
+p -1 b -1 x -1 #SUP: 113
+p -1 f -1 #SUP: 209
+p -1 f -1 s -1 #SUP: 88
+e -1 x -1 #SUP: 336
+e -1 s -1 #SUP: 629
+e -1 s -1 x -1 #SUP: 375
+e -1 s -1 p -1 #SUP: 196
+e -1 s -1 p -1 x -1 #SUP: 177
+e -1 b -1 #SUP: 570
+e -1 b -1 x -1 #SUP: 310
+e -1 b -1 s -1 #SUP: 142
+e -1 b -1 p -1 #SUP: 92
+e -1 f -1 #SUP: 423
+e -1 f -1 s -1 #SUP: 175
+e -1 f -1 s -1 x -1 #SUP: 102
+e -1 f -1 p -1 #SUP: 113
+e -1 p -1 #SUP: 392
+e -1 p -1 s -1 #SUP: 91
+e -1 p -1 b -1 #SUP: 149

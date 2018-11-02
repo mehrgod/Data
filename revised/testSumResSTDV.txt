@@ -1,0 +1,16 @@
+cluster 0 low performance: 
+3.0,2.5,2.5,5.5,6.0
+2.0,0.5,0.5,1.5,1.0
+
+cluster 1 low performance: 
+1.0,1.0,1.0,1.0,1.0
+0.0,0.0,0.0,0.0,0.0
+
+cluster 0 hi performance: 
+6.0,6.0,6.0,6.0,6.0
+0.0,0.0,0.0,0.0,0.0
+
+cluster 1 hi performance: 
+4.0,4.0,4.0,4.0,4.0
+0.0,0.0,0.0,0.0,0.0
+
