@@ -1,0 +1,4 @@
+					Mean			SE
+Within easy			0.277468273		0.041281677
+Within hard			0.42513575		0.016355206
+Between easy-hard	0.474384173		0.029970384

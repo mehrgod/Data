@@ -1,0 +1,170 @@
+x -1 #SUP: 11468
+e -1 #SUP: 2250
+b -1 #SUP: 5476
+i -1 #SUP: 2170
+h -1 #SUP: 3103
+s -1 #SUP: 4170
+f -1 #SUP: 1406
+x -1 e -1 #SUP: 1443
+x -1 e -1 x -1 #SUP: 285
+x -1 e -1 e -1 #SUP: 595
+x -1 e -1 e -1 e -1 #SUP: 366
+x -1 e -1 e -1 e -1 e -1 #SUP: 223
+x -1 e -1 e -1 e -1 e -1 e -1 #SUP: 144
+x -1 e -1 e -1 i -1 #SUP: 158
+x -1 e -1 i -1 #SUP: 563
+x -1 e -1 i -1 e -1 #SUP: 187
+x -1 e -1 i -1 i -1 #SUP: 293
+x -1 e -1 i -1 i -1 i -1 #SUP: 127
+x -1 b -1 #SUP: 4349
+x -1 b -1 x -1 #SUP: 3063
+x -1 b -1 b -1 #SUP: 185
+x -1 b -1 s -1 #SUP: 974
+x -1 b -1 s -1 x -1 #SUP: 452
+x -1 b -1 s -1 s -1 #SUP: 449
+x -1 b -1 s -1 s -1 x -1 #SUP: 232
+x -1 b -1 s -1 s -1 s -1 #SUP: 191
+x -1 i -1 #SUP: 1294
+x -1 i -1 x -1 #SUP: 222
+x -1 i -1 e -1 #SUP: 292
+x -1 i -1 e -1 e -1 #SUP: 137
+x -1 i -1 i -1 #SUP: 780
+x -1 i -1 i -1 e -1 #SUP: 206
+x -1 i -1 i -1 i -1 #SUP: 482
+x -1 i -1 i -1 i -1 e -1 #SUP: 150
+x -1 i -1 i -1 i -1 i -1 #SUP: 259
+x -1 i -1 i -1 i -1 i -1 i -1 #SUP: 134
+x -1 h -1 #SUP: 2956
+x -1 h -1 x -1 #SUP: 424
+x -1 h -1 b -1 #SUP: 630
+x -1 h -1 b -1 x -1 #SUP: 360
+x -1 h -1 b -1 s -1 #SUP: 187
+x -1 h -1 h -1 #SUP: 486
+x -1 h -1 h -1 s -1 #SUP: 127
+x -1 h -1 s -1 #SUP: 901
+x -1 h -1 s -1 x -1 #SUP: 545
+x -1 h -1 s -1 s -1 #SUP: 280
+x -1 h -1 s -1 s -1 x -1 #SUP: 137
+x -1 h -1 s -1 s -1 s -1 #SUP: 128
+x -1 h -1 f -1 #SUP: 515
+x -1 h -1 f -1 s -1 #SUP: 197
+x -1 h -1 f -1 f -1 #SUP: 128
+x -1 s -1 #SUP: 983
+x -1 s -1 x -1 #SUP: 732
+x -1 s -1 s -1 #SUP: 217
+x -1 s -1 s -1 x -1 #SUP: 128
+x -1 f -1 #SUP: 443
+x -1 f -1 s -1 #SUP: 156
+e -1 x -1 #SUP: 1368
+e -1 e -1 #SUP: 1156
+e -1 e -1 x -1 #SUP: 597
+e -1 e -1 e -1 #SUP: 671
+e -1 e -1 e -1 x -1 #SUP: 383
+e -1 e -1 e -1 e -1 #SUP: 366
+e -1 e -1 e -1 e -1 x -1 #SUP: 223
+e -1 e -1 e -1 e -1 e -1 #SUP: 219
+e -1 e -1 e -1 e -1 e -1 x -1 #SUP: 123
+e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 140
+e -1 e -1 e -1 e -1 i -1 #SUP: 149
+e -1 e -1 e -1 i -1 #SUP: 310
+e -1 e -1 e -1 i -1 x -1 #SUP: 187
+e -1 e -1 i -1 #SUP: 616
+e -1 e -1 i -1 x -1 #SUP: 321
+e -1 e -1 i -1 e -1 #SUP: 160
+e -1 e -1 i -1 i -1 #SUP: 200
+e -1 i -1 #SUP: 1309
+e -1 i -1 x -1 #SUP: 564
+e -1 i -1 e -1 #SUP: 426
+e -1 i -1 e -1 x -1 #SUP: 130
+e -1 i -1 e -1 e -1 #SUP: 213
+e -1 i -1 e -1 e -1 e -1 #SUP: 120
+e -1 i -1 e -1 i -1 #SUP: 149
+e -1 i -1 i -1 #SUP: 639
+e -1 i -1 i -1 x -1 #SUP: 191
+e -1 i -1 i -1 e -1 #SUP: 219
+e -1 i -1 i -1 i -1 #SUP: 284
+e -1 i -1 i -1 i -1 i -1 #SUP: 130
+b -1 x -1 #SUP: 3926
+b -1 b -1 #SUP: 276
+b -1 b -1 x -1 #SUP: 170
+b -1 s -1 #SUP: 1456
+b -1 s -1 x -1 #SUP: 709
+b -1 s -1 s -1 #SUP: 663
+b -1 s -1 s -1 x -1 #SUP: 319
+b -1 s -1 s -1 s -1 #SUP: 301
+b -1 s -1 s -1 s -1 x -1 #SUP: 141
+b -1 s -1 s -1 s -1 s -1 #SUP: 143
+b -1 f -1 #SUP: 172
+i -1 x -1 #SUP: 1369
+i -1 e -1 #SUP: 1294
+i -1 e -1 x -1 #SUP: 486
+i -1 e -1 e -1 #SUP: 623
+i -1 e -1 e -1 x -1 #SUP: 143
+i -1 e -1 e -1 e -1 #SUP: 327
+i -1 e -1 e -1 e -1 e -1 #SUP: 153
+i -1 e -1 e -1 i -1 #SUP: 202
+i -1 e -1 i -1 #SUP: 445
+i -1 e -1 i -1 x -1 #SUP: 160
+i -1 e -1 i -1 e -1 #SUP: 152
+i -1 e -1 i -1 i -1 #SUP: 204
+i -1 i -1 #SUP: 1282
+i -1 i -1 x -1 #SUP: 583
+i -1 i -1 e -1 #SUP: 804
+i -1 i -1 e -1 x -1 #SUP: 295
+i -1 i -1 e -1 e -1 #SUP: 328
+i -1 i -1 e -1 e -1 e -1 #SUP: 167
+i -1 i -1 e -1 i -1 #SUP: 262
+i -1 i -1 e -1 i -1 i -1 #SUP: 118
+i -1 i -1 i -1 #SUP: 723
+i -1 i -1 i -1 x -1 #SUP: 300
+i -1 i -1 i -1 e -1 #SUP: 451
+i -1 i -1 i -1 e -1 x -1 #SUP: 147
+i -1 i -1 i -1 e -1 e -1 #SUP: 176
+i -1 i -1 i -1 e -1 i -1 #SUP: 156
+i -1 i -1 i -1 i -1 #SUP: 374
+i -1 i -1 i -1 i -1 x -1 #SUP: 157
+i -1 i -1 i -1 i -1 e -1 #SUP: 227
+i -1 i -1 i -1 i -1 i -1 #SUP: 200
+i -1 i -1 i -1 i -1 i -1 e -1 #SUP: 127
+h -1 x -1 #SUP: 573
+h -1 b -1 #SUP: 828
+h -1 b -1 x -1 #SUP: 458
+h -1 b -1 s -1 #SUP: 250
+h -1 h -1 #SUP: 546
+h -1 h -1 b -1 #SUP: 151
+h -1 h -1 s -1 #SUP: 160
+h -1 h -1 f -1 #SUP: 140
+h -1 s -1 #SUP: 1153
+h -1 s -1 x -1 #SUP: 690
+h -1 s -1 s -1 #SUP: 361
+h -1 s -1 s -1 x -1 #SUP: 166
+h -1 s -1 s -1 s -1 #SUP: 168
+h -1 f -1 #SUP: 680
+h -1 f -1 s -1 #SUP: 258
+h -1 f -1 s -1 x -1 #SUP: 141
+h -1 f -1 f -1 #SUP: 191
+s -1 x -1 #SUP: 3950
+s -1 b -1 #SUP: 216
+s -1 b -1 x -1 #SUP: 119
+s -1 s -1 #SUP: 1516
+s -1 s -1 x -1 #SUP: 1414
+s -1 s -1 s -1 #SUP: 735
+s -1 s -1 s -1 x -1 #SUP: 685
+s -1 s -1 s -1 s -1 #SUP: 373
+s -1 s -1 s -1 s -1 x -1 #SUP: 347
+s -1 s -1 s -1 s -1 s -1 #SUP: 192
+s -1 s -1 s -1 s -1 s -1 x -1 #SUP: 183
+s -1 f -1 #SUP: 254
+s -1 f -1 s -1 #SUP: 124
+f -1 x -1 #SUP: 282
+f -1 b -1 #SUP: 276
+f -1 b -1 x -1 #SUP: 116
+f -1 b -1 s -1 #SUP: 119
+f -1 h -1 #SUP: 209
+f -1 s -1 #SUP: 788
+f -1 s -1 x -1 #SUP: 405
+f -1 s -1 s -1 #SUP: 332
+f -1 s -1 s -1 x -1 #SUP: 116
+f -1 s -1 s -1 s -1 #SUP: 196
+f -1 f -1 #SUP: 367
+f -1 f -1 s -1 #SUP: 218
