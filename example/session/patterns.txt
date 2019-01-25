@@ -1,0 +1,2604 @@
+x -1 e -1 #SUP: 177
+x -1 e -1 x -1 #SUP: 17
+x -1 e -1 e -1 #SUP: 113
+x -1 e -1 e -1 x -1 #SUP: 9
+x -1 e -1 e -1 e -1 #SUP: 70
+x -1 e -1 e -1 e -1 x -1 #SUP: 7
+x -1 e -1 e -1 e -1 e -1 #SUP: 33
+x -1 e -1 e -1 e -1 e -1 e -1 #SUP: 16
+x -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 11
+x -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 10
+x -1 e -1 e -1 e -1 e -1 h -1 #SUP: 9
+x -1 e -1 e -1 e -1 b -1 #SUP: 13
+x -1 e -1 e -1 e -1 b -1 b -1 #SUP: 8
+x -1 e -1 e -1 i -1 #SUP: 16
+x -1 e -1 e -1 i -1 e -1 #SUP: 11
+x -1 e -1 e -1 h -1 #SUP: 11
+x -1 e -1 b -1 #SUP: 28
+x -1 e -1 b -1 b -1 #SUP: 13
+x -1 e -1 b -1 b -1 b -1 #SUP: 8
+x -1 e -1 b -1 s -1 #SUP: 7
+x -1 e -1 h -1 #SUP: 11
+x -1 b -1 #SUP: 232
+x -1 b -1 x -1 #SUP: 11
+x -1 b -1 b -1 #SUP: 96
+x -1 b -1 b -1 b -1 #SUP: 62
+x -1 b -1 b -1 b -1 b -1 #SUP: 28
+x -1 b -1 b -1 b -1 b -1 b -1 #SUP: 21
+x -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 9
+x -1 b -1 b -1 b -1 b -1 b -1 h -1 #SUP: 7
+x -1 b -1 b -1 b -1 h -1 #SUP: 19
+x -1 b -1 b -1 b -1 h -1 b -1 #SUP: 9
+x -1 b -1 b -1 b -1 h -1 b -1 b -1 #SUP: 8
+x -1 b -1 b -1 b -1 s -1 #SUP: 8
+x -1 b -1 b -1 h -1 #SUP: 12
+x -1 b -1 b -1 s -1 #SUP: 18
+x -1 b -1 b -1 s -1 b -1 #SUP: 7
+x -1 b -1 h -1 #SUP: 31
+x -1 b -1 h -1 b -1 #SUP: 11
+x -1 b -1 h -1 s -1 #SUP: 11
+x -1 b -1 h -1 s -1 b -1 #SUP: 8
+x -1 b -1 h -1 f -1 #SUP: 7
+x -1 b -1 s -1 #SUP: 86
+x -1 b -1 s -1 b -1 #SUP: 30
+x -1 b -1 s -1 b -1 b -1 #SUP: 16
+x -1 b -1 s -1 b -1 s -1 #SUP: 8
+x -1 b -1 s -1 h -1 #SUP: 11
+x -1 b -1 s -1 s -1 #SUP: 40
+x -1 b -1 s -1 s -1 b -1 #SUP: 10
+x -1 b -1 s -1 s -1 b -1 s -1 #SUP: 8
+x -1 b -1 s -1 s -1 s -1 #SUP: 21
+x -1 b -1 s -1 s -1 s -1 s -1 #SUP: 13
+x -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 10
+x -1 i -1 #SUP: 64
+x -1 i -1 e -1 #SUP: 23
+x -1 i -1 e -1 e -1 #SUP: 12
+x -1 i -1 i -1 #SUP: 31
+x -1 i -1 i -1 e -1 #SUP: 12
+x -1 i -1 i -1 i -1 #SUP: 13
+x -1 i -1 i -1 i -1 i -1 #SUP: 8
+x -1 h -1 #SUP: 153
+x -1 h -1 b -1 #SUP: 30
+x -1 h -1 b -1 h -1 #SUP: 10
+x -1 h -1 b -1 s -1 #SUP: 12
+x -1 h -1 h -1 #SUP: 31
+x -1 h -1 h -1 b -1 #SUP: 8
+x -1 h -1 h -1 h -1 #SUP: 8
+x -1 h -1 h -1 s -1 #SUP: 7
+x -1 h -1 s -1 #SUP: 46
+x -1 h -1 s -1 b -1 #SUP: 14
+x -1 h -1 s -1 h -1 #SUP: 8
+x -1 h -1 s -1 s -1 #SUP: 19
+x -1 h -1 s -1 s -1 s -1 #SUP: 8
+x -1 h -1 f -1 #SUP: 39
+x -1 h -1 f -1 s -1 #SUP: 13
+x -1 h -1 f -1 f -1 #SUP: 15
+x -1 h -1 f -1 f -1 s -1 #SUP: 9
+x -1 s -1 #SUP: 19
+x -1 s -1 s -1 #SUP: 9
+x -1 f -1 #SUP: 31
+x -1 f -1 h -1 #SUP: 12
+e -1 x -1 #SUP: 163
+e -1 e -1 #SUP: 274
+e -1 e -1 x -1 #SUP: 94
+e -1 e -1 e -1 #SUP: 183
+e -1 e -1 e -1 x -1 #SUP: 63
+e -1 e -1 e -1 e -1 #SUP: 113
+e -1 e -1 e -1 e -1 x -1 #SUP: 44
+e -1 e -1 e -1 e -1 e -1 #SUP: 72
+e -1 e -1 e -1 e -1 e -1 x -1 #SUP: 26
+e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 54
+e -1 e -1 e -1 e -1 e -1 e -1 x -1 #SUP: 21
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 42
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 x -1 #SUP: 18
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 26
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 x -1 #SUP: 12
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 21
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 x -1 #SUP: 11
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 20
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 x -1 #SUP: 11
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 17
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 x -1 #SUP: 10
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 13
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 x -1 #SUP: 7
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 10
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 9
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 7
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 7
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 7
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 b -1 #SUP: 7
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 b -1 #SUP: 13
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 b -1 s -1 #SUP: 8
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 i -1 #SUP: 10
+e -1 e -1 e -1 e -1 e -1 e -1 e -1 i -1 e -1 #SUP: 8
+e -1 e -1 e -1 e -1 e -1 e -1 b -1 #SUP: 17
+e -1 e -1 e -1 e -1 e -1 e -1 b -1 s -1 #SUP: 10
+e -1 e -1 e -1 e -1 e -1 e -1 i -1 #SUP: 12
+e -1 e -1 e -1 e -1 e -1 e -1 i -1 e -1 #SUP: 9
+e -1 e -1 e -1 e -1 e -1 e -1 i -1 e -1 e -1 #SUP: 7
+e -1 e -1 e -1 e -1 e -1 e -1 h -1 #SUP: 7
+e -1 e -1 e -1 e -1 e -1 b -1 #SUP: 21
+e -1 e -1 e -1 e -1 e -1 b -1 b -1 #SUP: 8
+e -1 e -1 e -1 e -1 e -1 b -1 s -1 #SUP: 11
+e -1 e -1 e -1 e -1 e -1 i -1 #SUP: 19
+e -1 e -1 e -1 e -1 e -1 i -1 e -1 #SUP: 12
+e -1 e -1 e -1 e -1 e -1 i -1 e -1 e -1 #SUP: 8
+e -1 e -1 e -1 e -1 e -1 h -1 #SUP: 13
+e -1 e -1 e -1 e -1 e -1 h -1 s -1 #SUP: 7
+e -1 e -1 e -1 e -1 b -1 #SUP: 28
+e -1 e -1 e -1 e -1 b -1 b -1 #SUP: 11
+e -1 e -1 e -1 e -1 b -1 s -1 #SUP: 15
+e -1 e -1 e -1 e -1 b -1 s -1 b -1 #SUP: 7
+e -1 e -1 e -1 e -1 b -1 s -1 s -1 #SUP: 7
+e -1 e -1 e -1 e -1 i -1 #SUP: 21
+e -1 e -1 e -1 e -1 i -1 e -1 #SUP: 13
+e -1 e -1 e -1 e -1 i -1 e -1 e -1 #SUP: 9
+e -1 e -1 e -1 e -1 h -1 #SUP: 36
+e -1 e -1 e -1 e -1 h -1 b -1 #SUP: 10
+e -1 e -1 e -1 e -1 h -1 s -1 #SUP: 17
+e -1 e -1 e -1 b -1 #SUP: 54
+e -1 e -1 e -1 b -1 b -1 #SUP: 24
+e -1 e -1 e -1 b -1 b -1 b -1 #SUP: 16
+e -1 e -1 e -1 b -1 b -1 b -1 b -1 #SUP: 8
+e -1 e -1 e -1 b -1 s -1 #SUP: 25
+e -1 e -1 e -1 b -1 s -1 b -1 #SUP: 13
+e -1 e -1 e -1 b -1 s -1 s -1 #SUP: 11
+e -1 e -1 e -1 i -1 #SUP: 31
+e -1 e -1 e -1 i -1 e -1 #SUP: 18
+e -1 e -1 e -1 i -1 e -1 e -1 #SUP: 11
+e -1 e -1 e -1 i -1 e -1 e -1 e -1 #SUP: 8
+e -1 e -1 e -1 i -1 e -1 e -1 e -1 e -1 #SUP: 7
+e -1 e -1 e -1 i -1 i -1 #SUP: 8
+e -1 e -1 e -1 h -1 #SUP: 71
+e -1 e -1 e -1 h -1 b -1 #SUP: 17
+e -1 e -1 e -1 h -1 b -1 s -1 #SUP: 10
+e -1 e -1 e -1 h -1 h -1 #SUP: 17
+e -1 e -1 e -1 h -1 h -1 s -1 #SUP: 7
+e -1 e -1 e -1 h -1 s -1 #SUP: 32
+e -1 e -1 e -1 h -1 s -1 b -1 #SUP: 11
+e -1 e -1 e -1 h -1 s -1 b -1 b -1 #SUP: 8
+e -1 e -1 e -1 h -1 s -1 s -1 #SUP: 10
+e -1 e -1 e -1 h -1 f -1 #SUP: 12
+e -1 e -1 e -1 h -1 f -1 s -1 #SUP: 7
+e -1 e -1 e -1 s -1 #SUP: 7
+e -1 e -1 e -1 f -1 #SUP: 10
+e -1 e -1 b -1 #SUP: 96
+e -1 e -1 b -1 b -1 #SUP: 42
+e -1 e -1 b -1 b -1 b -1 #SUP: 25
+e -1 e -1 b -1 b -1 b -1 b -1 #SUP: 12
+e -1 e -1 b -1 b -1 b -1 b -1 b -1 #SUP: 9
+e -1 e -1 b -1 b -1 b -1 h -1 #SUP: 7
+e -1 e -1 b -1 b -1 h -1 #SUP: 8
+e -1 e -1 b -1 b -1 s -1 #SUP: 11
+e -1 e -1 b -1 h -1 #SUP: 21
+e -1 e -1 b -1 h -1 s -1 #SUP: 11
+e -1 e -1 b -1 s -1 #SUP: 38
+e -1 e -1 b -1 s -1 b -1 #SUP: 17
+e -1 e -1 b -1 s -1 b -1 b -1 #SUP: 7
+e -1 e -1 b -1 s -1 b -1 s -1 #SUP: 7
+e -1 e -1 b -1 s -1 s -1 #SUP: 19
+e -1 e -1 b -1 s -1 s -1 s -1 #SUP: 10
+e -1 e -1 i -1 #SUP: 62
+e -1 e -1 i -1 e -1 #SUP: 40
+e -1 e -1 i -1 e -1 e -1 #SUP: 19
+e -1 e -1 i -1 e -1 e -1 e -1 #SUP: 14
+e -1 e -1 i -1 e -1 e -1 e -1 e -1 #SUP: 10
+e -1 e -1 i -1 e -1 e -1 e -1 e -1 e -1 #SUP: 7
+e -1 e -1 i -1 i -1 #SUP: 19
+e -1 e -1 i -1 i -1 e -1 #SUP: 9
+e -1 e -1 h -1 #SUP: 112
+e -1 e -1 h -1 b -1 #SUP: 29
+e -1 e -1 h -1 b -1 b -1 #SUP: 8
+e -1 e -1 h -1 b -1 s -1 #SUP: 16
+e -1 e -1 h -1 b -1 s -1 s -1 #SUP: 10
+e -1 e -1 h -1 h -1 #SUP: 33
+e -1 e -1 h -1 h -1 s -1 #SUP: 14
+e -1 e -1 h -1 h -1 s -1 s -1 #SUP: 7
+e -1 e -1 h -1 s -1 #SUP: 50
+e -1 e -1 h -1 s -1 b -1 #SUP: 14
+e -1 e -1 h -1 s -1 b -1 b -1 #SUP: 9
+e -1 e -1 h -1 s -1 h -1 #SUP: 16
+e -1 e -1 h -1 s -1 h -1 s -1 #SUP: 8
+e -1 e -1 h -1 s -1 s -1 #SUP: 14
+e -1 e -1 h -1 f -1 #SUP: 24
+e -1 e -1 h -1 f -1 s -1 #SUP: 11
+e -1 e -1 s -1 #SUP: 18
+e -1 e -1 s -1 h -1 #SUP: 7
+e -1 e -1 s -1 s -1 #SUP: 7
+e -1 e -1 f -1 #SUP: 15
+e -1 b -1 #SUP: 154
+e -1 b -1 b -1 #SUP: 74
+e -1 b -1 b -1 b -1 #SUP: 49
+e -1 b -1 b -1 b -1 b -1 #SUP: 29
+e -1 b -1 b -1 b -1 b -1 b -1 #SUP: 17
+e -1 b -1 b -1 b -1 b -1 b -1 e -1 #SUP: 9
+e -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 7
+e -1 b -1 b -1 b -1 b -1 h -1 #SUP: 8
+e -1 b -1 b -1 b -1 h -1 #SUP: 15
+e -1 b -1 b -1 b -1 h -1 b -1 #SUP: 8
+e -1 b -1 b -1 b -1 s -1 #SUP: 7
+e -1 b -1 b -1 h -1 #SUP: 9
+e -1 b -1 b -1 s -1 #SUP: 20
+e -1 b -1 b -1 s -1 s -1 #SUP: 7
+e -1 b -1 h -1 #SUP: 37
+e -1 b -1 h -1 b -1 #SUP: 9
+e -1 b -1 h -1 s -1 #SUP: 18
+e -1 b -1 h -1 s -1 b -1 #SUP: 8
+e -1 b -1 h -1 f -1 #SUP: 8
+e -1 b -1 s -1 #SUP: 56
+e -1 b -1 s -1 b -1 #SUP: 20
+e -1 b -1 s -1 b -1 b -1 #SUP: 9
+e -1 b -1 s -1 b -1 s -1 #SUP: 8
+e -1 b -1 s -1 s -1 #SUP: 32
+e -1 b -1 s -1 s -1 b -1 #SUP: 10
+e -1 b -1 s -1 s -1 b -1 s -1 #SUP: 7
+e -1 b -1 s -1 s -1 s -1 #SUP: 16
+e -1 b -1 s -1 s -1 s -1 s -1 #SUP: 10
+e -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 8
+e -1 b -1 f -1 #SUP: 12
+e -1 b -1 f -1 s -1 #SUP: 8
+e -1 i -1 #SUP: 99
+e -1 i -1 x -1 #SUP: 10
+e -1 i -1 e -1 #SUP: 62
+e -1 i -1 e -1 e -1 #SUP: 28
+e -1 i -1 e -1 e -1 e -1 #SUP: 20
+e -1 i -1 e -1 e -1 e -1 e -1 #SUP: 14
+e -1 i -1 e -1 e -1 e -1 e -1 e -1 #SUP: 11
+e -1 i -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 7
+e -1 i -1 e -1 b -1 #SUP: 14
+e -1 i -1 e -1 i -1 #SUP: 14
+e -1 i -1 e -1 i -1 i -1 #SUP: 8
+e -1 i -1 e -1 h -1 #SUP: 10
+e -1 i -1 b -1 #SUP: 14
+e -1 i -1 b -1 b -1 #SUP: 7
+e -1 i -1 i -1 #SUP: 34
+e -1 i -1 i -1 e -1 #SUP: 16
+e -1 i -1 i -1 e -1 e -1 #SUP: 9
+e -1 i -1 i -1 i -1 #SUP: 11
+e -1 i -1 i -1 i -1 i -1 #SUP: 7
+e -1 i -1 h -1 #SUP: 11
+e -1 h -1 #SUP: 163
+e -1 h -1 b -1 #SUP: 49
+e -1 h -1 b -1 b -1 #SUP: 15
+e -1 h -1 b -1 b -1 b -1 #SUP: 9
+e -1 h -1 b -1 h -1 #SUP: 8
+e -1 h -1 b -1 s -1 #SUP: 25
+e -1 h -1 b -1 s -1 s -1 #SUP: 14
+e -1 h -1 b -1 s -1 s -1 s -1 #SUP: 8
+e -1 h -1 h -1 #SUP: 51
+e -1 h -1 h -1 b -1 #SUP: 9
+e -1 h -1 h -1 h -1 #SUP: 9
+e -1 h -1 h -1 s -1 #SUP: 20
+e -1 h -1 h -1 s -1 s -1 #SUP: 10
+e -1 h -1 h -1 f -1 #SUP: 10
+e -1 h -1 s -1 #SUP: 71
+e -1 h -1 s -1 b -1 #SUP: 25
+e -1 h -1 s -1 b -1 b -1 #SUP: 11
+e -1 h -1 s -1 b -1 h -1 #SUP: 8
+e -1 h -1 s -1 h -1 #SUP: 21
+e -1 h -1 s -1 h -1 s -1 #SUP: 11
+e -1 h -1 s -1 s -1 #SUP: 21
+e -1 h -1 s -1 s -1 s -1 #SUP: 9
+e -1 h -1 f -1 #SUP: 38
+e -1 h -1 f -1 s -1 #SUP: 18
+e -1 h -1 f -1 s -1 s -1 #SUP: 9
+e -1 h -1 f -1 f -1 #SUP: 8
+e -1 s -1 #SUP: 25
+e -1 s -1 h -1 #SUP: 10
+e -1 s -1 s -1 #SUP: 10
+e -1 f -1 #SUP: 20
+e -1 f -1 f -1 #SUP: 8
+b -1 x -1 #SUP: 157
+b -1 e -1 #SUP: 105
+b -1 e -1 x -1 #SUP: 14
+b -1 e -1 e -1 #SUP: 68
+b -1 e -1 e -1 e -1 #SUP: 51
+b -1 e -1 e -1 e -1 e -1 #SUP: 33
+b -1 e -1 e -1 e -1 e -1 x -1 #SUP: 7
+b -1 e -1 e -1 e -1 e -1 e -1 #SUP: 19
+b -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 15
+b -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 11
+b -1 e -1 e -1 e -1 h -1 #SUP: 9
+b -1 e -1 e -1 b -1 #SUP: 9
+b -1 e -1 e -1 h -1 #SUP: 7
+b -1 e -1 b -1 #SUP: 17
+b -1 e -1 b -1 b -1 #SUP: 12
+b -1 e -1 b -1 b -1 b -1 #SUP: 9
+b -1 e -1 b -1 b -1 b -1 b -1 #SUP: 9
+b -1 e -1 i -1 #SUP: 18
+b -1 e -1 i -1 e -1 #SUP: 12
+b -1 e -1 h -1 #SUP: 14
+b -1 b -1 #SUP: 394
+b -1 b -1 x -1 #SUP: 69
+b -1 b -1 e -1 #SUP: 59
+b -1 b -1 e -1 x -1 #SUP: 11
+b -1 b -1 e -1 e -1 #SUP: 36
+b -1 b -1 e -1 e -1 e -1 #SUP: 26
+b -1 b -1 e -1 e -1 e -1 e -1 #SUP: 16
+b -1 b -1 e -1 e -1 e -1 e -1 e -1 #SUP: 12
+b -1 b -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 11
+b -1 b -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 8
+b -1 b -1 e -1 b -1 #SUP: 9
+b -1 b -1 e -1 b -1 b -1 #SUP: 7
+b -1 b -1 e -1 b -1 b -1 b -1 #SUP: 7
+b -1 b -1 e -1 b -1 b -1 b -1 b -1 #SUP: 7
+b -1 b -1 e -1 i -1 #SUP: 13
+b -1 b -1 e -1 i -1 e -1 #SUP: 9
+b -1 b -1 b -1 #SUP: 265
+b -1 b -1 b -1 x -1 #SUP: 34
+b -1 b -1 b -1 e -1 #SUP: 37
+b -1 b -1 b -1 e -1 x -1 #SUP: 8
+b -1 b -1 b -1 e -1 e -1 #SUP: 22
+b -1 b -1 b -1 e -1 e -1 e -1 #SUP: 12
+b -1 b -1 b -1 e -1 e -1 e -1 e -1 #SUP: 7
+b -1 b -1 b -1 e -1 b -1 #SUP: 7
+b -1 b -1 b -1 e -1 i -1 #SUP: 7
+b -1 b -1 b -1 b -1 #SUP: 162
+b -1 b -1 b -1 b -1 x -1 #SUP: 22
+b -1 b -1 b -1 b -1 e -1 #SUP: 29
+b -1 b -1 b -1 b -1 e -1 e -1 #SUP: 13
+b -1 b -1 b -1 b -1 e -1 e -1 e -1 #SUP: 7
+b -1 b -1 b -1 b -1 b -1 #SUP: 104
+b -1 b -1 b -1 b -1 b -1 x -1 #SUP: 13
+b -1 b -1 b -1 b -1 b -1 e -1 #SUP: 18
+b -1 b -1 b -1 b -1 b -1 e -1 e -1 #SUP: 8
+b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 53
+b -1 b -1 b -1 b -1 b -1 b -1 x -1 #SUP: 7
+b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 33
+b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 26
+b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 23
+b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 12
+b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 h -1 #SUP: 8
+b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 h -1 #SUP: 15
+b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 h -1 #SUP: 16
+b -1 b -1 b -1 b -1 b -1 b -1 b -1 h -1 #SUP: 22
+b -1 b -1 b -1 b -1 b -1 b -1 b -1 h -1 b -1 #SUP: 9
+b -1 b -1 b -1 b -1 b -1 b -1 b -1 h -1 s -1 #SUP: 9
+b -1 b -1 b -1 b -1 b -1 b -1 h -1 #SUP: 30
+b -1 b -1 b -1 b -1 b -1 b -1 h -1 b -1 #SUP: 12
+b -1 b -1 b -1 b -1 b -1 b -1 h -1 s -1 #SUP: 12
+b -1 b -1 b -1 b -1 b -1 b -1 h -1 s -1 b -1 #SUP: 8
+b -1 b -1 b -1 b -1 b -1 b -1 s -1 #SUP: 12
+b -1 b -1 b -1 b -1 b -1 b -1 s -1 b -1 #SUP: 9
+b -1 b -1 b -1 b -1 b -1 i -1 #SUP: 10
+b -1 b -1 b -1 b -1 b -1 i -1 i -1 #SUP: 7
+b -1 b -1 b -1 b -1 b -1 h -1 #SUP: 50
+b -1 b -1 b -1 b -1 b -1 h -1 b -1 #SUP: 19
+b -1 b -1 b -1 b -1 b -1 h -1 b -1 b -1 #SUP: 10
+b -1 b -1 b -1 b -1 b -1 h -1 b -1 b -1 b -1 #SUP: 8
+b -1 b -1 b -1 b -1 b -1 h -1 h -1 #SUP: 9
+b -1 b -1 b -1 b -1 b -1 h -1 s -1 #SUP: 19
+b -1 b -1 b -1 b -1 b -1 h -1 s -1 b -1 #SUP: 12
+b -1 b -1 b -1 b -1 b -1 h -1 s -1 b -1 b -1 #SUP: 7
+b -1 b -1 b -1 b -1 b -1 h -1 s -1 b -1 h -1 #SUP: 7
+b -1 b -1 b -1 b -1 b -1 s -1 #SUP: 21
+b -1 b -1 b -1 b -1 b -1 s -1 b -1 #SUP: 13
+b -1 b -1 b -1 b -1 b -1 s -1 s -1 #SUP: 7
+b -1 b -1 b -1 b -1 b -1 f -1 #SUP: 9
+b -1 b -1 b -1 b -1 i -1 #SUP: 16
+b -1 b -1 b -1 b -1 i -1 e -1 #SUP: 8
+b -1 b -1 b -1 b -1 i -1 i -1 #SUP: 9
+b -1 b -1 b -1 b -1 h -1 #SUP: 87
+b -1 b -1 b -1 b -1 h -1 b -1 #SUP: 37
+b -1 b -1 b -1 b -1 h -1 b -1 b -1 #SUP: 17
+b -1 b -1 b -1 b -1 h -1 b -1 b -1 b -1 #SUP: 11
+b -1 b -1 b -1 b -1 h -1 b -1 h -1 #SUP: 9
+b -1 b -1 b -1 b -1 h -1 b -1 s -1 #SUP: 7
+b -1 b -1 b -1 b -1 h -1 h -1 #SUP: 17
+b -1 b -1 b -1 b -1 h -1 s -1 #SUP: 36
+b -1 b -1 b -1 b -1 h -1 s -1 b -1 #SUP: 20
+b -1 b -1 b -1 b -1 h -1 s -1 b -1 b -1 #SUP: 12
+b -1 b -1 b -1 b -1 h -1 s -1 b -1 b -1 b -1 #SUP: 7
+b -1 b -1 b -1 b -1 h -1 s -1 b -1 h -1 #SUP: 7
+b -1 b -1 b -1 b -1 h -1 s -1 h -1 #SUP: 7
+b -1 b -1 b -1 b -1 h -1 s -1 s -1 #SUP: 11
+b -1 b -1 b -1 b -1 h -1 s -1 s -1 s -1 #SUP: 7
+b -1 b -1 b -1 b -1 h -1 f -1 #SUP: 10
+b -1 b -1 b -1 b -1 s -1 #SUP: 41
+b -1 b -1 b -1 b -1 s -1 b -1 #SUP: 22
+b -1 b -1 b -1 b -1 s -1 b -1 b -1 #SUP: 9
+b -1 b -1 b -1 b -1 s -1 b -1 s -1 #SUP: 7
+b -1 b -1 b -1 b -1 s -1 s -1 #SUP: 12
+b -1 b -1 b -1 b -1 f -1 #SUP: 17
+b -1 b -1 b -1 i -1 #SUP: 19
+b -1 b -1 b -1 i -1 e -1 #SUP: 11
+b -1 b -1 b -1 i -1 i -1 #SUP: 9
+b -1 b -1 b -1 h -1 #SUP: 148
+b -1 b -1 b -1 h -1 x -1 #SUP: 9
+b -1 b -1 b -1 h -1 b -1 #SUP: 71
+b -1 b -1 b -1 h -1 b -1 b -1 #SUP: 38
+b -1 b -1 b -1 h -1 b -1 b -1 b -1 #SUP: 20
+b -1 b -1 b -1 h -1 b -1 b -1 b -1 b -1 #SUP: 11
+b -1 b -1 b -1 h -1 b -1 b -1 b -1 b -1 b -1 #SUP: 9
+b -1 b -1 b -1 h -1 b -1 b -1 h -1 #SUP: 8
+b -1 b -1 b -1 h -1 b -1 h -1 #SUP: 13
+b -1 b -1 b -1 h -1 b -1 s -1 #SUP: 15
+b -1 b -1 b -1 h -1 b -1 s -1 b -1 #SUP: 7
+b -1 b -1 b -1 h -1 h -1 #SUP: 39
+b -1 b -1 b -1 h -1 h -1 b -1 #SUP: 12
+b -1 b -1 b -1 h -1 h -1 h -1 #SUP: 9
+b -1 b -1 b -1 h -1 h -1 s -1 #SUP: 14
+b -1 b -1 b -1 h -1 s -1 #SUP: 50
+b -1 b -1 b -1 h -1 s -1 b -1 #SUP: 25
+b -1 b -1 b -1 h -1 s -1 b -1 b -1 #SUP: 13
+b -1 b -1 b -1 h -1 s -1 b -1 b -1 b -1 #SUP: 7
+b -1 b -1 b -1 h -1 s -1 b -1 h -1 #SUP: 10
+b -1 b -1 b -1 h -1 s -1 h -1 #SUP: 11
+b -1 b -1 b -1 h -1 s -1 s -1 #SUP: 15
+b -1 b -1 b -1 h -1 s -1 s -1 s -1 #SUP: 9
+b -1 b -1 b -1 h -1 f -1 #SUP: 21
+b -1 b -1 b -1 h -1 f -1 b -1 #SUP: 9
+b -1 b -1 b -1 h -1 f -1 s -1 #SUP: 8
+b -1 b -1 b -1 s -1 #SUP: 107
+b -1 b -1 b -1 s -1 x -1 #SUP: 7
+b -1 b -1 b -1 s -1 b -1 #SUP: 50
+b -1 b -1 b -1 s -1 b -1 b -1 #SUP: 20
+b -1 b -1 b -1 s -1 b -1 b -1 b -1 #SUP: 8
+b -1 b -1 b -1 s -1 b -1 b -1 b -1 b -1 #SUP: 7
+b -1 b -1 b -1 s -1 b -1 b -1 h -1 #SUP: 8
+b -1 b -1 b -1 s -1 b -1 h -1 #SUP: 9
+b -1 b -1 b -1 s -1 b -1 s -1 #SUP: 20
+b -1 b -1 b -1 s -1 b -1 s -1 b -1 #SUP: 7
+b -1 b -1 b -1 s -1 b -1 s -1 s -1 #SUP: 9
+b -1 b -1 b -1 s -1 h -1 #SUP: 26
+b -1 b -1 b -1 s -1 h -1 b -1 #SUP: 12
+b -1 b -1 b -1 s -1 s -1 #SUP: 35
+b -1 b -1 b -1 s -1 s -1 b -1 #SUP: 17
+b -1 b -1 b -1 s -1 s -1 s -1 #SUP: 13
+b -1 b -1 b -1 s -1 s -1 s -1 s -1 #SUP: 10
+b -1 b -1 b -1 f -1 #SUP: 39
+b -1 b -1 b -1 f -1 b -1 #SUP: 11
+b -1 b -1 b -1 f -1 h -1 #SUP: 8
+b -1 b -1 b -1 f -1 s -1 #SUP: 17
+b -1 b -1 b -1 f -1 s -1 b -1 #SUP: 7
+b -1 b -1 i -1 #SUP: 29
+b -1 b -1 i -1 e -1 #SUP: 14
+b -1 b -1 i -1 e -1 e -1 #SUP: 8
+b -1 b -1 i -1 i -1 #SUP: 12
+b -1 b -1 i -1 i -1 e -1 #SUP: 7
+b -1 b -1 h -1 #SUP: 227
+b -1 b -1 h -1 x -1 #SUP: 12
+b -1 b -1 h -1 b -1 #SUP: 113
+b -1 b -1 h -1 b -1 b -1 #SUP: 54
+b -1 b -1 h -1 b -1 b -1 e -1 #SUP: 7
+b -1 b -1 h -1 b -1 b -1 b -1 #SUP: 28
+b -1 b -1 h -1 b -1 b -1 b -1 b -1 #SUP: 19
+b -1 b -1 h -1 b -1 b -1 b -1 b -1 b -1 #SUP: 16
+b -1 b -1 h -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 10
+b -1 b -1 h -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 7
+b -1 b -1 h -1 b -1 b -1 h -1 #SUP: 13
+b -1 b -1 h -1 b -1 b -1 s -1 #SUP: 8
+b -1 b -1 h -1 b -1 h -1 #SUP: 27
+b -1 b -1 h -1 b -1 h -1 b -1 #SUP: 11
+b -1 b -1 h -1 b -1 h -1 s -1 #SUP: 8
+b -1 b -1 h -1 b -1 s -1 #SUP: 30
+b -1 b -1 h -1 b -1 s -1 b -1 #SUP: 13
+b -1 b -1 h -1 b -1 s -1 b -1 b -1 #SUP: 7
+b -1 b -1 h -1 b -1 s -1 s -1 #SUP: 10
+b -1 b -1 h -1 b -1 f -1 #SUP: 8
+b -1 b -1 h -1 h -1 #SUP: 84
+b -1 b -1 h -1 h -1 b -1 #SUP: 30
+b -1 b -1 h -1 h -1 b -1 b -1 #SUP: 13
+b -1 b -1 h -1 h -1 b -1 b -1 b -1 #SUP: 9
+b -1 b -1 h -1 h -1 b -1 s -1 #SUP: 8
+b -1 b -1 h -1 h -1 h -1 #SUP: 16
+b -1 b -1 h -1 h -1 h -1 b -1 #SUP: 7
+b -1 b -1 h -1 h -1 s -1 #SUP: 29
+b -1 b -1 h -1 h -1 s -1 b -1 #SUP: 9
+b -1 b -1 h -1 h -1 s -1 h -1 #SUP: 8
+b -1 b -1 h -1 h -1 s -1 s -1 #SUP: 8
+b -1 b -1 h -1 h -1 f -1 #SUP: 16
+b -1 b -1 h -1 s -1 #SUP: 94
+b -1 b -1 h -1 s -1 b -1 #SUP: 45
+b -1 b -1 h -1 s -1 b -1 b -1 #SUP: 22
+b -1 b -1 h -1 s -1 b -1 b -1 b -1 #SUP: 12
+b -1 b -1 h -1 s -1 b -1 b -1 b -1 b -1 #SUP: 8
+b -1 b -1 h -1 s -1 b -1 h -1 #SUP: 14
+b -1 b -1 h -1 s -1 b -1 h -1 b -1 #SUP: 9
+b -1 b -1 h -1 s -1 b -1 s -1 #SUP: 10
+b -1 b -1 h -1 s -1 b -1 s -1 b -1 #SUP: 8
+b -1 b -1 h -1 s -1 h -1 #SUP: 26
+b -1 b -1 h -1 s -1 h -1 s -1 #SUP: 11
+b -1 b -1 h -1 s -1 h -1 f -1 #SUP: 7
+b -1 b -1 h -1 s -1 s -1 #SUP: 31
+b -1 b -1 h -1 s -1 s -1 b -1 #SUP: 10
+b -1 b -1 h -1 s -1 s -1 h -1 #SUP: 7
+b -1 b -1 h -1 s -1 s -1 s -1 #SUP: 13
+b -1 b -1 h -1 f -1 #SUP: 49
+b -1 b -1 h -1 f -1 b -1 #SUP: 20
+b -1 b -1 h -1 f -1 b -1 b -1 #SUP: 10
+b -1 b -1 h -1 f -1 b -1 h -1 #SUP: 7
+b -1 b -1 h -1 f -1 h -1 #SUP: 9
+b -1 b -1 h -1 f -1 s -1 #SUP: 20
+b -1 b -1 h -1 f -1 s -1 h -1 #SUP: 8
+b -1 b -1 h -1 f -1 f -1 #SUP: 9
+b -1 b -1 s -1 #SUP: 206
+b -1 b -1 s -1 x -1 #SUP: 9
+b -1 b -1 s -1 e -1 #SUP: 11
+b -1 b -1 s -1 e -1 e -1 #SUP: 8
+b -1 b -1 s -1 b -1 #SUP: 108
+b -1 b -1 s -1 b -1 b -1 #SUP: 52
+b -1 b -1 s -1 b -1 b -1 b -1 #SUP: 25
+b -1 b -1 s -1 b -1 b -1 b -1 b -1 #SUP: 17
+b -1 b -1 s -1 b -1 b -1 b -1 b -1 b -1 #SUP: 11
+b -1 b -1 s -1 b -1 b -1 h -1 #SUP: 14
+b -1 b -1 s -1 b -1 b -1 h -1 s -1 #SUP: 7
+b -1 b -1 s -1 b -1 b -1 s -1 #SUP: 14
+b -1 b -1 s -1 b -1 h -1 #SUP: 24
+b -1 b -1 s -1 b -1 h -1 h -1 #SUP: 10
+b -1 b -1 s -1 b -1 h -1 s -1 #SUP: 7
+b -1 b -1 s -1 b -1 s -1 #SUP: 44
+b -1 b -1 s -1 b -1 s -1 b -1 #SUP: 20
+b -1 b -1 s -1 b -1 s -1 b -1 s -1 #SUP: 8
+b -1 b -1 s -1 b -1 s -1 h -1 #SUP: 8
+b -1 b -1 s -1 b -1 s -1 s -1 #SUP: 17
+b -1 b -1 s -1 b -1 s -1 s -1 s -1 #SUP: 7
+b -1 b -1 s -1 h -1 #SUP: 71
+b -1 b -1 s -1 h -1 b -1 #SUP: 26
+b -1 b -1 s -1 h -1 b -1 b -1 #SUP: 9
+b -1 b -1 s -1 h -1 b -1 s -1 #SUP: 11
+b -1 b -1 s -1 h -1 h -1 #SUP: 14
+b -1 b -1 s -1 h -1 s -1 #SUP: 17
+b -1 b -1 s -1 h -1 s -1 s -1 #SUP: 9
+b -1 b -1 s -1 h -1 f -1 #SUP: 17
+b -1 b -1 s -1 h -1 f -1 s -1 #SUP: 7
+b -1 b -1 s -1 s -1 #SUP: 91
+b -1 b -1 s -1 s -1 b -1 #SUP: 32
+b -1 b -1 s -1 s -1 b -1 b -1 #SUP: 10
+b -1 b -1 s -1 s -1 b -1 b -1 s -1 #SUP: 8
+b -1 b -1 s -1 s -1 b -1 b -1 s -1 b -1 #SUP: 7
+b -1 b -1 s -1 s -1 b -1 s -1 #SUP: 15
+b -1 b -1 s -1 s -1 b -1 s -1 s -1 #SUP: 7
+b -1 b -1 s -1 s -1 h -1 #SUP: 16
+b -1 b -1 s -1 s -1 s -1 #SUP: 48
+b -1 b -1 s -1 s -1 s -1 b -1 #SUP: 14
+b -1 b -1 s -1 s -1 s -1 h -1 #SUP: 7
+b -1 b -1 s -1 s -1 s -1 s -1 #SUP: 27
+b -1 b -1 s -1 s -1 s -1 s -1 b -1 #SUP: 9
+b -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 13
+b -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+b -1 b -1 s -1 s -1 f -1 #SUP: 14
+b -1 b -1 s -1 s -1 f -1 s -1 #SUP: 7
+b -1 b -1 s -1 f -1 #SUP: 13
+b -1 b -1 f -1 #SUP: 70
+b -1 b -1 f -1 b -1 #SUP: 20
+b -1 b -1 f -1 b -1 b -1 #SUP: 7
+b -1 b -1 f -1 b -1 s -1 #SUP: 7
+b -1 b -1 f -1 h -1 #SUP: 16
+b -1 b -1 f -1 s -1 #SUP: 31
+b -1 b -1 f -1 s -1 b -1 #SUP: 11
+b -1 b -1 f -1 s -1 s -1 #SUP: 12
+b -1 b -1 f -1 s -1 s -1 s -1 #SUP: 7
+b -1 b -1 f -1 f -1 #SUP: 8
+b -1 i -1 #SUP: 49
+b -1 i -1 e -1 #SUP: 24
+b -1 i -1 e -1 e -1 #SUP: 9
+b -1 i -1 b -1 #SUP: 8
+b -1 i -1 i -1 #SUP: 23
+b -1 i -1 i -1 e -1 #SUP: 10
+b -1 i -1 i -1 i -1 #SUP: 9
+b -1 h -1 #SUP: 350
+b -1 h -1 x -1 #SUP: 32
+b -1 h -1 e -1 #SUP: 12
+b -1 h -1 e -1 e -1 #SUP: 7
+b -1 h -1 b -1 #SUP: 191
+b -1 h -1 b -1 x -1 #SUP: 13
+b -1 h -1 b -1 e -1 #SUP: 10
+b -1 h -1 b -1 e -1 e -1 #SUP: 7
+b -1 h -1 b -1 b -1 #SUP: 97
+b -1 h -1 b -1 b -1 x -1 #SUP: 13
+b -1 h -1 b -1 b -1 e -1 #SUP: 7
+b -1 h -1 b -1 b -1 b -1 #SUP: 48
+b -1 h -1 b -1 b -1 b -1 b -1 #SUP: 29
+b -1 h -1 b -1 b -1 b -1 b -1 b -1 #SUP: 23
+b -1 h -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 14
+b -1 h -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 9
+b -1 h -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 8
+b -1 h -1 b -1 b -1 b -1 b -1 h -1 #SUP: 7
+b -1 h -1 b -1 b -1 b -1 h -1 #SUP: 10
+b -1 h -1 b -1 b -1 b -1 h -1 b -1 #SUP: 7
+b -1 h -1 b -1 b -1 b -1 s -1 #SUP: 10
+b -1 h -1 b -1 b -1 h -1 #SUP: 27
+b -1 h -1 b -1 b -1 h -1 b -1 #SUP: 10
+b -1 h -1 b -1 b -1 h -1 b -1 b -1 #SUP: 7
+b -1 h -1 b -1 b -1 h -1 h -1 #SUP: 9
+b -1 h -1 b -1 b -1 h -1 s -1 #SUP: 8
+b -1 h -1 b -1 b -1 s -1 #SUP: 13
+b -1 h -1 b -1 i -1 #SUP: 8
+b -1 h -1 b -1 h -1 #SUP: 64
+b -1 h -1 b -1 h -1 b -1 #SUP: 25
+b -1 h -1 b -1 h -1 b -1 b -1 #SUP: 11
+b -1 h -1 b -1 h -1 b -1 h -1 #SUP: 10
+b -1 h -1 b -1 h -1 h -1 #SUP: 21
+b -1 h -1 b -1 h -1 h -1 b -1 #SUP: 7
+b -1 h -1 b -1 h -1 h -1 h -1 #SUP: 8
+b -1 h -1 b -1 h -1 s -1 #SUP: 23
+b -1 h -1 b -1 h -1 s -1 b -1 #SUP: 8
+b -1 h -1 b -1 h -1 s -1 h -1 #SUP: 7
+b -1 h -1 b -1 h -1 f -1 #SUP: 10
+b -1 h -1 b -1 s -1 #SUP: 60
+b -1 h -1 b -1 s -1 b -1 #SUP: 30
+b -1 h -1 b -1 s -1 b -1 b -1 #SUP: 10
+b -1 h -1 b -1 s -1 b -1 s -1 #SUP: 15
+b -1 h -1 b -1 s -1 h -1 #SUP: 13
+b -1 h -1 b -1 s -1 s -1 #SUP: 17
+b -1 h -1 b -1 f -1 #SUP: 24
+b -1 h -1 b -1 f -1 b -1 #SUP: 9
+b -1 h -1 b -1 f -1 h -1 #SUP: 8
+b -1 h -1 h -1 #SUP: 155
+b -1 h -1 h -1 e -1 #SUP: 10
+b -1 h -1 h -1 e -1 e -1 #SUP: 7
+b -1 h -1 h -1 b -1 #SUP: 57
+b -1 h -1 h -1 b -1 b -1 #SUP: 28
+b -1 h -1 h -1 b -1 b -1 b -1 #SUP: 17
+b -1 h -1 h -1 b -1 b -1 b -1 b -1 #SUP: 7
+b -1 h -1 h -1 b -1 b -1 b -1 h -1 #SUP: 7
+b -1 h -1 h -1 b -1 b -1 h -1 #SUP: 7
+b -1 h -1 h -1 b -1 h -1 #SUP: 12
+b -1 h -1 h -1 b -1 h -1 b -1 #SUP: 7
+b -1 h -1 h -1 b -1 s -1 #SUP: 13
+b -1 h -1 h -1 b -1 s -1 b -1 #SUP: 7
+b -1 h -1 h -1 b -1 f -1 #SUP: 7
+b -1 h -1 h -1 h -1 #SUP: 47
+b -1 h -1 h -1 h -1 b -1 #SUP: 19
+b -1 h -1 h -1 h -1 b -1 h -1 #SUP: 11
+b -1 h -1 h -1 h -1 b -1 h -1 b -1 #SUP: 7
+b -1 h -1 h -1 h -1 h -1 #SUP: 14
+b -1 h -1 h -1 h -1 s -1 #SUP: 9
+b -1 h -1 h -1 h -1 f -1 #SUP: 9
+b -1 h -1 h -1 s -1 #SUP: 58
+b -1 h -1 h -1 s -1 b -1 #SUP: 19
+b -1 h -1 h -1 s -1 b -1 h -1 #SUP: 9
+b -1 h -1 h -1 s -1 h -1 #SUP: 14
+b -1 h -1 h -1 s -1 h -1 h -1 #SUP: 7
+b -1 h -1 h -1 s -1 s -1 #SUP: 18
+b -1 h -1 h -1 s -1 s -1 s -1 #SUP: 7
+b -1 h -1 h -1 f -1 #SUP: 37
+b -1 h -1 h -1 f -1 h -1 #SUP: 9
+b -1 h -1 h -1 f -1 s -1 #SUP: 11
+b -1 h -1 h -1 f -1 f -1 #SUP: 12
+b -1 h -1 s -1 #SUP: 188
+b -1 h -1 s -1 x -1 #SUP: 13
+b -1 h -1 s -1 e -1 #SUP: 13
+b -1 h -1 s -1 e -1 e -1 #SUP: 8
+b -1 h -1 s -1 b -1 #SUP: 90
+b -1 h -1 s -1 b -1 b -1 #SUP: 47
+b -1 h -1 s -1 b -1 b -1 b -1 #SUP: 25
+b -1 h -1 s -1 b -1 b -1 b -1 b -1 #SUP: 16
+b -1 h -1 s -1 b -1 b -1 h -1 #SUP: 11
+b -1 h -1 s -1 b -1 b -1 s -1 #SUP: 11
+b -1 h -1 s -1 b -1 h -1 #SUP: 32
+b -1 h -1 s -1 b -1 h -1 b -1 #SUP: 10
+b -1 h -1 s -1 b -1 h -1 s -1 #SUP: 16
+b -1 h -1 s -1 b -1 s -1 #SUP: 22
+b -1 h -1 s -1 b -1 s -1 b -1 #SUP: 10
+b -1 h -1 s -1 b -1 s -1 s -1 #SUP: 9
+b -1 h -1 s -1 b -1 f -1 #SUP: 7
+b -1 h -1 s -1 h -1 #SUP: 61
+b -1 h -1 s -1 h -1 b -1 #SUP: 14
+b -1 h -1 s -1 h -1 h -1 #SUP: 12
+b -1 h -1 s -1 h -1 s -1 #SUP: 25
+b -1 h -1 s -1 h -1 s -1 b -1 #SUP: 9
+b -1 h -1 s -1 h -1 s -1 h -1 #SUP: 9
+b -1 h -1 s -1 h -1 f -1 #SUP: 16
+b -1 h -1 s -1 h -1 f -1 s -1 #SUP: 10
+b -1 h -1 s -1 s -1 #SUP: 77
+b -1 h -1 s -1 s -1 b -1 #SUP: 27
+b -1 h -1 s -1 s -1 b -1 b -1 #SUP: 8
+b -1 h -1 s -1 s -1 b -1 s -1 #SUP: 8
+b -1 h -1 s -1 s -1 h -1 #SUP: 20
+b -1 h -1 s -1 s -1 h -1 s -1 #SUP: 7
+b -1 h -1 s -1 s -1 s -1 #SUP: 30
+b -1 h -1 s -1 s -1 s -1 b -1 #SUP: 11
+b -1 h -1 s -1 s -1 s -1 b -1 b -1 #SUP: 7
+b -1 h -1 s -1 s -1 s -1 s -1 #SUP: 12
+b -1 h -1 s -1 f -1 #SUP: 12
+b -1 h -1 f -1 #SUP: 105
+b -1 h -1 f -1 b -1 #SUP: 31
+b -1 h -1 f -1 b -1 b -1 #SUP: 16
+b -1 h -1 f -1 b -1 b -1 b -1 #SUP: 7
+b -1 h -1 f -1 b -1 b -1 h -1 #SUP: 7
+b -1 h -1 f -1 b -1 h -1 #SUP: 12
+b -1 h -1 f -1 h -1 #SUP: 19
+b -1 h -1 f -1 h -1 f -1 #SUP: 8
+b -1 h -1 f -1 s -1 #SUP: 47
+b -1 h -1 f -1 s -1 b -1 #SUP: 13
+b -1 h -1 f -1 s -1 h -1 #SUP: 15
+b -1 h -1 f -1 s -1 s -1 #SUP: 14
+b -1 h -1 f -1 f -1 #SUP: 36
+b -1 h -1 f -1 f -1 s -1 #SUP: 19
+b -1 h -1 f -1 f -1 f -1 #SUP: 8
+b -1 s -1 #SUP: 379
+b -1 s -1 x -1 #SUP: 33
+b -1 s -1 e -1 #SUP: 27
+b -1 s -1 e -1 e -1 #SUP: 19
+b -1 s -1 e -1 e -1 e -1 #SUP: 13
+b -1 s -1 b -1 #SUP: 227
+b -1 s -1 b -1 x -1 #SUP: 7
+b -1 s -1 b -1 e -1 #SUP: 10
+b -1 s -1 b -1 e -1 e -1 #SUP: 7
+b -1 s -1 b -1 b -1 #SUP: 126
+b -1 s -1 b -1 b -1 e -1 #SUP: 8
+b -1 s -1 b -1 b -1 b -1 #SUP: 63
+b -1 s -1 b -1 b -1 b -1 b -1 #SUP: 31
+b -1 s -1 b -1 b -1 b -1 b -1 b -1 #SUP: 17
+b -1 s -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 10
+b -1 s -1 b -1 b -1 b -1 b -1 h -1 #SUP: 8
+b -1 s -1 b -1 b -1 b -1 h -1 #SUP: 11
+b -1 s -1 b -1 b -1 b -1 s -1 #SUP: 17
+b -1 s -1 b -1 b -1 b -1 s -1 b -1 #SUP: 10
+b -1 s -1 b -1 b -1 h -1 #SUP: 34
+b -1 s -1 b -1 b -1 h -1 b -1 #SUP: 12
+b -1 s -1 b -1 b -1 h -1 s -1 #SUP: 13
+b -1 s -1 b -1 b -1 h -1 s -1 b -1 #SUP: 7
+b -1 s -1 b -1 b -1 s -1 #SUP: 49
+b -1 s -1 b -1 b -1 s -1 b -1 #SUP: 21
+b -1 s -1 b -1 b -1 s -1 b -1 b -1 #SUP: 10
+b -1 s -1 b -1 b -1 s -1 b -1 b -1 b -1 #SUP: 8
+b -1 s -1 b -1 b -1 s -1 b -1 s -1 #SUP: 9
+b -1 s -1 b -1 b -1 s -1 h -1 #SUP: 8
+b -1 s -1 b -1 b -1 s -1 s -1 #SUP: 18
+b -1 s -1 b -1 b -1 s -1 s -1 s -1 #SUP: 10
+b -1 s -1 b -1 b -1 f -1 #SUP: 7
+b -1 s -1 b -1 h -1 #SUP: 67
+b -1 s -1 b -1 h -1 b -1 #SUP: 18
+b -1 s -1 b -1 h -1 b -1 h -1 #SUP: 7
+b -1 s -1 b -1 h -1 h -1 #SUP: 17
+b -1 s -1 b -1 h -1 s -1 #SUP: 27
+b -1 s -1 b -1 h -1 s -1 b -1 #SUP: 10
+b -1 s -1 b -1 h -1 s -1 h -1 #SUP: 7
+b -1 s -1 b -1 h -1 s -1 s -1 #SUP: 10
+b -1 s -1 b -1 h -1 f -1 #SUP: 10
+b -1 s -1 b -1 s -1 #SUP: 113
+b -1 s -1 b -1 s -1 b -1 #SUP: 52
+b -1 s -1 b -1 s -1 b -1 b -1 #SUP: 20
+b -1 s -1 b -1 s -1 b -1 b -1 b -1 #SUP: 9
+b -1 s -1 b -1 s -1 b -1 h -1 #SUP: 11
+b -1 s -1 b -1 s -1 b -1 h -1 s -1 #SUP: 7
+b -1 s -1 b -1 s -1 b -1 s -1 #SUP: 27
+b -1 s -1 b -1 s -1 b -1 s -1 b -1 #SUP: 15
+b -1 s -1 b -1 s -1 b -1 s -1 b -1 s -1 #SUP: 9
+b -1 s -1 b -1 s -1 b -1 s -1 h -1 #SUP: 8
+b -1 s -1 b -1 s -1 b -1 s -1 s -1 #SUP: 12
+b -1 s -1 b -1 s -1 h -1 #SUP: 38
+b -1 s -1 b -1 s -1 h -1 b -1 #SUP: 10
+b -1 s -1 b -1 s -1 h -1 b -1 s -1 #SUP: 7
+b -1 s -1 b -1 s -1 h -1 h -1 #SUP: 8
+b -1 s -1 b -1 s -1 h -1 s -1 #SUP: 19
+b -1 s -1 b -1 s -1 h -1 s -1 s -1 #SUP: 11
+b -1 s -1 b -1 s -1 s -1 #SUP: 60
+b -1 s -1 b -1 s -1 s -1 b -1 #SUP: 27
+b -1 s -1 b -1 s -1 s -1 b -1 b -1 #SUP: 8
+b -1 s -1 b -1 s -1 s -1 b -1 s -1 #SUP: 19
+b -1 s -1 b -1 s -1 s -1 b -1 s -1 b -1 #SUP: 8
+b -1 s -1 b -1 s -1 s -1 b -1 s -1 s -1 #SUP: 10
+b -1 s -1 b -1 s -1 s -1 b -1 s -1 s -1 b -1 #SUP: 8
+b -1 s -1 b -1 s -1 s -1 h -1 #SUP: 13
+b -1 s -1 b -1 s -1 s -1 s -1 #SUP: 28
+b -1 s -1 b -1 s -1 s -1 s -1 b -1 #SUP: 13
+b -1 s -1 b -1 s -1 s -1 s -1 b -1 s -1 #SUP: 7
+b -1 s -1 b -1 s -1 s -1 s -1 s -1 #SUP: 16
+b -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 9
+b -1 s -1 b -1 s -1 f -1 #SUP: 8
+b -1 s -1 b -1 f -1 #SUP: 21
+b -1 s -1 b -1 f -1 s -1 #SUP: 10
+b -1 s -1 i -1 #SUP: 11
+b -1 s -1 h -1 #SUP: 174
+b -1 s -1 h -1 x -1 #SUP: 7
+b -1 s -1 h -1 b -1 #SUP: 62
+b -1 s -1 h -1 b -1 b -1 #SUP: 18
+b -1 s -1 h -1 b -1 b -1 b -1 #SUP: 12
+b -1 s -1 h -1 b -1 h -1 #SUP: 8
+b -1 s -1 h -1 b -1 s -1 #SUP: 31
+b -1 s -1 h -1 b -1 s -1 b -1 #SUP: 7
+b -1 s -1 h -1 b -1 s -1 h -1 #SUP: 9
+b -1 s -1 h -1 b -1 s -1 s -1 #SUP: 14
+b -1 s -1 h -1 b -1 s -1 s -1 s -1 #SUP: 8
+b -1 s -1 h -1 h -1 #SUP: 51
+b -1 s -1 h -1 h -1 b -1 #SUP: 16
+b -1 s -1 h -1 h -1 h -1 #SUP: 11
+b -1 s -1 h -1 h -1 s -1 #SUP: 9
+b -1 s -1 h -1 h -1 f -1 #SUP: 17
+b -1 s -1 h -1 h -1 f -1 s -1 #SUP: 7
+b -1 s -1 h -1 s -1 #SUP: 70
+b -1 s -1 h -1 s -1 b -1 #SUP: 20
+b -1 s -1 h -1 s -1 b -1 b -1 #SUP: 11
+b -1 s -1 h -1 s -1 h -1 #SUP: 12
+b -1 s -1 h -1 s -1 s -1 #SUP: 36
+b -1 s -1 h -1 s -1 s -1 b -1 #SUP: 16
+b -1 s -1 h -1 s -1 s -1 b -1 b -1 #SUP: 7
+b -1 s -1 h -1 s -1 s -1 b -1 s -1 #SUP: 8
+b -1 s -1 h -1 s -1 s -1 s -1 #SUP: 15
+b -1 s -1 h -1 s -1 f -1 #SUP: 8
+b -1 s -1 h -1 f -1 #SUP: 39
+b -1 s -1 h -1 f -1 b -1 #SUP: 10
+b -1 s -1 h -1 f -1 h -1 #SUP: 8
+b -1 s -1 h -1 f -1 s -1 #SUP: 13
+b -1 s -1 h -1 f -1 f -1 #SUP: 11
+b -1 s -1 s -1 #SUP: 227
+b -1 s -1 s -1 x -1 #SUP: 14
+b -1 s -1 s -1 e -1 #SUP: 15
+b -1 s -1 s -1 e -1 e -1 #SUP: 14
+b -1 s -1 s -1 e -1 e -1 e -1 #SUP: 13
+b -1 s -1 s -1 e -1 e -1 e -1 e -1 #SUP: 8
+b -1 s -1 s -1 b -1 #SUP: 108
+b -1 s -1 s -1 b -1 b -1 #SUP: 39
+b -1 s -1 s -1 b -1 b -1 b -1 #SUP: 16
+b -1 s -1 s -1 b -1 b -1 b -1 b -1 #SUP: 7
+b -1 s -1 s -1 b -1 b -1 s -1 #SUP: 21
+b -1 s -1 s -1 b -1 b -1 s -1 b -1 #SUP: 11
+b -1 s -1 s -1 b -1 b -1 s -1 s -1 #SUP: 7
+b -1 s -1 s -1 b -1 h -1 #SUP: 13
+b -1 s -1 s -1 b -1 s -1 #SUP: 75
+b -1 s -1 s -1 b -1 s -1 b -1 #SUP: 30
+b -1 s -1 s -1 b -1 s -1 b -1 b -1 #SUP: 11
+b -1 s -1 s -1 b -1 s -1 b -1 b -1 s -1 #SUP: 8
+b -1 s -1 s -1 b -1 s -1 b -1 s -1 #SUP: 19
+b -1 s -1 s -1 b -1 s -1 b -1 s -1 b -1 #SUP: 8
+b -1 s -1 s -1 b -1 s -1 b -1 s -1 s -1 #SUP: 9
+b -1 s -1 s -1 b -1 s -1 h -1 #SUP: 12
+b -1 s -1 s -1 b -1 s -1 s -1 #SUP: 42
+b -1 s -1 s -1 b -1 s -1 s -1 b -1 #SUP: 23
+b -1 s -1 s -1 b -1 s -1 s -1 b -1 b -1 #SUP: 11
+b -1 s -1 s -1 b -1 s -1 s -1 b -1 b -1 s -1 #SUP: 7
+b -1 s -1 s -1 b -1 s -1 s -1 b -1 s -1 #SUP: 13
+b -1 s -1 s -1 b -1 s -1 s -1 b -1 s -1 s -1 #SUP: 10
+b -1 s -1 s -1 b -1 s -1 s -1 h -1 #SUP: 16
+b -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 16
+b -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 #SUP: 8
+b -1 s -1 s -1 b -1 f -1 #SUP: 11
+b -1 s -1 s -1 h -1 #SUP: 83
+b -1 s -1 s -1 h -1 b -1 #SUP: 26
+b -1 s -1 s -1 h -1 b -1 s -1 #SUP: 17
+b -1 s -1 s -1 h -1 b -1 s -1 s -1 #SUP: 14
+b -1 s -1 s -1 h -1 b -1 s -1 s -1 s -1 #SUP: 9
+b -1 s -1 s -1 h -1 h -1 #SUP: 24
+b -1 s -1 s -1 h -1 h -1 b -1 #SUP: 8
+b -1 s -1 s -1 h -1 h -1 b -1 s -1 #SUP: 8
+b -1 s -1 s -1 h -1 s -1 #SUP: 27
+b -1 s -1 s -1 h -1 s -1 s -1 #SUP: 19
+b -1 s -1 s -1 h -1 s -1 s -1 s -1 #SUP: 15
+b -1 s -1 s -1 h -1 s -1 s -1 s -1 s -1 #SUP: 8
+b -1 s -1 s -1 h -1 f -1 #SUP: 26
+b -1 s -1 s -1 h -1 f -1 s -1 #SUP: 13
+b -1 s -1 s -1 h -1 f -1 s -1 s -1 #SUP: 11
+b -1 s -1 s -1 h -1 f -1 s -1 s -1 s -1 #SUP: 7
+b -1 s -1 s -1 s -1 #SUP: 147
+b -1 s -1 s -1 s -1 e -1 #SUP: 12
+b -1 s -1 s -1 s -1 e -1 e -1 #SUP: 9
+b -1 s -1 s -1 s -1 b -1 #SUP: 59
+b -1 s -1 s -1 s -1 b -1 b -1 #SUP: 19
+b -1 s -1 s -1 s -1 b -1 b -1 b -1 #SUP: 7
+b -1 s -1 s -1 s -1 b -1 b -1 s -1 #SUP: 9
+b -1 s -1 s -1 s -1 b -1 h -1 #SUP: 12
+b -1 s -1 s -1 s -1 b -1 h -1 s -1 #SUP: 8
+b -1 s -1 s -1 s -1 b -1 s -1 #SUP: 34
+b -1 s -1 s -1 s -1 b -1 s -1 b -1 #SUP: 8
+b -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 30
+b -1 s -1 s -1 s -1 b -1 s -1 s -1 b -1 #SUP: 7
+b -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 19
+b -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 #SUP: 11
+b -1 s -1 s -1 s -1 b -1 f -1 #SUP: 7
+b -1 s -1 s -1 s -1 h -1 #SUP: 46
+b -1 s -1 s -1 s -1 h -1 b -1 #SUP: 20
+b -1 s -1 s -1 s -1 h -1 b -1 s -1 #SUP: 13
+b -1 s -1 s -1 s -1 h -1 b -1 s -1 s -1 #SUP: 11
+b -1 s -1 s -1 s -1 h -1 s -1 #SUP: 14
+b -1 s -1 s -1 s -1 h -1 s -1 s -1 #SUP: 11
+b -1 s -1 s -1 s -1 h -1 f -1 #SUP: 10
+b -1 s -1 s -1 s -1 s -1 #SUP: 99
+b -1 s -1 s -1 s -1 s -1 b -1 #SUP: 36
+b -1 s -1 s -1 s -1 s -1 b -1 b -1 #SUP: 8
+b -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 24
+b -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 19
+b -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 13
+b -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 #SUP: 7
+b -1 s -1 s -1 s -1 s -1 h -1 #SUP: 23
+b -1 s -1 s -1 s -1 s -1 h -1 s -1 #SUP: 12
+b -1 s -1 s -1 s -1 s -1 h -1 s -1 s -1 #SUP: 9
+b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 69
+b -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 23
+b -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 18
+b -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 14
+b -1 s -1 s -1 s -1 s -1 s -1 h -1 #SUP: 10
+b -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 40
+b -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 9
+b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 34
+b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 10
+b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 7
+b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 27
+b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 19
+b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 13
+b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 9
+b -1 s -1 s -1 s -1 s -1 f -1 #SUP: 8
+b -1 s -1 s -1 s -1 f -1 #SUP: 22
+b -1 s -1 s -1 s -1 f -1 s -1 #SUP: 7
+b -1 s -1 s -1 f -1 #SUP: 42
+b -1 s -1 s -1 f -1 b -1 #SUP: 10
+b -1 s -1 s -1 f -1 s -1 #SUP: 22
+b -1 s -1 s -1 f -1 s -1 s -1 #SUP: 15
+b -1 s -1 s -1 f -1 s -1 s -1 s -1 #SUP: 10
+b -1 s -1 s -1 f -1 f -1 #SUP: 14
+b -1 s -1 s -1 f -1 f -1 s -1 #SUP: 8
+b -1 s -1 f -1 #SUP: 82
+b -1 s -1 f -1 b -1 #SUP: 24
+b -1 s -1 f -1 b -1 s -1 #SUP: 13
+b -1 s -1 f -1 h -1 #SUP: 14
+b -1 s -1 f -1 s -1 #SUP: 37
+b -1 s -1 f -1 s -1 b -1 #SUP: 9
+b -1 s -1 f -1 s -1 b -1 b -1 #SUP: 7
+b -1 s -1 f -1 s -1 s -1 #SUP: 18
+b -1 s -1 f -1 s -1 s -1 s -1 #SUP: 11
+b -1 s -1 f -1 s -1 s -1 s -1 s -1 #SUP: 7
+b -1 s -1 f -1 f -1 #SUP: 17
+b -1 s -1 f -1 f -1 s -1 #SUP: 10
+b -1 f -1 #SUP: 181
+b -1 f -1 x -1 #SUP: 10
+b -1 f -1 b -1 #SUP: 62
+b -1 f -1 b -1 b -1 #SUP: 22
+b -1 f -1 b -1 b -1 b -1 #SUP: 10
+b -1 f -1 b -1 b -1 h -1 #SUP: 7
+b -1 f -1 b -1 h -1 #SUP: 16
+b -1 f -1 b -1 h -1 h -1 #SUP: 7
+b -1 f -1 b -1 s -1 #SUP: 23
+b -1 f -1 b -1 s -1 s -1 #SUP: 11
+b -1 f -1 b -1 f -1 #SUP: 7
+b -1 f -1 h -1 #SUP: 51
+b -1 f -1 h -1 b -1 #SUP: 15
+b -1 f -1 h -1 b -1 b -1 #SUP: 7
+b -1 f -1 h -1 h -1 #SUP: 14
+b -1 f -1 h -1 s -1 #SUP: 16
+b -1 f -1 h -1 f -1 #SUP: 7
+b -1 f -1 s -1 #SUP: 87
+b -1 f -1 s -1 b -1 #SUP: 31
+b -1 f -1 s -1 b -1 b -1 #SUP: 7
+b -1 f -1 s -1 b -1 h -1 #SUP: 7
+b -1 f -1 s -1 b -1 s -1 #SUP: 13
+b -1 f -1 s -1 b -1 s -1 b -1 #SUP: 7
+b -1 f -1 s -1 h -1 #SUP: 14
+b -1 f -1 s -1 s -1 #SUP: 46
+b -1 f -1 s -1 s -1 b -1 #SUP: 12
+b -1 f -1 s -1 s -1 b -1 s -1 #SUP: 8
+b -1 f -1 s -1 s -1 h -1 #SUP: 9
+b -1 f -1 s -1 s -1 s -1 #SUP: 24
+b -1 f -1 s -1 s -1 s -1 b -1 #SUP: 7
+b -1 f -1 s -1 s -1 s -1 s -1 #SUP: 15
+b -1 f -1 s -1 s -1 s -1 s -1 s -1 #SUP: 9
+b -1 f -1 s -1 f -1 #SUP: 11
+b -1 f -1 f -1 #SUP: 43
+b -1 f -1 f -1 b -1 #SUP: 11
+b -1 f -1 f -1 s -1 #SUP: 15
+b -1 f -1 f -1 f -1 #SUP: 12
+b -1 f -1 f -1 f -1 s -1 #SUP: 8
+i -1 x -1 #SUP: 31
+i -1 e -1 #SUP: 136
+i -1 e -1 x -1 #SUP: 21
+i -1 e -1 e -1 #SUP: 75
+i -1 e -1 e -1 x -1 #SUP: 9
+i -1 e -1 e -1 e -1 #SUP: 32
+i -1 e -1 e -1 e -1 e -1 #SUP: 23
+i -1 e -1 e -1 e -1 e -1 e -1 #SUP: 18
+i -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 13
+i -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 10
+i -1 e -1 e -1 b -1 #SUP: 18
+i -1 e -1 e -1 b -1 s -1 #SUP: 8
+i -1 e -1 e -1 i -1 #SUP: 13
+i -1 e -1 e -1 i -1 e -1 #SUP: 9
+i -1 e -1 e -1 h -1 #SUP: 14
+i -1 e -1 b -1 #SUP: 27
+i -1 e -1 b -1 b -1 #SUP: 14
+i -1 e -1 b -1 b -1 b -1 #SUP: 12
+i -1 e -1 b -1 b -1 b -1 b -1 #SUP: 8
+i -1 e -1 i -1 #SUP: 35
+i -1 e -1 i -1 e -1 #SUP: 16
+i -1 e -1 i -1 i -1 #SUP: 14
+i -1 e -1 i -1 i -1 e -1 #SUP: 7
+i -1 e -1 h -1 #SUP: 29
+i -1 e -1 h -1 b -1 #SUP: 9
+i -1 e -1 h -1 h -1 #SUP: 11
+i -1 e -1 h -1 s -1 #SUP: 7
+i -1 b -1 #SUP: 42
+i -1 b -1 b -1 #SUP: 24
+i -1 b -1 b -1 b -1 #SUP: 15
+i -1 b -1 b -1 b -1 b -1 #SUP: 9
+i -1 b -1 h -1 #SUP: 12
+i -1 b -1 s -1 #SUP: 10
+i -1 b -1 s -1 b -1 #SUP: 8
+i -1 i -1 #SUP: 80
+i -1 i -1 x -1 #SUP: 13
+i -1 i -1 e -1 #SUP: 54
+i -1 i -1 e -1 x -1 #SUP: 8
+i -1 i -1 e -1 e -1 #SUP: 27
+i -1 i -1 e -1 e -1 e -1 #SUP: 11
+i -1 i -1 e -1 e -1 e -1 e -1 #SUP: 8
+i -1 i -1 e -1 e -1 e -1 e -1 e -1 #SUP: 7
+i -1 i -1 e -1 b -1 #SUP: 8
+i -1 i -1 e -1 i -1 #SUP: 15
+i -1 i -1 e -1 h -1 #SUP: 11
+i -1 i -1 b -1 #SUP: 17
+i -1 i -1 b -1 b -1 #SUP: 10
+i -1 i -1 i -1 #SUP: 32
+i -1 i -1 i -1 x -1 #SUP: 9
+i -1 i -1 i -1 e -1 #SUP: 17
+i -1 i -1 i -1 e -1 e -1 #SUP: 7
+i -1 i -1 i -1 e -1 i -1 #SUP: 9
+i -1 i -1 i -1 b -1 #SUP: 7
+i -1 i -1 i -1 i -1 #SUP: 19
+i -1 i -1 i -1 i -1 e -1 #SUP: 11
+i -1 i -1 i -1 i -1 e -1 i -1 #SUP: 8
+i -1 i -1 i -1 i -1 i -1 #SUP: 7
+i -1 i -1 h -1 #SUP: 16
+i -1 i -1 h -1 b -1 #SUP: 8
+i -1 h -1 #SUP: 31
+i -1 h -1 b -1 #SUP: 15
+i -1 h -1 b -1 b -1 #SUP: 7
+i -1 h -1 s -1 #SUP: 11
+i -1 h -1 f -1 #SUP: 7
+h -1 x -1 #SUP: 106
+h -1 e -1 #SUP: 57
+h -1 e -1 e -1 #SUP: 38
+h -1 e -1 e -1 e -1 #SUP: 17
+h -1 e -1 e -1 e -1 e -1 #SUP: 8
+h -1 e -1 e -1 e -1 h -1 #SUP: 7
+h -1 e -1 e -1 h -1 #SUP: 14
+h -1 e -1 b -1 #SUP: 7
+h -1 e -1 h -1 #SUP: 7
+h -1 b -1 #SUP: 354
+h -1 b -1 x -1 #SUP: 30
+h -1 b -1 e -1 #SUP: 20
+h -1 b -1 e -1 e -1 #SUP: 13
+h -1 b -1 e -1 e -1 e -1 #SUP: 8
+h -1 b -1 b -1 #SUP: 183
+h -1 b -1 b -1 x -1 #SUP: 17
+h -1 b -1 b -1 e -1 #SUP: 8
+h -1 b -1 b -1 b -1 #SUP: 92
+h -1 b -1 b -1 b -1 b -1 #SUP: 53
+h -1 b -1 b -1 b -1 b -1 b -1 #SUP: 35
+h -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 19
+h -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 13
+h -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 11
+h -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 9
+h -1 b -1 b -1 b -1 b -1 b -1 h -1 #SUP: 10
+h -1 b -1 b -1 b -1 b -1 h -1 #SUP: 18
+h -1 b -1 b -1 b -1 b -1 h -1 b -1 #SUP: 9
+h -1 b -1 b -1 b -1 h -1 #SUP: 29
+h -1 b -1 b -1 b -1 h -1 b -1 #SUP: 14
+h -1 b -1 b -1 b -1 h -1 b -1 b -1 #SUP: 10
+h -1 b -1 b -1 b -1 h -1 b -1 b -1 b -1 #SUP: 7
+h -1 b -1 b -1 b -1 h -1 s -1 #SUP: 8
+h -1 b -1 b -1 b -1 s -1 #SUP: 23
+h -1 b -1 b -1 b -1 s -1 b -1 #SUP: 8
+h -1 b -1 b -1 b -1 f -1 #SUP: 7
+h -1 b -1 b -1 h -1 #SUP: 61
+h -1 b -1 b -1 h -1 b -1 #SUP: 19
+h -1 b -1 b -1 h -1 b -1 b -1 #SUP: 11
+h -1 b -1 b -1 h -1 h -1 #SUP: 21
+h -1 b -1 b -1 h -1 h -1 s -1 #SUP: 7
+h -1 b -1 b -1 h -1 s -1 #SUP: 19
+h -1 b -1 b -1 h -1 s -1 b -1 #SUP: 8
+h -1 b -1 b -1 h -1 f -1 #SUP: 9
+h -1 b -1 b -1 s -1 #SUP: 41
+h -1 b -1 b -1 s -1 b -1 #SUP: 13
+h -1 b -1 b -1 s -1 b -1 b -1 #SUP: 7
+h -1 b -1 b -1 s -1 h -1 #SUP: 14
+h -1 b -1 b -1 s -1 s -1 #SUP: 15
+h -1 b -1 b -1 s -1 s -1 s -1 #SUP: 7
+h -1 b -1 b -1 f -1 #SUP: 13
+h -1 b -1 i -1 #SUP: 11
+h -1 b -1 i -1 i -1 #SUP: 7
+h -1 b -1 h -1 #SUP: 129
+h -1 b -1 h -1 x -1 #SUP: 8
+h -1 b -1 h -1 b -1 #SUP: 56
+h -1 b -1 h -1 b -1 b -1 #SUP: 21
+h -1 b -1 h -1 b -1 b -1 b -1 #SUP: 12
+h -1 b -1 h -1 b -1 h -1 #SUP: 23
+h -1 b -1 h -1 b -1 h -1 b -1 #SUP: 9
+h -1 b -1 h -1 b -1 h -1 h -1 #SUP: 13
+h -1 b -1 h -1 b -1 s -1 #SUP: 14
+h -1 b -1 h -1 h -1 #SUP: 47
+h -1 b -1 h -1 h -1 b -1 #SUP: 15
+h -1 b -1 h -1 h -1 b -1 b -1 #SUP: 7
+h -1 b -1 h -1 h -1 h -1 #SUP: 18
+h -1 b -1 h -1 h -1 s -1 #SUP: 9
+h -1 b -1 h -1 h -1 f -1 #SUP: 9
+h -1 b -1 h -1 s -1 #SUP: 43
+h -1 b -1 h -1 s -1 b -1 #SUP: 13
+h -1 b -1 h -1 s -1 h -1 #SUP: 12
+h -1 b -1 h -1 s -1 s -1 #SUP: 12
+h -1 b -1 h -1 f -1 #SUP: 24
+h -1 b -1 h -1 f -1 s -1 #SUP: 8
+h -1 b -1 h -1 f -1 f -1 #SUP: 11
+h -1 b -1 s -1 #SUP: 184
+h -1 b -1 s -1 x -1 #SUP: 7
+h -1 b -1 s -1 b -1 #SUP: 72
+h -1 b -1 s -1 b -1 b -1 #SUP: 26
+h -1 b -1 s -1 b -1 b -1 b -1 #SUP: 9
+h -1 b -1 s -1 b -1 b -1 s -1 #SUP: 8
+h -1 b -1 s -1 b -1 h -1 #SUP: 12
+h -1 b -1 s -1 b -1 s -1 #SUP: 34
+h -1 b -1 s -1 b -1 s -1 b -1 #SUP: 13
+h -1 b -1 s -1 b -1 s -1 b -1 s -1 #SUP: 8
+h -1 b -1 s -1 b -1 s -1 h -1 #SUP: 7
+h -1 b -1 s -1 b -1 s -1 s -1 #SUP: 13
+h -1 b -1 s -1 h -1 #SUP: 44
+h -1 b -1 s -1 h -1 b -1 #SUP: 9
+h -1 b -1 s -1 h -1 h -1 #SUP: 17
+h -1 b -1 s -1 h -1 s -1 #SUP: 13
+h -1 b -1 s -1 h -1 f -1 #SUP: 8
+h -1 b -1 s -1 s -1 #SUP: 89
+h -1 b -1 s -1 s -1 b -1 #SUP: 25
+h -1 b -1 s -1 s -1 b -1 s -1 #SUP: 17
+h -1 b -1 s -1 s -1 b -1 s -1 s -1 #SUP: 13
+h -1 b -1 s -1 s -1 h -1 #SUP: 19
+h -1 b -1 s -1 s -1 s -1 #SUP: 51
+h -1 b -1 s -1 s -1 s -1 b -1 #SUP: 14
+h -1 b -1 s -1 s -1 s -1 h -1 #SUP: 9
+h -1 b -1 s -1 s -1 s -1 s -1 #SUP: 30
+h -1 b -1 s -1 s -1 s -1 s -1 b -1 #SUP: 8
+h -1 b -1 s -1 s -1 s -1 s -1 h -1 #SUP: 8
+h -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 13
+h -1 b -1 s -1 s -1 f -1 #SUP: 10
+h -1 b -1 s -1 s -1 f -1 s -1 #SUP: 7
+h -1 b -1 s -1 f -1 #SUP: 32
+h -1 b -1 s -1 f -1 b -1 #SUP: 9
+h -1 b -1 s -1 f -1 s -1 #SUP: 16
+h -1 b -1 s -1 f -1 s -1 s -1 #SUP: 10
+h -1 b -1 s -1 f -1 s -1 s -1 s -1 #SUP: 7
+h -1 b -1 f -1 #SUP: 64
+h -1 b -1 f -1 b -1 #SUP: 23
+h -1 b -1 f -1 b -1 b -1 #SUP: 8
+h -1 b -1 f -1 b -1 h -1 #SUP: 9
+h -1 b -1 f -1 h -1 #SUP: 16
+h -1 b -1 f -1 s -1 #SUP: 22
+h -1 b -1 f -1 s -1 s -1 #SUP: 14
+h -1 b -1 f -1 s -1 s -1 s -1 #SUP: 8
+h -1 b -1 f -1 f -1 #SUP: 9
+h -1 i -1 #SUP: 9
+h -1 h -1 #SUP: 285
+h -1 h -1 x -1 #SUP: 29
+h -1 h -1 e -1 #SUP: 25
+h -1 h -1 e -1 e -1 #SUP: 17
+h -1 h -1 e -1 e -1 h -1 #SUP: 7
+h -1 h -1 b -1 #SUP: 142
+h -1 h -1 b -1 x -1 #SUP: 7
+h -1 h -1 b -1 b -1 #SUP: 54
+h -1 h -1 b -1 b -1 b -1 #SUP: 28
+h -1 h -1 b -1 b -1 b -1 b -1 #SUP: 11
+h -1 h -1 b -1 b -1 b -1 b -1 b -1 #SUP: 7
+h -1 h -1 b -1 b -1 b -1 h -1 #SUP: 9
+h -1 h -1 b -1 b -1 b -1 s -1 #SUP: 7
+h -1 h -1 b -1 b -1 h -1 #SUP: 12
+h -1 h -1 b -1 b -1 s -1 #SUP: 12
+h -1 h -1 b -1 h -1 #SUP: 48
+h -1 h -1 b -1 h -1 b -1 #SUP: 27
+h -1 h -1 b -1 h -1 b -1 h -1 #SUP: 11
+h -1 h -1 b -1 h -1 h -1 #SUP: 14
+h -1 h -1 b -1 h -1 h -1 b -1 #SUP: 7
+h -1 h -1 b -1 s -1 #SUP: 60
+h -1 h -1 b -1 s -1 b -1 #SUP: 18
+h -1 h -1 b -1 s -1 b -1 s -1 #SUP: 8
+h -1 h -1 b -1 s -1 h -1 #SUP: 14
+h -1 h -1 b -1 s -1 s -1 #SUP: 20
+h -1 h -1 b -1 s -1 s -1 s -1 #SUP: 9
+h -1 h -1 b -1 s -1 f -1 #SUP: 11
+h -1 h -1 b -1 f -1 #SUP: 18
+h -1 h -1 b -1 f -1 b -1 #SUP: 8
+h -1 h -1 h -1 #SUP: 111
+h -1 h -1 h -1 x -1 #SUP: 10
+h -1 h -1 h -1 e -1 #SUP: 8
+h -1 h -1 h -1 b -1 #SUP: 50
+h -1 h -1 h -1 b -1 b -1 #SUP: 13
+h -1 h -1 h -1 b -1 b -1 b -1 #SUP: 8
+h -1 h -1 h -1 b -1 h -1 #SUP: 17
+h -1 h -1 h -1 b -1 h -1 b -1 #SUP: 11
+h -1 h -1 h -1 b -1 s -1 #SUP: 18
+h -1 h -1 h -1 h -1 #SUP: 40
+h -1 h -1 h -1 h -1 b -1 #SUP: 14
+h -1 h -1 h -1 h -1 h -1 #SUP: 14
+h -1 h -1 h -1 h -1 h -1 h -1 #SUP: 9
+h -1 h -1 h -1 h -1 s -1 #SUP: 11
+h -1 h -1 h -1 h -1 f -1 #SUP: 7
+h -1 h -1 h -1 s -1 #SUP: 31
+h -1 h -1 h -1 s -1 b -1 #SUP: 18
+h -1 h -1 h -1 s -1 b -1 s -1 #SUP: 8
+h -1 h -1 h -1 f -1 #SUP: 35
+h -1 h -1 h -1 f -1 b -1 #SUP: 9
+h -1 h -1 h -1 f -1 h -1 #SUP: 7
+h -1 h -1 h -1 f -1 s -1 #SUP: 9
+h -1 h -1 h -1 f -1 f -1 #SUP: 9
+h -1 h -1 s -1 #SUP: 138
+h -1 h -1 s -1 e -1 #SUP: 12
+h -1 h -1 s -1 b -1 #SUP: 55
+h -1 h -1 s -1 b -1 b -1 #SUP: 15
+h -1 h -1 s -1 b -1 h -1 #SUP: 19
+h -1 h -1 s -1 b -1 h -1 s -1 #SUP: 7
+h -1 h -1 s -1 b -1 s -1 #SUP: 16
+h -1 h -1 s -1 b -1 s -1 s -1 #SUP: 7
+h -1 h -1 s -1 h -1 #SUP: 41
+h -1 h -1 s -1 h -1 b -1 #SUP: 14
+h -1 h -1 s -1 h -1 h -1 #SUP: 10
+h -1 h -1 s -1 h -1 s -1 #SUP: 9
+h -1 h -1 s -1 h -1 f -1 #SUP: 8
+h -1 h -1 s -1 s -1 #SUP: 55
+h -1 h -1 s -1 s -1 b -1 #SUP: 17
+h -1 h -1 s -1 s -1 b -1 b -1 #SUP: 8
+h -1 h -1 s -1 s -1 h -1 #SUP: 7
+h -1 h -1 s -1 s -1 s -1 #SUP: 28
+h -1 h -1 s -1 s -1 s -1 b -1 #SUP: 8
+h -1 h -1 s -1 s -1 s -1 s -1 #SUP: 11
+h -1 h -1 s -1 s -1 f -1 #SUP: 7
+h -1 h -1 s -1 f -1 #SUP: 7
+h -1 h -1 f -1 #SUP: 127
+h -1 h -1 f -1 b -1 #SUP: 32
+h -1 h -1 f -1 b -1 b -1 #SUP: 9
+h -1 h -1 f -1 b -1 h -1 #SUP: 8
+h -1 h -1 f -1 b -1 s -1 #SUP: 13
+h -1 h -1 f -1 b -1 s -1 s -1 #SUP: 8
+h -1 h -1 f -1 h -1 #SUP: 27
+h -1 h -1 f -1 h -1 h -1 #SUP: 11
+h -1 h -1 f -1 s -1 #SUP: 46
+h -1 h -1 f -1 s -1 b -1 #SUP: 10
+h -1 h -1 f -1 s -1 h -1 #SUP: 9
+h -1 h -1 f -1 s -1 s -1 #SUP: 20
+h -1 h -1 f -1 s -1 s -1 s -1 #SUP: 11
+h -1 h -1 f -1 s -1 s -1 s -1 s -1 #SUP: 7
+h -1 h -1 f -1 f -1 #SUP: 40
+h -1 h -1 f -1 f -1 b -1 #SUP: 8
+h -1 h -1 f -1 f -1 h -1 #SUP: 7
+h -1 h -1 f -1 f -1 s -1 #SUP: 17
+h -1 h -1 f -1 f -1 s -1 b -1 #SUP: 7
+h -1 h -1 f -1 f -1 f -1 #SUP: 9
+h -1 s -1 #SUP: 367
+h -1 s -1 x -1 #SUP: 33
+h -1 s -1 e -1 #SUP: 37
+h -1 s -1 e -1 e -1 #SUP: 21
+h -1 s -1 e -1 e -1 e -1 #SUP: 12
+h -1 s -1 e -1 b -1 #SUP: 10
+h -1 s -1 e -1 h -1 #SUP: 9
+h -1 s -1 b -1 #SUP: 201
+h -1 s -1 b -1 x -1 #SUP: 12
+h -1 s -1 b -1 e -1 #SUP: 12
+h -1 s -1 b -1 b -1 #SUP: 100
+h -1 s -1 b -1 b -1 b -1 #SUP: 43
+h -1 s -1 b -1 b -1 b -1 b -1 #SUP: 26
+h -1 s -1 b -1 b -1 b -1 b -1 e -1 #SUP: 7
+h -1 s -1 b -1 b -1 b -1 b -1 b -1 #SUP: 8
+h -1 s -1 b -1 b -1 b -1 h -1 #SUP: 7
+h -1 s -1 b -1 b -1 b -1 s -1 #SUP: 7
+h -1 s -1 b -1 b -1 h -1 #SUP: 34
+h -1 s -1 b -1 b -1 h -1 b -1 #SUP: 10
+h -1 s -1 b -1 b -1 h -1 h -1 #SUP: 8
+h -1 s -1 b -1 b -1 h -1 s -1 #SUP: 11
+h -1 s -1 b -1 b -1 s -1 #SUP: 23
+h -1 s -1 b -1 b -1 s -1 b -1 #SUP: 10
+h -1 s -1 b -1 b -1 s -1 s -1 #SUP: 7
+h -1 s -1 b -1 i -1 #SUP: 8
+h -1 s -1 b -1 h -1 #SUP: 80
+h -1 s -1 b -1 h -1 b -1 #SUP: 19
+h -1 s -1 b -1 h -1 b -1 b -1 #SUP: 9
+h -1 s -1 b -1 h -1 h -1 #SUP: 23
+h -1 s -1 b -1 h -1 h -1 h -1 #SUP: 9
+h -1 s -1 b -1 h -1 h -1 s -1 #SUP: 8
+h -1 s -1 b -1 h -1 s -1 #SUP: 35
+h -1 s -1 b -1 h -1 s -1 b -1 #SUP: 13
+h -1 s -1 b -1 h -1 s -1 h -1 #SUP: 11
+h -1 s -1 b -1 h -1 s -1 s -1 #SUP: 7
+h -1 s -1 b -1 h -1 f -1 #SUP: 14
+h -1 s -1 b -1 s -1 #SUP: 65
+h -1 s -1 b -1 s -1 b -1 #SUP: 27
+h -1 s -1 b -1 s -1 b -1 b -1 #SUP: 8
+h -1 s -1 b -1 s -1 b -1 s -1 #SUP: 10
+h -1 s -1 b -1 s -1 h -1 #SUP: 11
+h -1 s -1 b -1 s -1 s -1 #SUP: 25
+h -1 s -1 b -1 s -1 s -1 s -1 #SUP: 11
+h -1 s -1 b -1 f -1 #SUP: 13
+h -1 s -1 i -1 #SUP: 9
+h -1 s -1 h -1 #SUP: 144
+h -1 s -1 h -1 b -1 #SUP: 45
+h -1 s -1 h -1 b -1 b -1 #SUP: 17
+h -1 s -1 h -1 b -1 b -1 b -1 #SUP: 8
+h -1 s -1 h -1 b -1 b -1 h -1 #SUP: 8
+h -1 s -1 h -1 b -1 h -1 #SUP: 13
+h -1 s -1 h -1 b -1 s -1 #SUP: 14
+h -1 s -1 h -1 h -1 #SUP: 42
+h -1 s -1 h -1 h -1 b -1 #SUP: 15
+h -1 s -1 h -1 h -1 h -1 #SUP: 14
+h -1 s -1 h -1 h -1 s -1 #SUP: 11
+h -1 s -1 h -1 h -1 f -1 #SUP: 8
+h -1 s -1 h -1 s -1 #SUP: 63
+h -1 s -1 h -1 s -1 b -1 #SUP: 30
+h -1 s -1 h -1 s -1 b -1 b -1 #SUP: 14
+h -1 s -1 h -1 s -1 b -1 b -1 b -1 #SUP: 7
+h -1 s -1 h -1 s -1 b -1 h -1 #SUP: 11
+h -1 s -1 h -1 s -1 h -1 #SUP: 22
+h -1 s -1 h -1 s -1 h -1 f -1 #SUP: 10
+h -1 s -1 h -1 s -1 s -1 #SUP: 14
+h -1 s -1 h -1 f -1 #SUP: 45
+h -1 s -1 h -1 f -1 h -1 #SUP: 7
+h -1 s -1 h -1 f -1 s -1 #SUP: 19
+h -1 s -1 h -1 f -1 s -1 h -1 #SUP: 8
+h -1 s -1 h -1 f -1 f -1 #SUP: 15
+h -1 s -1 h -1 f -1 f -1 f -1 #SUP: 7
+h -1 s -1 h -1 f -1 f -1 f -1 f -1 #SUP: 7
+h -1 s -1 s -1 #SUP: 199
+h -1 s -1 s -1 x -1 #SUP: 7
+h -1 s -1 s -1 e -1 #SUP: 9
+h -1 s -1 s -1 b -1 #SUP: 81
+h -1 s -1 s -1 b -1 b -1 #SUP: 33
+h -1 s -1 s -1 b -1 b -1 b -1 #SUP: 14
+h -1 s -1 s -1 b -1 b -1 b -1 b -1 #SUP: 11
+h -1 s -1 s -1 b -1 h -1 #SUP: 13
+h -1 s -1 s -1 b -1 s -1 #SUP: 33
+h -1 s -1 s -1 b -1 s -1 h -1 #SUP: 12
+h -1 s -1 s -1 b -1 s -1 h -1 s -1 #SUP: 7
+h -1 s -1 s -1 b -1 s -1 s -1 #SUP: 16
+h -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 11
+h -1 s -1 s -1 h -1 #SUP: 53
+h -1 s -1 s -1 h -1 b -1 #SUP: 9
+h -1 s -1 s -1 h -1 h -1 #SUP: 10
+h -1 s -1 s -1 h -1 s -1 #SUP: 22
+h -1 s -1 s -1 h -1 s -1 s -1 #SUP: 10
+h -1 s -1 s -1 h -1 f -1 #SUP: 16
+h -1 s -1 s -1 h -1 f -1 s -1 #SUP: 8
+h -1 s -1 s -1 s -1 #SUP: 113
+h -1 s -1 s -1 s -1 x -1 #SUP: 7
+h -1 s -1 s -1 s -1 e -1 #SUP: 7
+h -1 s -1 s -1 s -1 b -1 #SUP: 32
+h -1 s -1 s -1 s -1 b -1 b -1 #SUP: 13
+h -1 s -1 s -1 s -1 b -1 b -1 s -1 #SUP: 7
+h -1 s -1 s -1 s -1 b -1 s -1 #SUP: 16
+h -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 11
+h -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 8
+h -1 s -1 s -1 s -1 h -1 #SUP: 25
+h -1 s -1 s -1 s -1 h -1 b -1 #SUP: 7
+h -1 s -1 s -1 s -1 h -1 s -1 #SUP: 12
+h -1 s -1 s -1 s -1 h -1 s -1 s -1 #SUP: 7
+h -1 s -1 s -1 s -1 s -1 #SUP: 60
+h -1 s -1 s -1 s -1 s -1 b -1 #SUP: 20
+h -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 14
+h -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 9
+h -1 s -1 s -1 s -1 s -1 h -1 #SUP: 11
+h -1 s -1 s -1 s -1 s -1 s -1 #SUP: 33
+h -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 7
+h -1 s -1 s -1 s -1 s -1 s -1 h -1 #SUP: 8
+h -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 22
+h -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 18
+h -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 7
+h -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 11
+h -1 s -1 s -1 s -1 s -1 f -1 #SUP: 8
+h -1 s -1 s -1 s -1 f -1 #SUP: 13
+h -1 s -1 s -1 s -1 f -1 s -1 #SUP: 7
+h -1 s -1 s -1 f -1 #SUP: 30
+h -1 s -1 s -1 f -1 s -1 #SUP: 14
+h -1 s -1 s -1 f -1 f -1 #SUP: 9
+h -1 s -1 f -1 #SUP: 60
+h -1 s -1 f -1 b -1 #SUP: 10
+h -1 s -1 f -1 h -1 #SUP: 15
+h -1 s -1 f -1 s -1 #SUP: 31
+h -1 s -1 f -1 s -1 b -1 #SUP: 8
+h -1 s -1 f -1 s -1 s -1 #SUP: 14
+h -1 s -1 f -1 s -1 s -1 s -1 #SUP: 7
+h -1 s -1 f -1 f -1 #SUP: 14
+h -1 f -1 #SUP: 288
+h -1 f -1 x -1 #SUP: 19
+h -1 f -1 e -1 #SUP: 13
+h -1 f -1 b -1 #SUP: 98
+h -1 f -1 b -1 b -1 #SUP: 34
+h -1 f -1 b -1 b -1 b -1 #SUP: 17
+h -1 f -1 b -1 b -1 h -1 #SUP: 11
+h -1 f -1 b -1 h -1 #SUP: 26
+h -1 f -1 b -1 h -1 b -1 #SUP: 11
+h -1 f -1 b -1 s -1 #SUP: 46
+h -1 f -1 b -1 s -1 b -1 #SUP: 15
+h -1 f -1 b -1 s -1 h -1 #SUP: 8
+h -1 f -1 b -1 s -1 s -1 #SUP: 20
+h -1 f -1 b -1 s -1 s -1 b -1 #SUP: 7
+h -1 f -1 b -1 s -1 s -1 h -1 #SUP: 7
+h -1 f -1 b -1 s -1 s -1 s -1 #SUP: 9
+h -1 f -1 b -1 s -1 f -1 #SUP: 9
+h -1 f -1 b -1 f -1 #SUP: 9
+h -1 f -1 h -1 #SUP: 80
+h -1 f -1 h -1 b -1 #SUP: 17
+h -1 f -1 h -1 h -1 #SUP: 25
+h -1 f -1 h -1 s -1 #SUP: 26
+h -1 f -1 h -1 s -1 s -1 #SUP: 7
+h -1 f -1 h -1 s -1 f -1 #SUP: 7
+h -1 f -1 h -1 f -1 #SUP: 26
+h -1 f -1 h -1 f -1 b -1 #SUP: 7
+h -1 f -1 h -1 f -1 h -1 #SUP: 7
+h -1 f -1 h -1 f -1 s -1 #SUP: 8
+h -1 f -1 s -1 #SUP: 161
+h -1 f -1 s -1 x -1 #SUP: 11
+h -1 f -1 s -1 b -1 #SUP: 42
+h -1 f -1 s -1 b -1 b -1 #SUP: 11
+h -1 f -1 s -1 b -1 h -1 #SUP: 15
+h -1 f -1 s -1 b -1 h -1 s -1 #SUP: 7
+h -1 f -1 s -1 b -1 s -1 #SUP: 12
+h -1 f -1 s -1 h -1 #SUP: 53
+h -1 f -1 s -1 h -1 b -1 #SUP: 11
+h -1 f -1 s -1 h -1 h -1 #SUP: 11
+h -1 f -1 s -1 h -1 s -1 #SUP: 18
+h -1 f -1 s -1 h -1 f -1 #SUP: 15
+h -1 f -1 s -1 h -1 f -1 s -1 #SUP: 8
+h -1 f -1 s -1 s -1 #SUP: 76
+h -1 f -1 s -1 s -1 b -1 #SUP: 19
+h -1 f -1 s -1 s -1 b -1 s -1 #SUP: 8
+h -1 f -1 s -1 s -1 h -1 #SUP: 15
+h -1 f -1 s -1 s -1 s -1 #SUP: 43
+h -1 f -1 s -1 s -1 s -1 b -1 #SUP: 9
+h -1 f -1 s -1 s -1 s -1 s -1 #SUP: 27
+h -1 f -1 s -1 s -1 s -1 s -1 b -1 #SUP: 7
+h -1 f -1 s -1 s -1 s -1 s -1 h -1 #SUP: 8
+h -1 f -1 s -1 s -1 s -1 s -1 s -1 #SUP: 13
+h -1 f -1 s -1 s -1 f -1 #SUP: 7
+h -1 f -1 s -1 f -1 #SUP: 24
+h -1 f -1 s -1 f -1 s -1 #SUP: 10
+h -1 f -1 f -1 #SUP: 129
+h -1 f -1 f -1 b -1 #SUP: 23
+h -1 f -1 f -1 b -1 b -1 #SUP: 8
+h -1 f -1 f -1 b -1 s -1 #SUP: 9
+h -1 f -1 f -1 h -1 #SUP: 28
+h -1 f -1 f -1 h -1 h -1 #SUP: 10
+h -1 f -1 f -1 h -1 f -1 #SUP: 7
+h -1 f -1 f -1 s -1 #SUP: 59
+h -1 f -1 f -1 s -1 b -1 #SUP: 16
+h -1 f -1 f -1 s -1 h -1 #SUP: 17
+h -1 f -1 f -1 s -1 h -1 f -1 #SUP: 8
+h -1 f -1 f -1 s -1 s -1 #SUP: 20
+h -1 f -1 f -1 s -1 s -1 s -1 #SUP: 13
+h -1 f -1 f -1 s -1 s -1 s -1 s -1 #SUP: 7
+h -1 f -1 f -1 f -1 #SUP: 46
+h -1 f -1 f -1 f -1 h -1 #SUP: 8
+h -1 f -1 f -1 f -1 s -1 #SUP: 17
+h -1 f -1 f -1 f -1 f -1 #SUP: 25
+h -1 f -1 f -1 f -1 f -1 s -1 #SUP: 8
+h -1 f -1 f -1 f -1 f -1 f -1 #SUP: 15
+h -1 f -1 f -1 f -1 f -1 f -1 f -1 #SUP: 8
+s -1 x -1 #SUP: 167
+s -1 e -1 #SUP: 122
+s -1 e -1 x -1 #SUP: 11
+s -1 e -1 e -1 #SUP: 88
+s -1 e -1 e -1 e -1 #SUP: 55
+s -1 e -1 e -1 e -1 e -1 #SUP: 33
+s -1 e -1 e -1 e -1 e -1 e -1 #SUP: 18
+s -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 14
+s -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 11
+s -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 9
+s -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 8
+s -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 e -1 #SUP: 7
+s -1 e -1 e -1 e -1 e -1 h -1 #SUP: 11
+s -1 e -1 e -1 e -1 b -1 #SUP: 7
+s -1 e -1 e -1 e -1 h -1 #SUP: 12
+s -1 e -1 e -1 b -1 #SUP: 18
+s -1 e -1 e -1 h -1 #SUP: 16
+s -1 e -1 e -1 h -1 s -1 #SUP: 8
+s -1 e -1 b -1 #SUP: 23
+s -1 e -1 b -1 b -1 #SUP: 10
+s -1 e -1 b -1 s -1 #SUP: 8
+s -1 e -1 i -1 #SUP: 7
+s -1 e -1 h -1 #SUP: 20
+s -1 e -1 h -1 b -1 #SUP: 8
+s -1 b -1 #SUP: 410
+s -1 b -1 x -1 #SUP: 38
+s -1 b -1 e -1 #SUP: 36
+s -1 b -1 e -1 e -1 #SUP: 25
+s -1 b -1 e -1 e -1 e -1 #SUP: 19
+s -1 b -1 e -1 e -1 e -1 e -1 #SUP: 12
+s -1 b -1 b -1 #SUP: 250
+s -1 b -1 b -1 x -1 #SUP: 13
+s -1 b -1 b -1 e -1 #SUP: 19
+s -1 b -1 b -1 e -1 e -1 #SUP: 12
+s -1 b -1 b -1 e -1 e -1 e -1 #SUP: 11
+s -1 b -1 b -1 e -1 e -1 e -1 e -1 #SUP: 8
+s -1 b -1 b -1 e -1 e -1 e -1 e -1 e -1 #SUP: 7
+s -1 b -1 b -1 b -1 #SUP: 133
+s -1 b -1 b -1 b -1 e -1 #SUP: 8
+s -1 b -1 b -1 b -1 b -1 #SUP: 83
+s -1 b -1 b -1 b -1 b -1 e -1 #SUP: 8
+s -1 b -1 b -1 b -1 b -1 b -1 #SUP: 40
+s -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 22
+s -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 13
+s -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 10
+s -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 10
+s -1 b -1 b -1 b -1 b -1 b -1 h -1 #SUP: 9
+s -1 b -1 b -1 b -1 b -1 h -1 #SUP: 23
+s -1 b -1 b -1 b -1 b -1 h -1 b -1 #SUP: 7
+s -1 b -1 b -1 b -1 b -1 h -1 s -1 #SUP: 11
+s -1 b -1 b -1 b -1 b -1 s -1 #SUP: 14
+s -1 b -1 b -1 b -1 h -1 #SUP: 30
+s -1 b -1 b -1 b -1 h -1 b -1 #SUP: 11
+s -1 b -1 b -1 b -1 h -1 h -1 #SUP: 9
+s -1 b -1 b -1 b -1 h -1 s -1 #SUP: 8
+s -1 b -1 b -1 b -1 s -1 #SUP: 39
+s -1 b -1 b -1 b -1 s -1 b -1 #SUP: 16
+s -1 b -1 b -1 b -1 s -1 b -1 s -1 #SUP: 9
+s -1 b -1 b -1 b -1 s -1 h -1 #SUP: 12
+s -1 b -1 b -1 b -1 s -1 s -1 #SUP: 11
+s -1 b -1 b -1 b -1 f -1 #SUP: 10
+s -1 b -1 b -1 b -1 f -1 s -1 #SUP: 7
+s -1 b -1 b -1 i -1 #SUP: 7
+s -1 b -1 b -1 h -1 #SUP: 89
+s -1 b -1 b -1 h -1 b -1 #SUP: 25
+s -1 b -1 b -1 h -1 b -1 b -1 #SUP: 10
+s -1 b -1 b -1 h -1 h -1 #SUP: 19
+s -1 b -1 b -1 h -1 h -1 b -1 #SUP: 8
+s -1 b -1 b -1 h -1 s -1 #SUP: 32
+s -1 b -1 b -1 h -1 s -1 b -1 #SUP: 14
+s -1 b -1 b -1 h -1 s -1 b -1 b -1 #SUP: 7
+s -1 b -1 b -1 h -1 s -1 s -1 #SUP: 11
+s -1 b -1 b -1 h -1 f -1 #SUP: 19
+s -1 b -1 b -1 h -1 f -1 s -1 #SUP: 8
+s -1 b -1 b -1 s -1 #SUP: 98
+s -1 b -1 b -1 s -1 b -1 #SUP: 49
+s -1 b -1 b -1 s -1 b -1 b -1 #SUP: 20
+s -1 b -1 b -1 s -1 b -1 b -1 b -1 #SUP: 13
+s -1 b -1 b -1 s -1 b -1 b -1 b -1 b -1 #SUP: 9
+s -1 b -1 b -1 s -1 b -1 h -1 #SUP: 8
+s -1 b -1 b -1 s -1 b -1 s -1 #SUP: 24
+s -1 b -1 b -1 s -1 b -1 s -1 b -1 #SUP: 10
+s -1 b -1 b -1 s -1 b -1 s -1 s -1 #SUP: 9
+s -1 b -1 b -1 s -1 h -1 #SUP: 22
+s -1 b -1 b -1 s -1 h -1 b -1 #SUP: 8
+s -1 b -1 b -1 s -1 s -1 #SUP: 47
+s -1 b -1 b -1 s -1 s -1 b -1 #SUP: 14
+s -1 b -1 b -1 s -1 s -1 b -1 s -1 #SUP: 9
+s -1 b -1 b -1 s -1 s -1 h -1 #SUP: 7
+s -1 b -1 b -1 s -1 s -1 s -1 #SUP: 25
+s -1 b -1 b -1 s -1 s -1 s -1 b -1 #SUP: 9
+s -1 b -1 b -1 s -1 s -1 s -1 s -1 #SUP: 15
+s -1 b -1 b -1 s -1 s -1 f -1 #SUP: 9
+s -1 b -1 b -1 f -1 #SUP: 19
+s -1 b -1 b -1 f -1 s -1 #SUP: 8
+s -1 b -1 i -1 #SUP: 17
+s -1 b -1 h -1 #SUP: 178
+s -1 b -1 h -1 b -1 #SUP: 56
+s -1 b -1 h -1 b -1 b -1 #SUP: 19
+s -1 b -1 h -1 b -1 b -1 b -1 #SUP: 7
+s -1 b -1 h -1 b -1 b -1 h -1 #SUP: 9
+s -1 b -1 h -1 b -1 h -1 #SUP: 17
+s -1 b -1 h -1 b -1 h -1 s -1 #SUP: 9
+s -1 b -1 h -1 b -1 s -1 #SUP: 14
+s -1 b -1 h -1 b -1 f -1 #SUP: 8
+s -1 b -1 h -1 h -1 #SUP: 51
+s -1 b -1 h -1 h -1 b -1 #SUP: 12
+s -1 b -1 h -1 h -1 h -1 #SUP: 14
+s -1 b -1 h -1 h -1 s -1 #SUP: 19
+s -1 b -1 h -1 h -1 s -1 b -1 #SUP: 7
+s -1 b -1 h -1 h -1 f -1 #SUP: 10
+s -1 b -1 h -1 s -1 #SUP: 87
+s -1 b -1 h -1 s -1 b -1 #SUP: 34
+s -1 b -1 h -1 s -1 b -1 b -1 #SUP: 13
+s -1 b -1 h -1 s -1 b -1 h -1 #SUP: 8
+s -1 b -1 h -1 s -1 b -1 s -1 #SUP: 8
+s -1 b -1 h -1 s -1 h -1 #SUP: 25
+s -1 b -1 h -1 s -1 h -1 h -1 #SUP: 7
+s -1 b -1 h -1 s -1 h -1 s -1 #SUP: 9
+s -1 b -1 h -1 s -1 s -1 #SUP: 31
+s -1 b -1 h -1 s -1 s -1 b -1 #SUP: 10
+s -1 b -1 h -1 s -1 s -1 h -1 #SUP: 9
+s -1 b -1 h -1 s -1 s -1 s -1 #SUP: 10
+s -1 b -1 h -1 f -1 #SUP: 36
+s -1 b -1 h -1 f -1 s -1 #SUP: 14
+s -1 b -1 h -1 f -1 f -1 #SUP: 10
+s -1 b -1 h -1 f -1 f -1 s -1 #SUP: 7
+s -1 b -1 s -1 #SUP: 227
+s -1 b -1 s -1 x -1 #SUP: 13
+s -1 b -1 s -1 e -1 #SUP: 10
+s -1 b -1 s -1 e -1 e -1 #SUP: 8
+s -1 b -1 s -1 b -1 #SUP: 112
+s -1 b -1 s -1 b -1 b -1 #SUP: 51
+s -1 b -1 s -1 b -1 b -1 b -1 #SUP: 20
+s -1 b -1 s -1 b -1 b -1 b -1 b -1 #SUP: 7
+s -1 b -1 s -1 b -1 b -1 b -1 s -1 #SUP: 8
+s -1 b -1 s -1 b -1 b -1 h -1 #SUP: 9
+s -1 b -1 s -1 b -1 b -1 s -1 #SUP: 24
+s -1 b -1 s -1 b -1 b -1 s -1 b -1 #SUP: 9
+s -1 b -1 s -1 b -1 b -1 s -1 s -1 #SUP: 8
+s -1 b -1 s -1 b -1 h -1 #SUP: 20
+s -1 b -1 s -1 b -1 h -1 s -1 #SUP: 11
+s -1 b -1 s -1 b -1 s -1 #SUP: 62
+s -1 b -1 s -1 b -1 s -1 b -1 #SUP: 26
+s -1 b -1 s -1 b -1 s -1 b -1 b -1 #SUP: 9
+s -1 b -1 s -1 b -1 s -1 b -1 s -1 #SUP: 15
+s -1 b -1 s -1 b -1 s -1 b -1 s -1 b -1 #SUP: 7
+s -1 b -1 s -1 b -1 s -1 b -1 s -1 s -1 #SUP: 7
+s -1 b -1 s -1 b -1 s -1 h -1 #SUP: 19
+s -1 b -1 s -1 b -1 s -1 h -1 s -1 #SUP: 11
+s -1 b -1 s -1 b -1 s -1 h -1 s -1 s -1 #SUP: 7
+s -1 b -1 s -1 b -1 s -1 s -1 #SUP: 34
+s -1 b -1 s -1 b -1 s -1 s -1 b -1 #SUP: 14
+s -1 b -1 s -1 b -1 s -1 s -1 b -1 s -1 #SUP: 9
+s -1 b -1 s -1 b -1 s -1 s -1 h -1 #SUP: 8
+s -1 b -1 s -1 b -1 s -1 s -1 s -1 #SUP: 15
+s -1 b -1 s -1 b -1 s -1 s -1 s -1 s -1 #SUP: 9
+s -1 b -1 s -1 b -1 f -1 #SUP: 10
+s -1 b -1 s -1 b -1 f -1 s -1 #SUP: 7
+s -1 b -1 s -1 h -1 #SUP: 75
+s -1 b -1 s -1 h -1 b -1 #SUP: 20
+s -1 b -1 s -1 h -1 b -1 s -1 #SUP: 14
+s -1 b -1 s -1 h -1 b -1 s -1 s -1 #SUP: 10
+s -1 b -1 s -1 h -1 h -1 #SUP: 22
+s -1 b -1 s -1 h -1 h -1 b -1 #SUP: 8
+s -1 b -1 s -1 h -1 h -1 f -1 #SUP: 7
+s -1 b -1 s -1 h -1 s -1 #SUP: 37
+s -1 b -1 s -1 h -1 s -1 b -1 #SUP: 9
+s -1 b -1 s -1 h -1 s -1 s -1 #SUP: 21
+s -1 b -1 s -1 h -1 s -1 s -1 b -1 #SUP: 7
+s -1 b -1 s -1 h -1 s -1 s -1 s -1 #SUP: 11
+s -1 b -1 s -1 h -1 f -1 #SUP: 12
+s -1 b -1 s -1 s -1 #SUP: 138
+s -1 b -1 s -1 s -1 x -1 #SUP: 8
+s -1 b -1 s -1 s -1 e -1 #SUP: 8
+s -1 b -1 s -1 s -1 e -1 e -1 #SUP: 7
+s -1 b -1 s -1 s -1 e -1 e -1 e -1 #SUP: 7
+s -1 b -1 s -1 s -1 b -1 #SUP: 62
+s -1 b -1 s -1 s -1 b -1 b -1 #SUP: 25
+s -1 b -1 s -1 s -1 b -1 b -1 b -1 #SUP: 11
+s -1 b -1 s -1 s -1 b -1 b -1 s -1 #SUP: 14
+s -1 b -1 s -1 s -1 b -1 s -1 #SUP: 42
+s -1 b -1 s -1 s -1 b -1 s -1 b -1 #SUP: 19
+s -1 b -1 s -1 s -1 b -1 s -1 b -1 s -1 #SUP: 13
+s -1 b -1 s -1 s -1 b -1 s -1 s -1 #SUP: 24
+s -1 b -1 s -1 s -1 b -1 s -1 s -1 b -1 #SUP: 11
+s -1 b -1 s -1 s -1 b -1 s -1 s -1 b -1 s -1 #SUP: 7
+s -1 b -1 s -1 s -1 b -1 s -1 s -1 h -1 #SUP: 10
+s -1 b -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 10
+s -1 b -1 s -1 s -1 h -1 #SUP: 46
+s -1 b -1 s -1 s -1 h -1 b -1 #SUP: 14
+s -1 b -1 s -1 s -1 h -1 b -1 s -1 #SUP: 13
+s -1 b -1 s -1 s -1 h -1 b -1 s -1 s -1 #SUP: 10
+s -1 b -1 s -1 s -1 h -1 h -1 #SUP: 9
+s -1 b -1 s -1 s -1 h -1 s -1 #SUP: 14
+s -1 b -1 s -1 s -1 h -1 s -1 s -1 #SUP: 10
+s -1 b -1 s -1 s -1 h -1 s -1 s -1 s -1 #SUP: 9
+s -1 b -1 s -1 s -1 h -1 f -1 #SUP: 11
+s -1 b -1 s -1 s -1 s -1 #SUP: 88
+s -1 b -1 s -1 s -1 s -1 e -1 #SUP: 7
+s -1 b -1 s -1 s -1 s -1 b -1 #SUP: 36
+s -1 b -1 s -1 s -1 s -1 b -1 b -1 #SUP: 10
+s -1 b -1 s -1 s -1 s -1 b -1 s -1 #SUP: 22
+s -1 b -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 18
+s -1 b -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 11
+s -1 b -1 s -1 s -1 s -1 h -1 #SUP: 26
+s -1 b -1 s -1 s -1 s -1 h -1 b -1 #SUP: 12
+s -1 b -1 s -1 s -1 s -1 h -1 b -1 s -1 #SUP: 10
+s -1 b -1 s -1 s -1 s -1 h -1 b -1 s -1 s -1 #SUP: 8
+s -1 b -1 s -1 s -1 s -1 h -1 s -1 #SUP: 10
+s -1 b -1 s -1 s -1 s -1 h -1 s -1 s -1 #SUP: 8
+s -1 b -1 s -1 s -1 s -1 s -1 #SUP: 56
+s -1 b -1 s -1 s -1 s -1 s -1 b -1 #SUP: 18
+s -1 b -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 14
+s -1 b -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 12
+s -1 b -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 9
+s -1 b -1 s -1 s -1 s -1 s -1 h -1 #SUP: 8
+s -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 38
+s -1 b -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 11
+s -1 b -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 8
+s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 24
+s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 18
+s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 14
+s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 11
+s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 8
+s -1 b -1 s -1 s -1 s -1 f -1 #SUP: 13
+s -1 b -1 s -1 s -1 f -1 #SUP: 18
+s -1 b -1 s -1 s -1 f -1 s -1 #SUP: 8
+s -1 b -1 s -1 s -1 f -1 s -1 s -1 #SUP: 7
+s -1 b -1 s -1 f -1 #SUP: 29
+s -1 b -1 s -1 f -1 s -1 #SUP: 12
+s -1 b -1 f -1 #SUP: 78
+s -1 b -1 f -1 b -1 #SUP: 18
+s -1 b -1 f -1 b -1 s -1 #SUP: 7
+s -1 b -1 f -1 h -1 #SUP: 15
+s -1 b -1 f -1 h -1 b -1 #SUP: 7
+s -1 b -1 f -1 s -1 #SUP: 41
+s -1 b -1 f -1 s -1 b -1 #SUP: 13
+s -1 b -1 f -1 s -1 b -1 s -1 #SUP: 7
+s -1 b -1 f -1 s -1 s -1 #SUP: 17
+s -1 b -1 f -1 s -1 s -1 s -1 #SUP: 8
+s -1 b -1 f -1 f -1 #SUP: 15
+s -1 i -1 #SUP: 34
+s -1 i -1 e -1 #SUP: 18
+s -1 i -1 e -1 e -1 #SUP: 11
+s -1 i -1 i -1 #SUP: 13
+s -1 i -1 i -1 e -1 #SUP: 7
+s -1 h -1 #SUP: 356
+s -1 h -1 x -1 #SUP: 21
+s -1 h -1 e -1 #SUP: 15
+s -1 h -1 e -1 e -1 #SUP: 12
+s -1 h -1 b -1 #SUP: 165
+s -1 h -1 b -1 b -1 #SUP: 50
+s -1 h -1 b -1 b -1 b -1 #SUP: 25
+s -1 h -1 b -1 b -1 b -1 b -1 #SUP: 14
+s -1 h -1 b -1 b -1 b -1 b -1 b -1 #SUP: 8
+s -1 h -1 b -1 b -1 h -1 #SUP: 16
+s -1 h -1 b -1 b -1 s -1 #SUP: 7
+s -1 h -1 b -1 h -1 #SUP: 37
+s -1 h -1 b -1 h -1 b -1 #SUP: 14
+s -1 h -1 b -1 h -1 h -1 #SUP: 12
+s -1 h -1 b -1 h -1 f -1 #SUP: 7
+s -1 h -1 b -1 s -1 #SUP: 85
+s -1 h -1 b -1 s -1 b -1 #SUP: 22
+s -1 h -1 b -1 s -1 b -1 s -1 #SUP: 12
+s -1 h -1 b -1 s -1 h -1 #SUP: 20
+s -1 h -1 b -1 s -1 h -1 h -1 #SUP: 8
+s -1 h -1 b -1 s -1 h -1 s -1 #SUP: 7
+s -1 h -1 b -1 s -1 s -1 #SUP: 51
+s -1 h -1 b -1 s -1 s -1 b -1 #SUP: 13
+s -1 h -1 b -1 s -1 s -1 b -1 s -1 #SUP: 10
+s -1 h -1 b -1 s -1 s -1 h -1 #SUP: 9
+s -1 h -1 b -1 s -1 s -1 s -1 #SUP: 31
+s -1 h -1 b -1 s -1 s -1 s -1 b -1 #SUP: 8
+s -1 h -1 b -1 s -1 s -1 s -1 s -1 #SUP: 18
+s -1 h -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 h -1 b -1 s -1 f -1 #SUP: 9
+s -1 h -1 b -1 f -1 #SUP: 18
+s -1 h -1 b -1 f -1 s -1 #SUP: 9
+s -1 h -1 h -1 #SUP: 145
+s -1 h -1 h -1 b -1 #SUP: 51
+s -1 h -1 h -1 b -1 b -1 #SUP: 12
+s -1 h -1 h -1 b -1 h -1 #SUP: 12
+s -1 h -1 h -1 b -1 s -1 #SUP: 27
+s -1 h -1 h -1 b -1 s -1 s -1 #SUP: 11
+s -1 h -1 h -1 h -1 #SUP: 46
+s -1 h -1 h -1 h -1 b -1 #SUP: 17
+s -1 h -1 h -1 h -1 b -1 s -1 #SUP: 7
+s -1 h -1 h -1 h -1 h -1 #SUP: 8
+s -1 h -1 h -1 h -1 s -1 #SUP: 8
+s -1 h -1 h -1 h -1 f -1 #SUP: 15
+s -1 h -1 h -1 s -1 #SUP: 47
+s -1 h -1 h -1 s -1 b -1 #SUP: 12
+s -1 h -1 h -1 s -1 h -1 #SUP: 11
+s -1 h -1 h -1 s -1 h -1 b -1 #SUP: 7
+s -1 h -1 h -1 s -1 s -1 #SUP: 21
+s -1 h -1 h -1 s -1 s -1 s -1 #SUP: 12
+s -1 h -1 h -1 f -1 #SUP: 49
+s -1 h -1 h -1 f -1 b -1 #SUP: 11
+s -1 h -1 h -1 f -1 h -1 #SUP: 7
+s -1 h -1 h -1 f -1 s -1 #SUP: 23
+s -1 h -1 h -1 f -1 s -1 s -1 #SUP: 12
+s -1 h -1 h -1 f -1 s -1 s -1 s -1 #SUP: 8
+s -1 h -1 h -1 f -1 f -1 #SUP: 12
+s -1 h -1 h -1 f -1 f -1 s -1 #SUP: 9
+s -1 h -1 s -1 #SUP: 198
+s -1 h -1 s -1 x -1 #SUP: 9
+s -1 h -1 s -1 e -1 #SUP: 11
+s -1 h -1 s -1 e -1 e -1 #SUP: 7
+s -1 h -1 s -1 b -1 #SUP: 75
+s -1 h -1 s -1 b -1 b -1 #SUP: 31
+s -1 h -1 s -1 b -1 b -1 b -1 #SUP: 10
+s -1 h -1 s -1 b -1 b -1 h -1 #SUP: 11
+s -1 h -1 s -1 b -1 b -1 s -1 #SUP: 9
+s -1 h -1 s -1 b -1 h -1 #SUP: 23
+s -1 h -1 s -1 b -1 h -1 h -1 #SUP: 7
+s -1 h -1 s -1 b -1 h -1 s -1 #SUP: 10
+s -1 h -1 s -1 b -1 s -1 #SUP: 22
+s -1 h -1 s -1 b -1 s -1 s -1 #SUP: 7
+s -1 h -1 s -1 h -1 #SUP: 58
+s -1 h -1 s -1 h -1 b -1 #SUP: 14
+s -1 h -1 s -1 h -1 h -1 #SUP: 12
+s -1 h -1 s -1 h -1 s -1 #SUP: 21
+s -1 h -1 s -1 h -1 s -1 b -1 #SUP: 7
+s -1 h -1 s -1 h -1 s -1 s -1 #SUP: 9
+s -1 h -1 s -1 h -1 f -1 #SUP: 19
+s -1 h -1 s -1 h -1 f -1 f -1 #SUP: 7
+s -1 h -1 s -1 s -1 #SUP: 104
+s -1 h -1 s -1 s -1 b -1 #SUP: 35
+s -1 h -1 s -1 s -1 b -1 b -1 #SUP: 13
+s -1 h -1 s -1 s -1 b -1 s -1 #SUP: 18
+s -1 h -1 s -1 s -1 b -1 s -1 s -1 #SUP: 8
+s -1 h -1 s -1 s -1 h -1 #SUP: 21
+s -1 h -1 s -1 s -1 h -1 s -1 #SUP: 11
+s -1 h -1 s -1 s -1 h -1 f -1 #SUP: 7
+s -1 h -1 s -1 s -1 s -1 #SUP: 60
+s -1 h -1 s -1 s -1 s -1 b -1 #SUP: 13
+s -1 h -1 s -1 s -1 s -1 b -1 s -1 #SUP: 9
+s -1 h -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 8
+s -1 h -1 s -1 s -1 s -1 h -1 #SUP: 11
+s -1 h -1 s -1 s -1 s -1 s -1 #SUP: 32
+s -1 h -1 s -1 s -1 s -1 s -1 b -1 #SUP: 11
+s -1 h -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 8
+s -1 h -1 s -1 s -1 s -1 s -1 s -1 #SUP: 17
+s -1 h -1 s -1 s -1 s -1 s -1 s -1 h -1 #SUP: 7
+s -1 h -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 12
+s -1 h -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 9
+s -1 h -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 h -1 s -1 s -1 s -1 f -1 #SUP: 7
+s -1 h -1 s -1 s -1 f -1 #SUP: 15
+s -1 h -1 s -1 f -1 #SUP: 23
+s -1 h -1 s -1 f -1 s -1 #SUP: 8
+s -1 h -1 s -1 f -1 s -1 s -1 #SUP: 7
+s -1 h -1 s -1 f -1 f -1 #SUP: 8
+s -1 h -1 f -1 #SUP: 148
+s -1 h -1 f -1 x -1 #SUP: 7
+s -1 h -1 f -1 b -1 #SUP: 39
+s -1 h -1 f -1 b -1 s -1 #SUP: 22
+s -1 h -1 f -1 b -1 s -1 b -1 #SUP: 8
+s -1 h -1 f -1 b -1 s -1 s -1 #SUP: 10
+s -1 h -1 f -1 b -1 f -1 #SUP: 7
+s -1 h -1 f -1 h -1 #SUP: 31
+s -1 h -1 f -1 h -1 h -1 #SUP: 7
+s -1 h -1 f -1 h -1 s -1 #SUP: 11
+s -1 h -1 f -1 h -1 f -1 #SUP: 9
+s -1 h -1 f -1 s -1 #SUP: 76
+s -1 h -1 f -1 s -1 b -1 #SUP: 14
+s -1 h -1 f -1 s -1 h -1 #SUP: 22
+s -1 h -1 f -1 s -1 h -1 s -1 #SUP: 9
+s -1 h -1 f -1 s -1 h -1 f -1 #SUP: 9
+s -1 h -1 f -1 s -1 s -1 #SUP: 34
+s -1 h -1 f -1 s -1 s -1 b -1 #SUP: 10
+s -1 h -1 f -1 s -1 s -1 s -1 #SUP: 23
+s -1 h -1 f -1 s -1 s -1 s -1 s -1 #SUP: 16
+s -1 h -1 f -1 s -1 f -1 #SUP: 10
+s -1 h -1 f -1 f -1 #SUP: 51
+s -1 h -1 f -1 f -1 b -1 #SUP: 7
+s -1 h -1 f -1 f -1 h -1 #SUP: 12
+s -1 h -1 f -1 f -1 s -1 #SUP: 21
+s -1 h -1 f -1 f -1 s -1 h -1 #SUP: 9
+s -1 h -1 f -1 f -1 s -1 s -1 #SUP: 8
+s -1 h -1 f -1 f -1 f -1 #SUP: 22
+s -1 h -1 f -1 f -1 f -1 f -1 #SUP: 13
+s -1 h -1 f -1 f -1 f -1 f -1 f -1 #SUP: 9
+s -1 s -1 #SUP: 329
+s -1 s -1 x -1 #SUP: 71
+s -1 s -1 e -1 #SUP: 54
+s -1 s -1 e -1 x -1 #SUP: 7
+s -1 s -1 e -1 e -1 #SUP: 41
+s -1 s -1 e -1 e -1 e -1 #SUP: 27
+s -1 s -1 e -1 e -1 e -1 e -1 #SUP: 15
+s -1 s -1 e -1 e -1 e -1 e -1 e -1 #SUP: 8
+s -1 s -1 e -1 e -1 b -1 #SUP: 10
+s -1 s -1 e -1 b -1 #SUP: 7
+s -1 s -1 b -1 #SUP: 243
+s -1 s -1 b -1 x -1 #SUP: 17
+s -1 s -1 b -1 e -1 #SUP: 12
+s -1 s -1 b -1 e -1 e -1 #SUP: 9
+s -1 s -1 b -1 b -1 #SUP: 111
+s -1 s -1 b -1 b -1 b -1 #SUP: 54
+s -1 s -1 b -1 b -1 b -1 b -1 #SUP: 31
+s -1 s -1 b -1 b -1 b -1 b -1 b -1 #SUP: 15
+s -1 s -1 b -1 b -1 b -1 b -1 b -1 b -1 #SUP: 7
+s -1 s -1 b -1 b -1 b -1 b -1 h -1 #SUP: 7
+s -1 s -1 b -1 b -1 b -1 h -1 #SUP: 10
+s -1 s -1 b -1 b -1 b -1 s -1 #SUP: 15
+s -1 s -1 b -1 b -1 h -1 #SUP: 20
+s -1 s -1 b -1 b -1 h -1 s -1 #SUP: 7
+s -1 s -1 b -1 b -1 s -1 #SUP: 50
+s -1 s -1 b -1 b -1 s -1 b -1 #SUP: 24
+s -1 s -1 b -1 b -1 s -1 b -1 b -1 #SUP: 9
+s -1 s -1 b -1 b -1 s -1 b -1 s -1 #SUP: 11
+s -1 s -1 b -1 b -1 s -1 h -1 #SUP: 8
+s -1 s -1 b -1 b -1 s -1 s -1 #SUP: 22
+s -1 s -1 b -1 b -1 s -1 s -1 s -1 #SUP: 13
+s -1 s -1 b -1 b -1 s -1 s -1 s -1 s -1 #SUP: 9
+s -1 s -1 b -1 b -1 f -1 #SUP: 7
+s -1 s -1 b -1 h -1 #SUP: 57
+s -1 s -1 b -1 h -1 b -1 #SUP: 16
+s -1 s -1 b -1 h -1 b -1 s -1 #SUP: 8
+s -1 s -1 b -1 h -1 h -1 #SUP: 12
+s -1 s -1 b -1 h -1 s -1 #SUP: 23
+s -1 s -1 b -1 h -1 s -1 s -1 #SUP: 13
+s -1 s -1 b -1 h -1 s -1 s -1 s -1 #SUP: 7
+s -1 s -1 b -1 h -1 f -1 #SUP: 9
+s -1 s -1 b -1 s -1 #SUP: 144
+s -1 s -1 b -1 s -1 x -1 #SUP: 7
+s -1 s -1 b -1 s -1 b -1 #SUP: 56
+s -1 s -1 b -1 s -1 b -1 b -1 #SUP: 22
+s -1 s -1 b -1 s -1 b -1 b -1 s -1 #SUP: 15
+s -1 s -1 b -1 s -1 b -1 s -1 #SUP: 37
+s -1 s -1 b -1 s -1 b -1 s -1 b -1 #SUP: 14
+s -1 s -1 b -1 s -1 b -1 s -1 b -1 s -1 #SUP: 9
+s -1 s -1 b -1 s -1 b -1 s -1 s -1 #SUP: 22
+s -1 s -1 b -1 s -1 b -1 s -1 s -1 b -1 #SUP: 9
+s -1 s -1 b -1 s -1 b -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 b -1 s -1 h -1 #SUP: 36
+s -1 s -1 b -1 s -1 h -1 b -1 #SUP: 8
+s -1 s -1 b -1 s -1 h -1 h -1 #SUP: 9
+s -1 s -1 b -1 s -1 h -1 s -1 #SUP: 19
+s -1 s -1 b -1 s -1 h -1 s -1 s -1 #SUP: 12
+s -1 s -1 b -1 s -1 s -1 #SUP: 102
+s -1 s -1 b -1 s -1 s -1 e -1 #SUP: 7
+s -1 s -1 b -1 s -1 s -1 b -1 #SUP: 40
+s -1 s -1 b -1 s -1 s -1 b -1 b -1 #SUP: 15
+s -1 s -1 b -1 s -1 s -1 b -1 b -1 b -1 #SUP: 7
+s -1 s -1 b -1 s -1 s -1 b -1 b -1 s -1 #SUP: 8
+s -1 s -1 b -1 s -1 s -1 b -1 s -1 #SUP: 27
+s -1 s -1 b -1 s -1 s -1 b -1 s -1 b -1 #SUP: 10
+s -1 s -1 b -1 s -1 s -1 b -1 s -1 b -1 s -1 #SUP: 7
+s -1 s -1 b -1 s -1 s -1 b -1 s -1 s -1 #SUP: 18
+s -1 s -1 b -1 s -1 s -1 b -1 s -1 s -1 h -1 #SUP: 8
+s -1 s -1 b -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 b -1 s -1 s -1 h -1 #SUP: 30
+s -1 s -1 b -1 s -1 s -1 h -1 b -1 #SUP: 10
+s -1 s -1 b -1 s -1 s -1 h -1 b -1 s -1 #SUP: 10
+s -1 s -1 b -1 s -1 s -1 h -1 b -1 s -1 s -1 #SUP: 8
+s -1 s -1 b -1 s -1 s -1 h -1 s -1 #SUP: 11
+s -1 s -1 b -1 s -1 s -1 h -1 s -1 s -1 #SUP: 9
+s -1 s -1 b -1 s -1 s -1 h -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 70
+s -1 s -1 b -1 s -1 s -1 s -1 b -1 #SUP: 23
+s -1 s -1 b -1 s -1 s -1 s -1 b -1 s -1 #SUP: 16
+s -1 s -1 b -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 13
+s -1 s -1 b -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 9
+s -1 s -1 b -1 s -1 s -1 s -1 h -1 #SUP: 17
+s -1 s -1 b -1 s -1 s -1 s -1 h -1 b -1 #SUP: 7
+s -1 s -1 b -1 s -1 s -1 s -1 h -1 b -1 s -1 #SUP: 7
+s -1 s -1 b -1 s -1 s -1 s -1 h -1 s -1 #SUP: 8
+s -1 s -1 b -1 s -1 s -1 s -1 h -1 s -1 s -1 #SUP: 7
+s -1 s -1 b -1 s -1 s -1 s -1 s -1 #SUP: 49
+s -1 s -1 b -1 s -1 s -1 s -1 s -1 b -1 #SUP: 13
+s -1 s -1 b -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 11
+s -1 s -1 b -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 9
+s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 34
+s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 10
+s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 7
+s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 21
+s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 14
+s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 12
+s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 s -1 b -1 s -1 s -1 s -1 f -1 #SUP: 11
+s -1 s -1 b -1 s -1 s -1 f -1 #SUP: 14
+s -1 s -1 b -1 s -1 s -1 f -1 s -1 #SUP: 8
+s -1 s -1 b -1 s -1 f -1 #SUP: 17
+s -1 s -1 b -1 s -1 f -1 s -1 #SUP: 8
+s -1 s -1 b -1 f -1 #SUP: 43
+s -1 s -1 b -1 f -1 b -1 #SUP: 8
+s -1 s -1 b -1 f -1 h -1 #SUP: 12
+s -1 s -1 b -1 f -1 s -1 #SUP: 18
+s -1 s -1 b -1 f -1 s -1 s -1 #SUP: 8
+s -1 s -1 b -1 f -1 f -1 #SUP: 8
+s -1 s -1 i -1 #SUP: 12
+s -1 s -1 i -1 e -1 #SUP: 7
+s -1 s -1 h -1 #SUP: 199
+s -1 s -1 h -1 e -1 #SUP: 8
+s -1 s -1 h -1 b -1 #SUP: 75
+s -1 s -1 h -1 b -1 b -1 #SUP: 16
+s -1 s -1 h -1 b -1 h -1 #SUP: 9
+s -1 s -1 h -1 b -1 s -1 #SUP: 49
+s -1 s -1 h -1 b -1 s -1 b -1 #SUP: 10
+s -1 s -1 h -1 b -1 s -1 s -1 #SUP: 35
+s -1 s -1 h -1 b -1 s -1 s -1 b -1 #SUP: 11
+s -1 s -1 h -1 b -1 s -1 s -1 b -1 s -1 #SUP: 10
+s -1 s -1 h -1 b -1 s -1 s -1 h -1 #SUP: 8
+s -1 s -1 h -1 b -1 s -1 s -1 s -1 #SUP: 21
+s -1 s -1 h -1 b -1 s -1 s -1 s -1 s -1 #SUP: 13
+s -1 s -1 h -1 h -1 #SUP: 62
+s -1 s -1 h -1 h -1 b -1 #SUP: 24
+s -1 s -1 h -1 h -1 b -1 s -1 #SUP: 15
+s -1 s -1 h -1 h -1 b -1 s -1 s -1 #SUP: 8
+s -1 s -1 h -1 h -1 h -1 #SUP: 18
+s -1 s -1 h -1 h -1 h -1 f -1 #SUP: 8
+s -1 s -1 h -1 h -1 s -1 #SUP: 21
+s -1 s -1 h -1 h -1 s -1 s -1 #SUP: 13
+s -1 s -1 h -1 h -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 h -1 h -1 f -1 #SUP: 20
+s -1 s -1 h -1 h -1 f -1 b -1 #SUP: 7
+s -1 s -1 h -1 h -1 f -1 s -1 #SUP: 8
+s -1 s -1 h -1 s -1 #SUP: 101
+s -1 s -1 h -1 s -1 b -1 #SUP: 21
+s -1 s -1 h -1 s -1 b -1 s -1 #SUP: 10
+s -1 s -1 h -1 s -1 h -1 #SUP: 19
+s -1 s -1 h -1 s -1 s -1 #SUP: 64
+s -1 s -1 h -1 s -1 s -1 b -1 #SUP: 15
+s -1 s -1 h -1 s -1 s -1 b -1 s -1 #SUP: 9
+s -1 s -1 h -1 s -1 s -1 h -1 #SUP: 8
+s -1 s -1 h -1 s -1 s -1 s -1 #SUP: 44
+s -1 s -1 h -1 s -1 s -1 s -1 b -1 #SUP: 9
+s -1 s -1 h -1 s -1 s -1 s -1 b -1 s -1 #SUP: 7
+s -1 s -1 h -1 s -1 s -1 s -1 s -1 #SUP: 25
+s -1 s -1 h -1 s -1 s -1 s -1 s -1 b -1 #SUP: 9
+s -1 s -1 h -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 7
+s -1 s -1 h -1 s -1 s -1 s -1 s -1 s -1 #SUP: 14
+s -1 s -1 h -1 s -1 s -1 s -1 s -1 s -1 h -1 #SUP: 7
+s -1 s -1 h -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 h -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 h -1 s -1 s -1 f -1 #SUP: 12
+s -1 s -1 h -1 s -1 f -1 #SUP: 7
+s -1 s -1 h -1 f -1 #SUP: 78
+s -1 s -1 h -1 f -1 b -1 #SUP: 22
+s -1 s -1 h -1 f -1 b -1 s -1 #SUP: 15
+s -1 s -1 h -1 f -1 h -1 #SUP: 13
+s -1 s -1 h -1 f -1 s -1 #SUP: 35
+s -1 s -1 h -1 f -1 s -1 s -1 #SUP: 25
+s -1 s -1 h -1 f -1 s -1 s -1 s -1 #SUP: 19
+s -1 s -1 h -1 f -1 s -1 s -1 s -1 s -1 #SUP: 12
+s -1 s -1 h -1 f -1 f -1 #SUP: 22
+s -1 s -1 h -1 f -1 f -1 f -1 #SUP: 8
+s -1 s -1 s -1 #SUP: 221
+s -1 s -1 s -1 x -1 #SUP: 39
+s -1 s -1 s -1 e -1 #SUP: 32
+s -1 s -1 s -1 e -1 e -1 #SUP: 23
+s -1 s -1 s -1 e -1 e -1 e -1 #SUP: 11
+s -1 s -1 s -1 e -1 e -1 b -1 #SUP: 7
+s -1 s -1 s -1 b -1 #SUP: 148
+s -1 s -1 s -1 b -1 x -1 #SUP: 7
+s -1 s -1 s -1 b -1 b -1 #SUP: 58
+s -1 s -1 s -1 b -1 b -1 b -1 #SUP: 20
+s -1 s -1 s -1 b -1 b -1 b -1 b -1 #SUP: 9
+s -1 s -1 s -1 b -1 b -1 h -1 #SUP: 10
+s -1 s -1 s -1 b -1 b -1 s -1 #SUP: 29
+s -1 s -1 s -1 b -1 b -1 s -1 b -1 #SUP: 11
+s -1 s -1 s -1 b -1 b -1 s -1 s -1 #SUP: 15
+s -1 s -1 s -1 b -1 b -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 s -1 b -1 b -1 s -1 s -1 s -1 s -1 #SUP: 9
+s -1 s -1 s -1 b -1 h -1 #SUP: 31
+s -1 s -1 s -1 b -1 h -1 b -1 #SUP: 7
+s -1 s -1 s -1 b -1 h -1 s -1 #SUP: 15
+s -1 s -1 s -1 b -1 h -1 s -1 s -1 #SUP: 10
+s -1 s -1 s -1 b -1 s -1 #SUP: 94
+s -1 s -1 s -1 b -1 s -1 b -1 #SUP: 22
+s -1 s -1 s -1 b -1 s -1 b -1 b -1 #SUP: 8
+s -1 s -1 s -1 b -1 s -1 b -1 s -1 #SUP: 17
+s -1 s -1 s -1 b -1 s -1 b -1 s -1 s -1 #SUP: 12
+s -1 s -1 s -1 b -1 s -1 h -1 #SUP: 14
+s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 81
+s -1 s -1 s -1 b -1 s -1 s -1 b -1 #SUP: 24
+s -1 s -1 s -1 b -1 s -1 s -1 b -1 s -1 #SUP: 17
+s -1 s -1 s -1 b -1 s -1 s -1 b -1 s -1 s -1 #SUP: 10
+s -1 s -1 s -1 b -1 s -1 s -1 h -1 #SUP: 11
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 55
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 b -1 #SUP: 15
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 b -1 s -1 #SUP: 12
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 9
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 h -1 #SUP: 10
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 #SUP: 36
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 b -1 #SUP: 10
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 9
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 25
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 8
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 16
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 9
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 s -1 b -1 s -1 s -1 s -1 f -1 #SUP: 9
+s -1 s -1 s -1 b -1 s -1 s -1 f -1 #SUP: 11
+s -1 s -1 s -1 b -1 s -1 f -1 #SUP: 11
+s -1 s -1 s -1 b -1 f -1 #SUP: 26
+s -1 s -1 s -1 b -1 f -1 s -1 #SUP: 15
+s -1 s -1 s -1 b -1 f -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 i -1 #SUP: 8
+s -1 s -1 s -1 h -1 #SUP: 115
+s -1 s -1 s -1 h -1 b -1 #SUP: 45
+s -1 s -1 s -1 h -1 b -1 b -1 #SUP: 8
+s -1 s -1 s -1 h -1 b -1 s -1 #SUP: 31
+s -1 s -1 s -1 h -1 b -1 s -1 b -1 #SUP: 7
+s -1 s -1 s -1 h -1 b -1 s -1 s -1 #SUP: 23
+s -1 s -1 s -1 h -1 b -1 s -1 s -1 s -1 #SUP: 14
+s -1 s -1 s -1 h -1 b -1 s -1 s -1 s -1 s -1 #SUP: 9
+s -1 s -1 s -1 h -1 h -1 #SUP: 34
+s -1 s -1 s -1 h -1 h -1 b -1 #SUP: 13
+s -1 s -1 s -1 h -1 h -1 h -1 #SUP: 7
+s -1 s -1 s -1 h -1 h -1 s -1 #SUP: 11
+s -1 s -1 s -1 h -1 h -1 s -1 s -1 #SUP: 9
+s -1 s -1 s -1 h -1 h -1 f -1 #SUP: 14
+s -1 s -1 s -1 h -1 s -1 #SUP: 62
+s -1 s -1 s -1 h -1 s -1 b -1 #SUP: 10
+s -1 s -1 s -1 h -1 s -1 s -1 #SUP: 42
+s -1 s -1 s -1 h -1 s -1 s -1 b -1 #SUP: 8
+s -1 s -1 s -1 h -1 s -1 s -1 s -1 #SUP: 32
+s -1 s -1 s -1 h -1 s -1 s -1 s -1 s -1 #SUP: 19
+s -1 s -1 s -1 h -1 s -1 s -1 s -1 s -1 s -1 #SUP: 12
+s -1 s -1 s -1 h -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 h -1 f -1 #SUP: 35
+s -1 s -1 s -1 h -1 f -1 b -1 #SUP: 10
+s -1 s -1 s -1 h -1 f -1 b -1 s -1 #SUP: 7
+s -1 s -1 s -1 h -1 f -1 h -1 #SUP: 7
+s -1 s -1 s -1 h -1 f -1 s -1 #SUP: 17
+s -1 s -1 s -1 h -1 f -1 s -1 s -1 #SUP: 15
+s -1 s -1 s -1 h -1 f -1 s -1 s -1 s -1 #SUP: 13
+s -1 s -1 s -1 h -1 f -1 s -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 s -1 h -1 f -1 f -1 #SUP: 10
+s -1 s -1 s -1 s -1 #SUP: 144
+s -1 s -1 s -1 s -1 x -1 #SUP: 23
+s -1 s -1 s -1 s -1 e -1 #SUP: 15
+s -1 s -1 s -1 s -1 e -1 e -1 #SUP: 11
+s -1 s -1 s -1 s -1 b -1 #SUP: 101
+s -1 s -1 s -1 s -1 b -1 b -1 #SUP: 27
+s -1 s -1 s -1 s -1 b -1 b -1 b -1 #SUP: 8
+s -1 s -1 s -1 s -1 b -1 b -1 s -1 #SUP: 14
+s -1 s -1 s -1 s -1 b -1 b -1 s -1 s -1 #SUP: 9
+s -1 s -1 s -1 s -1 b -1 b -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 b -1 b -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 b -1 h -1 #SUP: 12
+s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 72
+s -1 s -1 s -1 s -1 b -1 s -1 b -1 #SUP: 15
+s -1 s -1 s -1 s -1 b -1 s -1 b -1 s -1 #SUP: 13
+s -1 s -1 s -1 s -1 b -1 s -1 b -1 s -1 s -1 #SUP: 9
+s -1 s -1 s -1 s -1 b -1 s -1 h -1 #SUP: 8
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 62
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 b -1 #SUP: 11
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 b -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 41
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 b -1 #SUP: 10
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 b -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 #SUP: 23
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 b -1 #SUP: 7
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 17
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 13
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 f -1 #SUP: 7
+s -1 s -1 s -1 s -1 b -1 s -1 f -1 #SUP: 8
+s -1 s -1 s -1 s -1 b -1 f -1 #SUP: 14
+s -1 s -1 s -1 s -1 b -1 f -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 h -1 #SUP: 74
+s -1 s -1 s -1 s -1 h -1 b -1 #SUP: 19
+s -1 s -1 s -1 s -1 h -1 b -1 s -1 #SUP: 13
+s -1 s -1 s -1 s -1 h -1 b -1 s -1 s -1 #SUP: 9
+s -1 s -1 s -1 s -1 h -1 h -1 #SUP: 24
+s -1 s -1 s -1 s -1 h -1 h -1 b -1 #SUP: 7
+s -1 s -1 s -1 s -1 h -1 h -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 h -1 h -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 h -1 h -1 f -1 #SUP: 10
+s -1 s -1 s -1 s -1 h -1 s -1 #SUP: 36
+s -1 s -1 s -1 s -1 h -1 s -1 s -1 #SUP: 27
+s -1 s -1 s -1 s -1 h -1 s -1 s -1 s -1 #SUP: 24
+s -1 s -1 s -1 s -1 h -1 s -1 s -1 s -1 s -1 #SUP: 15
+s -1 s -1 s -1 s -1 h -1 s -1 s -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 s -1 s -1 h -1 f -1 #SUP: 22
+s -1 s -1 s -1 s -1 h -1 f -1 s -1 #SUP: 13
+s -1 s -1 s -1 s -1 h -1 f -1 s -1 s -1 #SUP: 11
+s -1 s -1 s -1 s -1 h -1 f -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 s -1 s -1 h -1 f -1 s -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 s -1 #SUP: 94
+s -1 s -1 s -1 s -1 s -1 x -1 #SUP: 14
+s -1 s -1 s -1 s -1 s -1 e -1 #SUP: 9
+s -1 s -1 s -1 s -1 s -1 e -1 e -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 61
+s -1 s -1 s -1 s -1 s -1 b -1 b -1 #SUP: 12
+s -1 s -1 s -1 s -1 s -1 b -1 b -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 48
+s -1 s -1 s -1 s -1 s -1 b -1 s -1 b -1 #SUP: 10
+s -1 s -1 s -1 s -1 s -1 b -1 s -1 b -1 s -1 #SUP: 10
+s -1 s -1 s -1 s -1 s -1 b -1 s -1 b -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 42
+s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 30
+s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 b -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 #SUP: 17
+s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 13
+s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 s -1 s -1 s -1 b -1 f -1 #SUP: 12
+s -1 s -1 s -1 s -1 s -1 b -1 f -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 h -1 #SUP: 44
+s -1 s -1 s -1 s -1 s -1 h -1 b -1 #SUP: 10
+s -1 s -1 s -1 s -1 s -1 h -1 b -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 h -1 h -1 #SUP: 12
+s -1 s -1 s -1 s -1 s -1 h -1 s -1 #SUP: 23
+s -1 s -1 s -1 s -1 s -1 h -1 s -1 s -1 #SUP: 16
+s -1 s -1 s -1 s -1 s -1 h -1 s -1 s -1 s -1 #SUP: 15
+s -1 s -1 s -1 s -1 s -1 h -1 s -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 s -1 s -1 s -1 h -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 h -1 f -1 #SUP: 15
+s -1 s -1 s -1 s -1 s -1 h -1 f -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 s -1 h -1 f -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 h -1 f -1 s -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 66
+s -1 s -1 s -1 s -1 s -1 s -1 x -1 #SUP: 10
+s -1 s -1 s -1 s -1 s -1 s -1 e -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 41
+s -1 s -1 s -1 s -1 s -1 s -1 b -1 b -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 30
+s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 b -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 25
+s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 22
+s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 #SUP: 11
+s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 s -1 s -1 b -1 f -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 s -1 h -1 #SUP: 33
+s -1 s -1 s -1 s -1 s -1 s -1 h -1 b -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 s -1 h -1 h -1 #SUP: 8
+s -1 s -1 s -1 s -1 s -1 s -1 h -1 s -1 #SUP: 16
+s -1 s -1 s -1 s -1 s -1 s -1 h -1 s -1 s -1 #SUP: 9
+s -1 s -1 s -1 s -1 s -1 s -1 h -1 s -1 s -1 s -1 #SUP: 9
+s -1 s -1 s -1 s -1 s -1 s -1 h -1 f -1 #SUP: 8
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 56
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 33
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 23
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 20
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 17
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 h -1 #SUP: 25
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 h -1 s -1 #SUP: 12
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 42
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 20
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 14
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 12
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 h -1 #SUP: 16
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 27
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 16
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 12
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 10
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 h -1 #SUP: 10
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 17
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 10
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 11
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 f -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 f -1 #SUP: 12
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 f -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 f -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 f -1 #SUP: 14
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 f -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 s -1 s -1 s -1 f -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 s -1 f -1 #SUP: 19
+s -1 s -1 s -1 s -1 s -1 s -1 f -1 s -1 #SUP: 9
+s -1 s -1 s -1 s -1 s -1 s -1 f -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 s -1 s -1 f -1 f -1 #SUP: 8
+s -1 s -1 s -1 s -1 s -1 f -1 #SUP: 28
+s -1 s -1 s -1 s -1 s -1 f -1 s -1 #SUP: 15
+s -1 s -1 s -1 s -1 s -1 f -1 s -1 s -1 #SUP: 13
+s -1 s -1 s -1 s -1 s -1 f -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 s -1 s -1 s -1 f -1 f -1 #SUP: 12
+s -1 s -1 s -1 s -1 s -1 f -1 f -1 s -1 #SUP: 9
+s -1 s -1 s -1 s -1 s -1 f -1 f -1 s -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 f -1 #SUP: 43
+s -1 s -1 s -1 s -1 f -1 b -1 #SUP: 8
+s -1 s -1 s -1 s -1 f -1 s -1 #SUP: 23
+s -1 s -1 s -1 s -1 f -1 s -1 s -1 #SUP: 16
+s -1 s -1 s -1 s -1 f -1 s -1 s -1 s -1 #SUP: 13
+s -1 s -1 s -1 s -1 f -1 s -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 f -1 f -1 #SUP: 19
+s -1 s -1 s -1 s -1 f -1 f -1 s -1 #SUP: 13
+s -1 s -1 s -1 s -1 f -1 f -1 s -1 s -1 #SUP: 12
+s -1 s -1 s -1 s -1 f -1 f -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 s -1 s -1 f -1 f -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 s -1 f -1 f -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 s -1 s -1 f -1 #SUP: 69
+s -1 s -1 s -1 f -1 b -1 #SUP: 16
+s -1 s -1 s -1 f -1 b -1 s -1 #SUP: 12
+s -1 s -1 s -1 f -1 b -1 s -1 s -1 #SUP: 8
+s -1 s -1 s -1 f -1 h -1 #SUP: 8
+s -1 s -1 s -1 f -1 s -1 #SUP: 40
+s -1 s -1 s -1 f -1 s -1 s -1 #SUP: 27
+s -1 s -1 s -1 f -1 s -1 s -1 s -1 #SUP: 17
+s -1 s -1 s -1 f -1 s -1 s -1 s -1 s -1 #SUP: 12
+s -1 s -1 s -1 f -1 s -1 s -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 s -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 s -1 f -1 f -1 #SUP: 28
+s -1 s -1 s -1 f -1 f -1 s -1 #SUP: 19
+s -1 s -1 s -1 f -1 f -1 s -1 s -1 #SUP: 17
+s -1 s -1 s -1 f -1 f -1 s -1 s -1 s -1 #SUP: 11
+s -1 s -1 s -1 f -1 f -1 s -1 s -1 s -1 s -1 #SUP: 9
+s -1 s -1 s -1 f -1 f -1 s -1 s -1 s -1 s -1 s -1 #SUP: 8
+s -1 s -1 f -1 #SUP: 112
+s -1 s -1 f -1 b -1 #SUP: 27
+s -1 s -1 f -1 b -1 b -1 #SUP: 7
+s -1 s -1 f -1 b -1 s -1 #SUP: 15
+s -1 s -1 f -1 b -1 s -1 s -1 #SUP: 9
+s -1 s -1 f -1 b -1 s -1 s -1 s -1 #SUP: 7
+s -1 s -1 f -1 h -1 #SUP: 14
+s -1 s -1 f -1 s -1 #SUP: 69
+s -1 s -1 f -1 s -1 b -1 #SUP: 14
+s -1 s -1 f -1 s -1 h -1 #SUP: 8
+s -1 s -1 f -1 s -1 s -1 #SUP: 44
+s -1 s -1 f -1 s -1 s -1 b -1 #SUP: 10
+s -1 s -1 f -1 s -1 s -1 h -1 #SUP: 8
+s -1 s -1 f -1 s -1 s -1 s -1 #SUP: 31
+s -1 s -1 f -1 s -1 s -1 s -1 s -1 #SUP: 22
+s -1 s -1 f -1 s -1 s -1 s -1 s -1 s -1 #SUP: 16
+s -1 s -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 15
+s -1 s -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 11
+s -1 s -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 s -1 f -1 s -1 f -1 #SUP: 8
+s -1 s -1 f -1 f -1 #SUP: 44
+s -1 s -1 f -1 f -1 s -1 #SUP: 32
+s -1 s -1 f -1 f -1 s -1 s -1 #SUP: 26
+s -1 s -1 f -1 f -1 s -1 s -1 s -1 #SUP: 17
+s -1 s -1 f -1 f -1 s -1 s -1 s -1 s -1 #SUP: 12
+s -1 s -1 f -1 f -1 s -1 s -1 s -1 s -1 s -1 #SUP: 10
+s -1 s -1 f -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 s -1 f -1 f -1 f -1 #SUP: 14
+s -1 s -1 f -1 f -1 f -1 f -1 #SUP: 10
+s -1 f -1 #SUP: 203
+s -1 f -1 e -1 #SUP: 9
+s -1 f -1 b -1 #SUP: 64
+s -1 f -1 b -1 b -1 #SUP: 17
+s -1 f -1 b -1 b -1 h -1 #SUP: 10
+s -1 f -1 b -1 h -1 #SUP: 12
+s -1 f -1 b -1 s -1 #SUP: 33
+s -1 f -1 b -1 s -1 s -1 #SUP: 18
+s -1 f -1 b -1 s -1 s -1 s -1 #SUP: 13
+s -1 f -1 b -1 s -1 s -1 s -1 s -1 #SUP: 8
+s -1 f -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 f -1 h -1 #SUP: 53
+s -1 f -1 h -1 b -1 #SUP: 12
+s -1 f -1 h -1 h -1 #SUP: 16
+s -1 f -1 h -1 s -1 #SUP: 15
+s -1 f -1 h -1 s -1 s -1 #SUP: 10
+s -1 f -1 h -1 s -1 s -1 s -1 #SUP: 9
+s -1 f -1 h -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 f -1 h -1 f -1 #SUP: 14
+s -1 f -1 s -1 #SUP: 126
+s -1 f -1 s -1 x -1 #SUP: 8
+s -1 f -1 s -1 b -1 #SUP: 33
+s -1 f -1 s -1 b -1 b -1 #SUP: 16
+s -1 f -1 s -1 b -1 b -1 b -1 #SUP: 10
+s -1 f -1 s -1 b -1 s -1 #SUP: 11
+s -1 f -1 s -1 h -1 #SUP: 24
+s -1 f -1 s -1 h -1 s -1 #SUP: 11
+s -1 f -1 s -1 s -1 #SUP: 76
+s -1 f -1 s -1 s -1 b -1 #SUP: 15
+s -1 f -1 s -1 s -1 h -1 #SUP: 18
+s -1 f -1 s -1 s -1 h -1 s -1 #SUP: 10
+s -1 f -1 s -1 s -1 h -1 s -1 s -1 #SUP: 8
+s -1 f -1 s -1 s -1 s -1 #SUP: 48
+s -1 f -1 s -1 s -1 s -1 b -1 #SUP: 10
+s -1 f -1 s -1 s -1 s -1 b -1 s -1 #SUP: 7
+s -1 f -1 s -1 s -1 s -1 h -1 #SUP: 13
+s -1 f -1 s -1 s -1 s -1 s -1 #SUP: 33
+s -1 f -1 s -1 s -1 s -1 s -1 b -1 #SUP: 7
+s -1 f -1 s -1 s -1 s -1 s -1 h -1 #SUP: 8
+s -1 f -1 s -1 s -1 s -1 s -1 s -1 #SUP: 21
+s -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 18
+s -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 12
+s -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 11
+s -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+s -1 f -1 s -1 s -1 f -1 #SUP: 8
+s -1 f -1 s -1 f -1 #SUP: 19
+s -1 f -1 s -1 f -1 s -1 #SUP: 10
+s -1 f -1 s -1 f -1 s -1 s -1 #SUP: 7
+s -1 f -1 f -1 #SUP: 78
+s -1 f -1 f -1 h -1 #SUP: 10
+s -1 f -1 f -1 s -1 #SUP: 47
+s -1 f -1 f -1 s -1 b -1 #SUP: 7
+s -1 f -1 f -1 s -1 s -1 #SUP: 35
+s -1 f -1 f -1 s -1 s -1 s -1 #SUP: 23
+s -1 f -1 f -1 s -1 s -1 s -1 s -1 #SUP: 16
+s -1 f -1 f -1 s -1 s -1 s -1 s -1 s -1 #SUP: 11
+s -1 f -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 8
+s -1 f -1 f -1 f -1 #SUP: 30
+s -1 f -1 f -1 f -1 s -1 #SUP: 9
+s -1 f -1 f -1 f -1 f -1 #SUP: 18
+s -1 f -1 f -1 f -1 f -1 s -1 #SUP: 8
+s -1 f -1 f -1 f -1 f -1 f -1 #SUP: 7
+f -1 x -1 #SUP: 52
+f -1 e -1 #SUP: 29
+f -1 e -1 e -1 #SUP: 10
+f -1 e -1 b -1 #SUP: 7
+f -1 e -1 h -1 #SUP: 10
+f -1 b -1 #SUP: 195
+f -1 b -1 e -1 #SUP: 7
+f -1 b -1 b -1 #SUP: 79
+f -1 b -1 b -1 b -1 #SUP: 36
+f -1 b -1 b -1 b -1 b -1 #SUP: 11
+f -1 b -1 b -1 b -1 h -1 #SUP: 12
+f -1 b -1 b -1 b -1 s -1 #SUP: 9
+f -1 b -1 b -1 h -1 #SUP: 29
+f -1 b -1 b -1 h -1 b -1 #SUP: 10
+f -1 b -1 b -1 h -1 h -1 #SUP: 10
+f -1 b -1 b -1 h -1 s -1 #SUP: 11
+f -1 b -1 b -1 s -1 #SUP: 14
+f -1 b -1 h -1 #SUP: 58
+f -1 b -1 h -1 b -1 #SUP: 20
+f -1 b -1 h -1 h -1 #SUP: 14
+f -1 b -1 h -1 s -1 #SUP: 19
+f -1 b -1 h -1 s -1 b -1 #SUP: 7
+f -1 b -1 h -1 s -1 s -1 #SUP: 8
+f -1 b -1 h -1 f -1 #SUP: 8
+f -1 b -1 s -1 #SUP: 102
+f -1 b -1 s -1 b -1 #SUP: 30
+f -1 b -1 s -1 b -1 b -1 #SUP: 7
+f -1 b -1 s -1 b -1 h -1 #SUP: 10
+f -1 b -1 s -1 b -1 s -1 #SUP: 11
+f -1 b -1 s -1 b -1 s -1 s -1 #SUP: 7
+f -1 b -1 s -1 h -1 #SUP: 24
+f -1 b -1 s -1 h -1 s -1 #SUP: 12
+f -1 b -1 s -1 s -1 #SUP: 50
+f -1 b -1 s -1 s -1 b -1 #SUP: 15
+f -1 b -1 s -1 s -1 b -1 s -1 #SUP: 12
+f -1 b -1 s -1 s -1 b -1 s -1 s -1 #SUP: 7
+f -1 b -1 s -1 s -1 h -1 #SUP: 11
+f -1 b -1 s -1 s -1 s -1 #SUP: 28
+f -1 b -1 s -1 s -1 s -1 b -1 #SUP: 7
+f -1 b -1 s -1 s -1 s -1 s -1 #SUP: 20
+f -1 b -1 s -1 s -1 s -1 s -1 s -1 #SUP: 15
+f -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 12
+f -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 9
+f -1 b -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 8
+f -1 b -1 s -1 f -1 #SUP: 15
+f -1 b -1 f -1 #SUP: 27
+f -1 b -1 f -1 b -1 #SUP: 8
+f -1 b -1 f -1 s -1 #SUP: 8
+f -1 b -1 f -1 f -1 #SUP: 8
+f -1 h -1 #SUP: 177
+f -1 h -1 x -1 #SUP: 14
+f -1 h -1 b -1 #SUP: 48
+f -1 h -1 b -1 b -1 #SUP: 18
+f -1 h -1 b -1 h -1 #SUP: 9
+f -1 h -1 b -1 s -1 #SUP: 10
+f -1 h -1 b -1 f -1 #SUP: 12
+f -1 h -1 h -1 #SUP: 66
+f -1 h -1 h -1 x -1 #SUP: 7
+f -1 h -1 h -1 b -1 #SUP: 15
+f -1 h -1 h -1 b -1 h -1 #SUP: 8
+f -1 h -1 h -1 h -1 #SUP: 25
+f -1 h -1 h -1 h -1 h -1 #SUP: 10
+f -1 h -1 h -1 s -1 #SUP: 11
+f -1 h -1 h -1 f -1 #SUP: 15
+f -1 h -1 h -1 f -1 b -1 #SUP: 7
+f -1 h -1 s -1 #SUP: 73
+f -1 h -1 s -1 b -1 #SUP: 12
+f -1 h -1 s -1 h -1 #SUP: 17
+f -1 h -1 s -1 h -1 s -1 #SUP: 9
+f -1 h -1 s -1 s -1 #SUP: 24
+f -1 h -1 s -1 s -1 s -1 #SUP: 16
+f -1 h -1 s -1 s -1 s -1 s -1 #SUP: 10
+f -1 h -1 s -1 s -1 s -1 s -1 s -1 #SUP: 8
+f -1 h -1 s -1 f -1 #SUP: 18
+f -1 h -1 s -1 f -1 s -1 #SUP: 7
+f -1 h -1 f -1 #SUP: 60
+f -1 h -1 f -1 b -1 #SUP: 16
+f -1 h -1 f -1 b -1 s -1 #SUP: 13
+f -1 h -1 f -1 h -1 #SUP: 13
+f -1 h -1 f -1 s -1 #SUP: 18
+f -1 h -1 f -1 f -1 #SUP: 22
+f -1 h -1 f -1 f -1 f -1 #SUP: 10
+f -1 h -1 f -1 f -1 f -1 f -1 #SUP: 7
+f -1 s -1 #SUP: 280
+f -1 s -1 x -1 #SUP: 29
+f -1 s -1 e -1 #SUP: 24
+f -1 s -1 e -1 e -1 #SUP: 16
+f -1 s -1 e -1 e -1 e -1 #SUP: 8
+f -1 s -1 b -1 #SUP: 114
+f -1 s -1 b -1 b -1 #SUP: 41
+f -1 s -1 b -1 b -1 b -1 #SUP: 18
+f -1 s -1 b -1 b -1 b -1 b -1 #SUP: 9
+f -1 s -1 b -1 b -1 h -1 #SUP: 10
+f -1 s -1 b -1 b -1 s -1 #SUP: 14
+f -1 s -1 b -1 b -1 s -1 s -1 #SUP: 7
+f -1 s -1 b -1 h -1 #SUP: 32
+f -1 s -1 b -1 h -1 b -1 #SUP: 9
+f -1 s -1 b -1 h -1 s -1 #SUP: 15
+f -1 s -1 b -1 h -1 s -1 b -1 #SUP: 8
+f -1 s -1 b -1 s -1 #SUP: 41
+f -1 s -1 b -1 s -1 b -1 #SUP: 17
+f -1 s -1 b -1 s -1 h -1 #SUP: 7
+f -1 s -1 b -1 s -1 s -1 #SUP: 17
+f -1 s -1 b -1 s -1 s -1 s -1 #SUP: 7
+f -1 s -1 b -1 f -1 #SUP: 14
+f -1 s -1 b -1 f -1 s -1 #SUP: 10
+f -1 s -1 h -1 #SUP: 99
+f -1 s -1 h -1 b -1 #SUP: 22
+f -1 s -1 h -1 b -1 h -1 #SUP: 9
+f -1 s -1 h -1 b -1 s -1 #SUP: 7
+f -1 s -1 h -1 h -1 #SUP: 26
+f -1 s -1 h -1 h -1 s -1 #SUP: 9
+f -1 s -1 h -1 h -1 f -1 #SUP: 8
+f -1 s -1 h -1 s -1 #SUP: 43
+f -1 s -1 h -1 s -1 b -1 #SUP: 13
+f -1 s -1 h -1 s -1 h -1 #SUP: 15
+f -1 s -1 h -1 s -1 s -1 #SUP: 12
+f -1 s -1 h -1 s -1 f -1 #SUP: 7
+f -1 s -1 h -1 f -1 #SUP: 26
+f -1 s -1 h -1 f -1 s -1 #SUP: 16
+f -1 s -1 h -1 f -1 s -1 h -1 #SUP: 7
+f -1 s -1 h -1 f -1 f -1 #SUP: 10
+f -1 s -1 s -1 #SUP: 165
+f -1 s -1 s -1 x -1 #SUP: 11
+f -1 s -1 s -1 e -1 #SUP: 9
+f -1 s -1 s -1 b -1 #SUP: 48
+f -1 s -1 s -1 b -1 b -1 #SUP: 12
+f -1 s -1 s -1 b -1 h -1 #SUP: 7
+f -1 s -1 s -1 b -1 s -1 #SUP: 24
+f -1 s -1 s -1 b -1 s -1 b -1 #SUP: 10
+f -1 s -1 s -1 b -1 s -1 s -1 #SUP: 9
+f -1 s -1 s -1 h -1 #SUP: 51
+f -1 s -1 s -1 h -1 b -1 #SUP: 10
+f -1 s -1 s -1 h -1 h -1 #SUP: 8
+f -1 s -1 s -1 h -1 s -1 #SUP: 19
+f -1 s -1 s -1 h -1 s -1 s -1 #SUP: 11
+f -1 s -1 s -1 h -1 f -1 #SUP: 15
+f -1 s -1 s -1 s -1 #SUP: 102
+f -1 s -1 s -1 s -1 b -1 #SUP: 29
+f -1 s -1 s -1 s -1 b -1 b -1 #SUP: 8
+f -1 s -1 s -1 s -1 b -1 s -1 #SUP: 18
+f -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 14
+f -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 8
+f -1 s -1 s -1 s -1 h -1 #SUP: 24
+f -1 s -1 s -1 s -1 h -1 s -1 #SUP: 12
+f -1 s -1 s -1 s -1 s -1 #SUP: 70
+f -1 s -1 s -1 s -1 s -1 b -1 #SUP: 17
+f -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 12
+f -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 10
+f -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 s -1 #SUP: 7
+f -1 s -1 s -1 s -1 s -1 h -1 #SUP: 21
+f -1 s -1 s -1 s -1 s -1 h -1 f -1 #SUP: 7
+f -1 s -1 s -1 s -1 s -1 s -1 #SUP: 45
+f -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 12
+f -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 #SUP: 9
+f -1 s -1 s -1 s -1 s -1 s -1 b -1 s -1 s -1 #SUP: 8
+f -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 30
+f -1 s -1 s -1 s -1 s -1 s -1 s -1 b -1 #SUP: 8
+f -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 22
+f -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 16
+f -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 11
+f -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 7
+f -1 s -1 s -1 s -1 s -1 f -1 #SUP: 8
+f -1 s -1 s -1 s -1 f -1 #SUP: 13
+f -1 s -1 s -1 f -1 #SUP: 28
+f -1 s -1 s -1 f -1 s -1 #SUP: 17
+f -1 s -1 s -1 f -1 s -1 s -1 #SUP: 14
+f -1 s -1 s -1 f -1 s -1 s -1 s -1 #SUP: 9
+f -1 s -1 s -1 f -1 f -1 #SUP: 9
+f -1 s -1 f -1 #SUP: 60
+f -1 s -1 f -1 b -1 #SUP: 8
+f -1 s -1 f -1 h -1 #SUP: 14
+f -1 s -1 f -1 s -1 #SUP: 29
+f -1 s -1 f -1 s -1 s -1 #SUP: 15
+f -1 s -1 f -1 s -1 s -1 s -1 #SUP: 8
+f -1 s -1 f -1 s -1 f -1 #SUP: 7
+f -1 s -1 f -1 f -1 #SUP: 21
+f -1 s -1 f -1 f -1 s -1 #SUP: 7
+f -1 s -1 f -1 f -1 f -1 #SUP: 13
+f -1 f -1 #SUP: 184
+f -1 f -1 x -1 #SUP: 13
+f -1 f -1 e -1 #SUP: 9
+f -1 f -1 b -1 #SUP: 48
+f -1 f -1 b -1 b -1 #SUP: 15
+f -1 f -1 b -1 h -1 #SUP: 7
+f -1 f -1 b -1 s -1 #SUP: 23
+f -1 f -1 b -1 s -1 s -1 #SUP: 11
+f -1 f -1 b -1 s -1 s -1 s -1 #SUP: 8
+f -1 f -1 b -1 s -1 s -1 s -1 s -1 #SUP: 7
+f -1 f -1 b -1 f -1 #SUP: 7
+f -1 f -1 h -1 #SUP: 56
+f -1 f -1 h -1 b -1 #SUP: 7
+f -1 f -1 h -1 h -1 #SUP: 22
+f -1 f -1 h -1 h -1 h -1 #SUP: 8
+f -1 f -1 h -1 s -1 #SUP: 16
+f -1 f -1 h -1 f -1 #SUP: 20
+f -1 f -1 s -1 #SUP: 129
+f -1 f -1 s -1 x -1 #SUP: 8
+f -1 f -1 s -1 e -1 #SUP: 12
+f -1 f -1 s -1 e -1 e -1 #SUP: 9
+f -1 f -1 s -1 b -1 #SUP: 30
+f -1 f -1 s -1 b -1 b -1 #SUP: 10
+f -1 f -1 s -1 b -1 s -1 #SUP: 10
+f -1 f -1 s -1 h -1 #SUP: 30
+f -1 f -1 s -1 h -1 h -1 #SUP: 8
+f -1 f -1 s -1 h -1 s -1 #SUP: 12
+f -1 f -1 s -1 h -1 f -1 #SUP: 12
+f -1 f -1 s -1 s -1 #SUP: 66
+f -1 f -1 s -1 s -1 h -1 #SUP: 13
+f -1 f -1 s -1 s -1 s -1 #SUP: 44
+f -1 f -1 s -1 s -1 s -1 b -1 #SUP: 7
+f -1 f -1 s -1 s -1 s -1 h -1 #SUP: 8
+f -1 f -1 s -1 s -1 s -1 s -1 #SUP: 29
+f -1 f -1 s -1 s -1 s -1 s -1 h -1 #SUP: 7
+f -1 f -1 s -1 s -1 s -1 s -1 s -1 #SUP: 17
+f -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 12
+f -1 f -1 s -1 s -1 s -1 s -1 s -1 s -1 s -1 #SUP: 10
+f -1 f -1 s -1 s -1 f -1 #SUP: 16
+f -1 f -1 s -1 s -1 f -1 s -1 #SUP: 8
+f -1 f -1 s -1 s -1 f -1 s -1 s -1 #SUP: 7
+f -1 f -1 s -1 f -1 #SUP: 20
+f -1 f -1 s -1 f -1 s -1 #SUP: 8
+f -1 f -1 s -1 f -1 f -1 #SUP: 10
+f -1 f -1 f -1 #SUP: 72
+f -1 f -1 f -1 b -1 #SUP: 19
+f -1 f -1 f -1 b -1 s -1 #SUP: 11
+f -1 f -1 f -1 b -1 s -1 s -1 #SUP: 7
+f -1 f -1 f -1 h -1 #SUP: 22
+f -1 f -1 f -1 h -1 s -1 #SUP: 7
+f -1 f -1 f -1 h -1 f -1 #SUP: 7
+f -1 f -1 f -1 s -1 #SUP: 48
+f -1 f -1 f -1 s -1 e -1 #SUP: 7
+f -1 f -1 f -1 s -1 h -1 #SUP: 12
+f -1 f -1 f -1 s -1 h -1 s -1 #SUP: 7
+f -1 f -1 f -1 s -1 s -1 #SUP: 21
+f -1 f -1 f -1 s -1 s -1 s -1 #SUP: 10
+f -1 f -1 f -1 s -1 s -1 f -1 #SUP: 7
+f -1 f -1 f -1 s -1 f -1 #SUP: 9
+f -1 f -1 f -1 f -1 #SUP: 41
+f -1 f -1 f -1 f -1 b -1 #SUP: 10
+f -1 f -1 f -1 f -1 h -1 #SUP: 13
+f -1 f -1 f -1 f -1 s -1 #SUP: 24
+f -1 f -1 f -1 f -1 s -1 h -1 #SUP: 7
+f -1 f -1 f -1 f -1 s -1 s -1 #SUP: 13
+f -1 f -1 f -1 f -1 s -1 s -1 s -1 #SUP: 7
+f -1 f -1 f -1 f -1 f -1 #SUP: 22
+f -1 f -1 f -1 f -1 f -1 s -1 #SUP: 11
+f -1 f -1 f -1 f -1 f -1 f -1 #SUP: 11
