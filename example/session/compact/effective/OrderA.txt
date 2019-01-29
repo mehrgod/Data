@@ -1,0 +1,1 @@
+_e,_e+,_S,_F,e+,e+F,S+,S+F,S+FS,S+s,S+sS,SF,SFS,SFs,Ss,SsS,Ss+,Ss+S,Ss+F,SsF,Sf,Ee,FS,FS+,FSF,FSs,F+,F+S,F+s,F+f,Fs,FsS,Fs+,Fs+S,FsF,Ff,Ff+,Ffs,sS,sS+,sSF,sSs,s+,s+S,s+S+,s+Ss,s+Ss+,s+F,s+Fs,s+f,sF,sFS,sF+,sFs,sf,fS,f+,f+s

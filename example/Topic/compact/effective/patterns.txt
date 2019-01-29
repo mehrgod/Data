@@ -1,0 +1,95 @@
+x -1 e -1 #SUP: 760
+x -1 e -1 x -1 #SUP: 273
+x -1 e -1 p -1 #SUP: 431
+x -1 e -1 p -1 x -1 #SUP: 397
+x -1 b -1 #SUP: 4349
+x -1 b -1 x -1 #SUP: 2999
+x -1 b -1 p -1 #SUP: 185
+x -1 b -1 p -1 x -1 #SUP: 111
+x -1 b -1 s -1 #SUP: 974
+x -1 b -1 s -1 x -1 #SUP: 443
+x -1 b -1 s -1 p -1 #SUP: 449
+x -1 b -1 s -1 p -1 x -1 #SUP: 396
+x -1 i -1 #SUP: 245
+x -1 i -1 p -1 #SUP: 102
+x -1 h -1 #SUP: 2956
+x -1 h -1 x -1 #SUP: 404
+x -1 h -1 b -1 #SUP: 630
+x -1 h -1 b -1 x -1 #SUP: 351
+x -1 h -1 b -1 s -1 #SUP: 187
+x -1 h -1 p -1 #SUP: 486
+x -1 h -1 p -1 b -1 #SUP: 129
+x -1 h -1 p -1 s -1 #SUP: 147
+x -1 h -1 p -1 f -1 #SUP: 123
+x -1 h -1 s -1 #SUP: 901
+x -1 h -1 s -1 x -1 #SUP: 539
+x -1 h -1 s -1 p -1 #SUP: 280
+x -1 h -1 s -1 p -1 x -1 #SUP: 242
+x -1 h -1 f -1 #SUP: 515
+x -1 h -1 f -1 p -1 #SUP: 128
+x -1 h -1 f -1 s -1 #SUP: 197
+x -1 h -1 f -1 s -1 x -1 #SUP: 108
+x -1 s -1 #SUP: 983
+x -1 s -1 x -1 #SUP: 722
+x -1 s -1 p -1 #SUP: 217
+x -1 s -1 p -1 x -1 #SUP: 207
+x -1 f -1 #SUP: 443
+x -1 f -1 p -1 #SUP: 99
+x -1 f -1 s -1 #SUP: 156
+x -1 f -1 s -1 x -1 #SUP: 102
+e -1 x -1 #SUP: 442
+e -1 p -1 #SUP: 593
+e -1 p -1 x -1 #SUP: 552
+b -1 x -1 #SUP: 3679
+b -1 p -1 #SUP: 276
+b -1 p -1 x -1 #SUP: 170
+b -1 s -1 #SUP: 1373
+b -1 s -1 x -1 #SUP: 645
+b -1 s -1 p -1 #SUP: 635
+b -1 s -1 p -1 x -1 #SUP: 550
+b -1 f -1 #SUP: 159
+i -1 x -1 #SUP: 152
+i -1 e -1 #SUP: 122
+i -1 p -1 #SUP: 130
+p -1 x -1 #SUP: 2328
+p -1 e -1 #SUP: 98
+p -1 b -1 #SUP: 269
+p -1 b -1 x -1 #SUP: 133
+p -1 s -1 #SUP: 467
+p -1 s -1 x -1 #SUP: 246
+p -1 s -1 p -1 #SUP: 167
+p -1 s -1 p -1 x -1 #SUP: 128
+p -1 f -1 #SUP: 242
+p -1 f -1 s -1 #SUP: 100
+h -1 x -1 #SUP: 447
+h -1 b -1 #SUP: 684
+h -1 b -1 x -1 #SUP: 374
+h -1 b -1 s -1 #SUP: 206
+h -1 p -1 #SUP: 546
+h -1 p -1 b -1 #SUP: 151
+h -1 p -1 s -1 #SUP: 160
+h -1 p -1 f -1 #SUP: 140
+h -1 s -1 #SUP: 995
+h -1 s -1 x -1 #SUP: 583
+h -1 s -1 p -1 #SUP: 318
+h -1 s -1 p -1 x -1 #SUP: 275
+h -1 f -1 #SUP: 553
+h -1 f -1 p -1 #SUP: 153
+h -1 f -1 s -1 #SUP: 215
+h -1 f -1 s -1 x -1 #SUP: 117
+s -1 x -1 #SUP: 2487
+s -1 b -1 #SUP: 147
+s -1 p -1 #SUP: 1516
+s -1 p -1 x -1 #SUP: 1378
+s -1 f -1 #SUP: 169
+f -1 x -1 #SUP: 201
+f -1 b -1 #SUP: 231
+f -1 b -1 s -1 #SUP: 99
+f -1 p -1 #SUP: 367
+f -1 p -1 s -1 #SUP: 218
+f -1 p -1 s -1 x -1 #SUP: 102
+f -1 h -1 #SUP: 166
+f -1 s -1 #SUP: 591
+f -1 s -1 x -1 #SUP: 291
+f -1 s -1 p -1 #SUP: 250
+f -1 s -1 p -1 x -1 #SUP: 218
