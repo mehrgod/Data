@@ -1,0 +1,1 @@
+_e,_e+,_e+_,_S,_S+,_S+_,_Ss,_Ss_,_Ss+,_Ss+_,_E,_E+,_F,_F_,_FS,_FS_,_FSs,_F+,_F+S,_F+s,_F+f,_Fs,_Fs_,_Fs+,_Fs+_,_Ff,_Ff+,_Ffs,_Ffs_,_s,_s+,_s+_,_f,_f+,_fs,_fs_,e_,e+,e+_,S_,S+,S+_,Ss,Ss_,Ss+,Ss+_,Sf,E_,Ee,E+,F_,FS,FS_,FSs,F+,F+S,F+s,F+f,Fs,Fs_,Fs+,Fs+_,Ff,Ff+,Ffs,Ffs_,s_,sS,s+,s+_,sf,f_,fS,fSs,f+,f+s,f+s_,fF,fs,fs_,fs+,fs+_
