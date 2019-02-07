@@ -1,3 +1,18 @@
 self	0.339775036
 other1	0.549491375
 other2	0.494581574
+
+t-Test: Paired Two Sample for Means		
+		
+				Self		Other
+Mean			0.339775036	0.549491375
+Variance		0.052004424	0.013908481
+Observations	100			100
+Pearson Correlation				0.654647046	
+Hypothesized Mean Difference	0	
+df								99	
+t Stat							-11.96907012	
+P(T<=t) one-tail				2.98724E-21	
+t Critical one-tail				1.660391156	
+P(T<=t) two-tail				5.97447E-21	
+t Critical two-tail				1.984216952	
