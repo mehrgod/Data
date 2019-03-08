@@ -1,0 +1,76 @@
+x -1 b -1 x -1 #SUP: 939
+x -1 b -1 b -1 #SUP: 52
+x -1 b -1 s -1 #SUP: 293
+x -1 b -1 s -1 x -1 #SUP: 151
+x -1 b -1 s -1 s -1 #SUP: 124
+x -1 b -1 s -1 s -1 x -1 #SUP: 64
+x -1 b -1 s -1 s -1 s -1 #SUP: 50
+x -1 f -1 f -1 #SUP: 31
+x -1 f -1 s -1 #SUP: 53
+x -1 f -1 s -1 x -1 #SUP: 33
+x -1 s -1 x -1 #SUP: 228
+x -1 s -1 s -1 #SUP: 94
+x -1 s -1 s -1 x -1 #SUP: 54
+x -1 s -1 s -1 s -1 #SUP: 36
+x -1 h -1 x -1 #SUP: 129
+x -1 h -1 b -1 #SUP: 173
+x -1 h -1 b -1 x -1 #SUP: 88
+x -1 h -1 b -1 s -1 #SUP: 64
+x -1 h -1 f -1 #SUP: 149
+x -1 h -1 f -1 f -1 #SUP: 42
+x -1 h -1 f -1 s -1 #SUP: 60
+x -1 h -1 f -1 s -1 x -1 #SUP: 38
+x -1 h -1 s -1 #SUP: 272
+x -1 h -1 s -1 x -1 #SUP: 167
+x -1 h -1 s -1 s -1 #SUP: 89
+x -1 h -1 s -1 s -1 x -1 #SUP: 40
+x -1 h -1 s -1 s -1 s -1 #SUP: 40
+x -1 h -1 h -1 #SUP: 123
+x -1 h -1 h -1 s -1 #SUP: 33
+x -1 e -1 x -1 #SUP: 83
+x -1 e -1 e -1 #SUP: 153
+x -1 e -1 e -1 x -1 #SUP: 61
+x -1 e -1 e -1 e -1 #SUP: 86
+x -1 e -1 e -1 e -1 x -1 #SUP: 49
+x -1 e -1 e -1 e -1 e -1 #SUP: 36
+b -1 b -1 x -1 #SUP: 42
+b -1 s -1 x -1 #SUP: 225
+b -1 s -1 s -1 #SUP: 181
+b -1 s -1 s -1 x -1 #SUP: 87
+b -1 s -1 s -1 s -1 #SUP: 77
+b -1 s -1 s -1 s -1 x -1 #SUP: 36
+b -1 s -1 s -1 s -1 s -1 #SUP: 34
+f -1 b -1 x -1 #SUP: 43
+f -1 f -1 s -1 #SUP: 73
+f -1 f -1 s -1 x -1 #SUP: 40
+f -1 s -1 x -1 #SUP: 142
+f -1 s -1 s -1 #SUP: 87
+f -1 s -1 s -1 s -1 #SUP: 49
+s -1 b -1 x -1 #SUP: 31
+s -1 f -1 s -1 #SUP: 33
+s -1 s -1 x -1 #SUP: 407
+s -1 s -1 s -1 #SUP: 208
+s -1 s -1 s -1 x -1 #SUP: 185
+s -1 s -1 s -1 s -1 #SUP: 88
+s -1 s -1 s -1 s -1 x -1 #SUP: 79
+s -1 s -1 s -1 s -1 s -1 #SUP: 46
+s -1 s -1 s -1 s -1 s -1 x -1 #SUP: 42
+h -1 b -1 x -1 #SUP: 110
+h -1 b -1 s -1 #SUP: 79
+h -1 b -1 s -1 x -1 #SUP: 37
+h -1 b -1 s -1 s -1 #SUP: 33
+h -1 f -1 f -1 #SUP: 59
+h -1 f -1 s -1 #SUP: 79
+h -1 f -1 s -1 x -1 #SUP: 47
+h -1 s -1 x -1 #SUP: 202
+h -1 s -1 s -1 #SUP: 114
+h -1 s -1 s -1 x -1 #SUP: 52
+h -1 s -1 s -1 s -1 #SUP: 50
+h -1 h -1 b -1 #SUP: 35
+h -1 h -1 f -1 #SUP: 43
+h -1 h -1 s -1 #SUP: 40
+e -1 e -1 x -1 #SUP: 203
+e -1 e -1 e -1 #SUP: 104
+e -1 e -1 e -1 x -1 #SUP: 100
+e -1 e -1 e -1 e -1 #SUP: 40
+e -1 e -1 e -1 e -1 x -1 #SUP: 38

@@ -1,0 +1,93 @@
+x -1 b -1 x -1 #SUP: 804
+x -1 b -1 s -1 #SUP: 182
+x -1 b -1 s -1 x -1 #SUP: 74
+x -1 b -1 s -1 s -1 #SUP: 91
+x -1 b -1 s -1 s -1 x -1 #SUP: 39
+x -1 b -1 s -1 s -1 s -1 #SUP: 47
+x -1 b -1 s -1 s -1 s -1 s -1 #SUP: 29
+x -1 e -1 x -1 #SUP: 78
+x -1 e -1 e -1 #SUP: 109
+x -1 e -1 e -1 x -1 #SUP: 49
+x -1 e -1 e -1 e -1 #SUP: 54
+x -1 e -1 e -1 e -1 x -1 #SUP: 36
+x -1 f -1 f -1 #SUP: 45
+x -1 f -1 s -1 #SUP: 57
+x -1 f -1 s -1 x -1 #SUP: 36
+x -1 s -1 x -1 #SUP: 167
+x -1 s -1 s -1 #SUP: 41
+x -1 h -1 x -1 #SUP: 121
+x -1 h -1 b -1 #SUP: 184
+x -1 h -1 b -1 x -1 #SUP: 118
+x -1 h -1 b -1 s -1 #SUP: 46
+x -1 h -1 f -1 #SUP: 186
+x -1 h -1 f -1 f -1 #SUP: 52
+x -1 h -1 f -1 s -1 #SUP: 73
+x -1 h -1 f -1 s -1 x -1 #SUP: 44
+x -1 h -1 s -1 #SUP: 290
+x -1 h -1 s -1 x -1 #SUP: 168
+x -1 h -1 s -1 s -1 #SUP: 88
+x -1 h -1 s -1 s -1 x -1 #SUP: 44
+x -1 h -1 s -1 s -1 s -1 #SUP: 40
+x -1 h -1 h -1 #SUP: 141
+x -1 h -1 h -1 b -1 #SUP: 27
+x -1 h -1 h -1 f -1 #SUP: 29
+x -1 h -1 h -1 s -1 #SUP: 37
+x -1 h -1 h -1 h -1 #SUP: 27
+x -1 i -1 i -1 #SUP: 33
+b -1 b -1 x -1 #SUP: 27
+b -1 s -1 x -1 #SUP: 127
+b -1 s -1 s -1 #SUP: 141
+b -1 s -1 s -1 x -1 #SUP: 54
+b -1 s -1 s -1 s -1 #SUP: 76
+b -1 s -1 s -1 s -1 s -1 #SUP: 46
+e -1 e -1 x -1 #SUP: 157
+e -1 e -1 e -1 #SUP: 76
+e -1 e -1 e -1 x -1 #SUP: 76
+e -1 e -1 e -1 e -1 #SUP: 28
+e -1 e -1 e -1 e -1 x -1 #SUP: 28
+f -1 b -1 x -1 #SUP: 27
+f -1 b -1 s -1 #SUP: 28
+f -1 f -1 f -1 #SUP: 60
+f -1 f -1 f -1 f -1 #SUP: 33
+f -1 f -1 f -1 s -1 #SUP: 38
+f -1 f -1 s -1 #SUP: 87
+f -1 f -1 s -1 x -1 #SUP: 47
+f -1 s -1 x -1 #SUP: 157
+f -1 s -1 s -1 #SUP: 99
+f -1 s -1 s -1 x -1 #SUP: 38
+f -1 s -1 s -1 s -1 #SUP: 53
+f -1 s -1 s -1 s -1 s -1 #SUP: 29
+s -1 b -1 x -1 #SUP: 37
+s -1 f -1 s -1 #SUP: 44
+s -1 f -1 s -1 s -1 #SUP: 28
+s -1 s -1 x -1 #SUP: 335
+s -1 s -1 f -1 #SUP: 35
+s -1 s -1 s -1 #SUP: 193
+s -1 s -1 s -1 x -1 #SUP: 167
+s -1 s -1 s -1 s -1 #SUP: 112
+s -1 s -1 s -1 s -1 x -1 #SUP: 103
+s -1 s -1 s -1 s -1 s -1 #SUP: 57
+s -1 s -1 s -1 s -1 s -1 x -1 #SUP: 54
+h -1 b -1 x -1 #SUP: 144
+h -1 b -1 s -1 #SUP: 64
+h -1 b -1 s -1 x -1 #SUP: 28
+h -1 b -1 s -1 s -1 #SUP: 29
+h -1 f -1 b -1 #SUP: 28
+h -1 f -1 f -1 #SUP: 73
+h -1 f -1 f -1 f -1 #SUP: 33
+h -1 f -1 s -1 #SUP: 96
+h -1 f -1 s -1 x -1 #SUP: 56
+h -1 f -1 s -1 s -1 #SUP: 29
+h -1 f -1 h -1 #SUP: 32
+h -1 s -1 x -1 #SUP: 211
+h -1 s -1 s -1 #SUP: 111
+h -1 s -1 s -1 x -1 #SUP: 53
+h -1 s -1 s -1 s -1 #SUP: 51
+h -1 s -1 s -1 s -1 s -1 #SUP: 30
+h -1 h -1 b -1 #SUP: 37
+h -1 h -1 f -1 #SUP: 42
+h -1 h -1 s -1 #SUP: 46
+h -1 h -1 s -1 x -1 #SUP: 30
+h -1 h -1 h -1 #SUP: 30
+i -1 e -1 x -1 #SUP: 27
+i -1 i -1 x -1 #SUP: 29
