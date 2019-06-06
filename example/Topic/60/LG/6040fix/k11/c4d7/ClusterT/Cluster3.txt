@@ -1,0 +1,14 @@
+ss_	2
+_Ss	2
+_Fs	0
+sss	0
+Ss_	1
+Fs_	2
+sss_	0
+Sss	0
+_FS	2
+ee_	2
+_Fs_	2
+_Ff	2
+_FF	2
+_Sss	2
